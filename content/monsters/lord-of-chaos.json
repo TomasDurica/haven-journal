@@ -1,0 +1,143 @@
+{
+  "name": "Lord of Chaos",
+  "catchable": false,
+  "flying": false,
+  "boss": {
+    "0": {
+      "health": "Cx25",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "1": {
+      "health": "Cx30",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "2": {
+      "health": "Cx35",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 5,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "3": {
+      "health": "Cx43",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 5,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "4": {
+      "health": "Cx50",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 6,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "5": {
+      "health": "Cx60",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 6,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "6": {
+      "health": "Cx79",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 7,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "7": {
+      "health": "Cx99",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 8,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    }
+  }
+}

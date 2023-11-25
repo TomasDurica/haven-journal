@@ -1,0 +1,169 @@
+{
+  "name": "Chaos Lieutenant",
+  "catchable": false,
+  "flying": false,
+  "boss": {
+    "0": {
+      "health": 10,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "1": {
+      "health": 12,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "2": {
+      "health": 14,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "3": {
+      "health": 18,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "4": {
+      "health": 21,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 6,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "5": {
+      "health": 26,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 6,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "6": {
+      "health": 33,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 8,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "7": {
+      "health": 39,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 6,
+      "attack": 9,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    }
+  }
+}

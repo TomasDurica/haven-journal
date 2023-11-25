@@ -1,0 +1,151 @@
+{
+  "name": "Fracture of the Deep",
+  "catchable": false,
+  "flying": false,
+  "boss": {
+    "0": {
+      "health": 20,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "1": {
+      "health": 25,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "2": {
+      "health": 30,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 5,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "3": {
+      "health": 36,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 6,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "4": {
+      "health": 42,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 7,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "5": {
+      "health": 50,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 7,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "6": {
+      "health": 70,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 8,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "7": {
+      "health": 90,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 9,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    }
+  }
+}

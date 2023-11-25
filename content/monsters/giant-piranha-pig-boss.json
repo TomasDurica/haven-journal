@@ -1,0 +1,103 @@
+{
+  "name": "Extra Boss Deck #83",
+  "catchable": false,
+  "flying": false,
+  "boss": {
+    "0": {
+      "health": 0,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 0,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 0,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 0,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": 0,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 0,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": 0,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 0,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "4": {
+      "health": 0,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 0,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "5": {
+      "health": 0,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 0,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "6": {
+      "health": 0,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 0,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "7": {
+      "health": 0,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 0,
+      "attackModifiers": [],
+      "immunities": []
+    }
+  }
+}

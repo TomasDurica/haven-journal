@@ -1,0 +1,143 @@
+{
+  "name": "The Shimmer",
+  "catchable": false,
+  "flying": false,
+  "boss": {
+    "0": {
+      "health": "12xC",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "pierce",
+          "value": 3
+        }
+      ],
+      "immunities": []
+    },
+    "1": {
+      "health": "12xC",
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "pierce",
+          "value": 3
+        }
+      ],
+      "immunities": []
+    },
+    "2": {
+      "health": "15xC",
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "pierce",
+          "value": 3
+        }
+      ],
+      "immunities": []
+    },
+    "3": {
+      "health": "17xC",
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "pierce",
+          "value": 3
+        }
+      ],
+      "immunities": []
+    },
+    "4": {
+      "health": "17xC",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "pierce",
+          "value": 3
+        }
+      ],
+      "immunities": []
+    },
+    "5": {
+      "health": "20xC",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "pierce",
+          "value": 3
+        }
+      ],
+      "immunities": []
+    },
+    "6": {
+      "health": "26xC",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 6,
+      "attackModifiers": [
+        {
+          "type": "pierce",
+          "value": 3
+        }
+      ],
+      "immunities": []
+    },
+    "7": {
+      "health": "33xC",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 7,
+      "attackModifiers": [
+        {
+          "type": "pierce",
+          "value": 3
+        }
+      ],
+      "immunities": []
+    }
+  }
+}

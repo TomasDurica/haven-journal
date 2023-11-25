@@ -1,0 +1,201 @@
+{
+  "name": "Guard Captain",
+  "catchable": false,
+  "flying": false,
+  "normal": {
+    "0": {
+      "health": 5,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 5,
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": 7,
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": 8,
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "4": {
+      "health": 9,
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "5": {
+      "health": 10,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "6": {
+      "health": 10,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "7": {
+      "health": 10,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    }
+  },
+  "elite": {
+    "0": {
+      "health": 6,
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 6,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": 9,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": 9,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 1
+      },
+      "movement": 2,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "4": {
+      "health": 10,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 2
+      },
+      "movement": 3,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "5": {
+      "health": 13,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 2
+      },
+      "movement": 3,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "6": {
+      "health": 13,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 2
+      },
+      "movement": 3,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "7": {
+      "health": 13,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 2
+      },
+      "movement": 3,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "name": "Brother",
+  "catchable": false,
+  "flying": false,
+  "boss": {
+    "0": {
+      "health": "2xC",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": "3xC",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": "4xC",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": "5xC",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "4": {
+      "health": "6xC",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "5": {
+      "health": "7xC",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "6": {
+      "health": "8xC",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "7": {
+      "health": "9xC",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    }
+  }
+}

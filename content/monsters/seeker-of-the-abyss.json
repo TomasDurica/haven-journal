@@ -1,0 +1,191 @@
+{
+  "name": "Seeker of the Abyss",
+  "catchable": false,
+  "flying": false,
+  "boss": {
+    "0": {
+      "health": "Cx13",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "target",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "poison",
+        "disarm",
+        "stun",
+        "muddle",
+        "curse"
+      ]
+    },
+    "1": {
+      "health": "Cx16",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 6,
+      "attackModifiers": [
+        {
+          "type": "target",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "poison",
+        "disarm",
+        "stun",
+        "muddle",
+        "curse"
+      ]
+    },
+    "2": {
+      "health": "Cx18",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 7,
+      "attackModifiers": [
+        {
+          "type": "target",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "poison",
+        "disarm",
+        "stun",
+        "muddle",
+        "curse"
+      ]
+    },
+    "3": {
+      "health": "Cx21",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 8,
+      "attackModifiers": [
+        {
+          "type": "target",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "poison",
+        "disarm",
+        "stun",
+        "muddle",
+        "curse"
+      ]
+    },
+    "4": {
+      "health": "Cx24",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 9,
+      "attackModifiers": [
+        {
+          "type": "target",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "poison",
+        "disarm",
+        "stun",
+        "muddle",
+        "curse"
+      ]
+    },
+    "5": {
+      "health": "Cx27",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 10,
+      "attackModifiers": [
+        {
+          "type": "target",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "poison",
+        "disarm",
+        "stun",
+        "muddle",
+        "curse"
+      ]
+    },
+    "6": {
+      "health": "Cx37",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 11,
+      "attackModifiers": [
+        {
+          "type": "target",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "poison",
+        "disarm",
+        "stun",
+        "muddle",
+        "curse"
+      ]
+    },
+    "7": {
+      "health": "Cx48",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 12,
+      "attackModifiers": [
+        {
+          "type": "target",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "poison",
+        "disarm",
+        "stun",
+        "muddle",
+        "curse"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1706 @@
+[
+  {
+    "number": null,
+    "slug": "all",
+    "link": "All",
+    "name": "All monsters",
+    "complexity": null,
+    "monsters": [
+      "abael-herder",
+      "abael-scout",
+      "algox-archer",
+      "algox-guard",
+      "algox-icespeaker",
+      "algox-priest",
+      "algox-scout",
+      "algox-snowspeaker",
+      "algox-stormcaller",
+      "ancient-artillery",
+      "black-imp",
+      "burrowing-blade",
+      "chaos-demon",
+      "chaos-lieutenant",
+      "city-guard",
+      "deep-terror",
+      "earth-demon",
+      "elder-ooze",
+      "flame-demon",
+      "flaming-bladespinner",
+      "forest-imp",
+      "fracture-of-the-deep",
+      "frost-demon",
+      "frozen-corpse",
+      "giant-piranha-pig",
+      "guard-captain",
+      "harbinger-of-shadow",
+      "harrower-infester",
+      "hound",
+      "ice-wraith",
+      "lightning-eel",
+      "living-bones",
+      "living-doom",
+      "living-spirit",
+      "lord-of-chaos",
+      "lurker-clawcrusher",
+      "lurker-mindsnipper",
+      "lurker-soldier",
+      "lurker-wavethrower",
+      "night-demon",
+      "ooze",
+      "orphan",
+      "piranha-pig",
+      "polar-bear",
+      "program-director",
+      "render",
+      "rending-drake",
+      "robotic-boltshooter",
+      "ruined-machine",
+      "savvas-icestorm",
+      "savvas-lavaflow",
+      "scabwit",
+      "seeker-of-the-abyss",
+      "shrike-fiend",
+      "snow-imp",
+      "spitting-drake",
+      "steel-automaton",
+      "sun-demon",
+      "the-relic",
+      "tormentor",
+      "vermling-priest",
+      "vermling-scout",
+      "wind-demon",
+      "yoglang"
+    ]
+  },
+  {
+    "number": 0,
+    "slug": "0",
+    "link": "0",
+    "name": "Howling in the Snow",
+    "complexity": 1,
+    "monsters": [
+
+    ]
+  },
+  {
+    "number": 1,
+    "slug": "1",
+    "link": "1",
+    "name": "A Town in Flames",
+    "complexity": 1,
+    "monsters": [
+      "algox-archer",
+      "algox-guard",
+      "algox-priest"
+    ]
+  },
+  {
+    "number": 2,
+    "slug": "2",
+    "link": "2",
+    "name": "Algox Scouting",
+    "complexity": 1,
+    "monsters": [
+      "algox-archer",
+      "algox-guard"
+    ]
+  },
+  {
+    "number": 3,
+    "slug": "3",
+    "link": "3",
+    "name": "Algox Offensive",
+    "complexity": 2,
+    "monsters": [
+      "algox-archer",
+      "algox-guard",
+      "algox-priest",
+      "hound"
+    ]
+  },
+  {
+    "number": 4,
+    "slug": "4A",
+    "link": "4A",
+    "name": "Heart of Ice A",
+    "complexity": 2,
+    "monsters": [
+      "algox-guard",
+      "algox-scout"
+    ]
+  },
+  {
+    "number": 4,
+    "slug": "4B",
+    "link": "4B",
+    "name": "Heart of Ice B",
+    "complexity": 2,
+    "monsters": [
+      "algox-archer",
+      "algox-guard"
+    ]
+  },
+  {
+    "number": 5,
+    "slug": "5",
+    "link": "5",
+    "name": "Frozen Crypt",
+    "complexity": 2,
+    "monsters": [
+      "ice-wraith"
+    ]
+  },
+  {
+    "number": 6,
+    "slug": "6",
+    "link": "6",
+    "name": "Avalanche",
+    "complexity": 2,
+    "monsters": [
+      "frost-demon",
+      "snow-imp"
+    ]
+  },
+  {
+    "number": 7,
+    "slug": "7",
+    "link": "7",
+    "name": "Edge of the World",
+    "complexity": 1,
+    "monsters": [
+      "lurker-clawcrusher",
+      "lurker-soldier"
+    ]
+  },
+  {
+    "number": 8,
+    "slug": "8",
+    "link": "8",
+    "name": "Crystal Trench",
+    "complexity": 1,
+    "monsters": [
+      "polar-bear",
+      "snow-imp"
+    ]
+  },
+  {
+    "number": 9,
+    "slug": "9",
+    "link": "9",
+    "name": "Glowing Catacombs",
+    "complexity": 1,
+    "monsters": [
+      "ice-wraith",
+      "living-doom",
+      "living-spirit",
+      "ooze"
+    ]
+  },
+  {
+    "number": 10,
+    "slug": "10",
+    "link": "10",
+    "name": "Crystal Enclosure",
+    "complexity": 2,
+    "monsters": [
+      "algox-guard",
+      "algox-priest"
+    ]
+  },
+  {
+    "number": 11,
+    "slug": "11",
+    "link": "11",
+    "name": "Snowscorn Peak",
+    "complexity": 2,
+    "monsters": [
+      "algox-stormcaller",
+      "frost-demon",
+      "wind-demon"
+    ]
+  },
+  {
+    "number": 12,
+    "slug": "12",
+    "link": "12",
+    "name": "Temple Entrance",
+    "complexity": 1,
+    "monsters": [
+      "ancient-artillery"
+    ]
+  },
+  {
+    "number": 13,
+    "slug": "13",
+    "link": "13",
+    "name": "Frozen Fjord",
+    "complexity": 2,
+    "monsters": [
+      "shrike-fiend"
+    ]
+  },
+  {
+    "number": 14,
+    "slug": "14",
+    "link": "14",
+    "name": "Jagged Shoals",
+    "complexity": 2,
+    "monsters": [
+      "abael-herder",
+      "lightning-eel",
+      "piranha-pig"
+    ]
+  },
+  {
+    "number": 15,
+    "slug": "15",
+    "link": "15",
+    "name": "Ancient Spire",
+    "complexity": 2,
+    "monsters": [
+      "chaos-lieutenant",
+      "robotic-boltshooter",
+      "ruined-machine"
+    ]
+  },
+  {
+    "number": 16,
+    "slug": "16",
+    "link": "16",
+    "name": "Derelict Elevator",
+    "complexity": 3,
+    "monsters": [
+      "ancient-artillery",
+      "ruined-machine"
+    ]
+  },
+  {
+    "number": 17,
+    "slug": "17",
+    "link": "17",
+    "name": "Haunted Vault",
+    "complexity": 3,
+    "monsters": []
+  },
+  {
+    "number": 18,
+    "slug": "18",
+    "link": "18",
+    "name": "Crystal Fields",
+    "complexity": 1,
+    "monsters": [
+      "frozen-corpse"
+    ]
+  },
+  {
+    "number": 19,
+    "slug": "19",
+    "link": "19",
+    "name": "Skyhall",
+    "complexity": 3,
+    "monsters": [
+      "earth-demon",
+      "flame-demon",
+      "ice-wraith"
+    ]
+  },
+  {
+    "number": 20,
+    "slug": "20",
+    "link": "20",
+    "name": "Temple of Liberation",
+    "complexity": 3,
+    "monsters": [
+      "flaming-bladespinner",
+      "ruined-machine",
+      "steel-automaton"
+    ]
+  },
+  {
+    "number": 21,
+    "slug": "21",
+    "link": "21",
+    "name": "Realm of Endless Frost",
+    "complexity": 3,
+    "monsters": [
+      "frost-demon",
+      "living-spirit",
+      "snow-imp"
+    ]
+  },
+  {
+    "number": 22,
+    "slug": "22",
+    "link": "22",
+    "name": "Ice Floes",
+    "complexity": 2,
+    "monsters": [
+      "lurker-clawcrusher",
+      "lurker-wavethrower"
+    ]
+  },
+  {
+    "number": 23,
+    "slug": "23",
+    "link": "23",
+    "name": "Spire Basement",
+    "complexity": 1,
+    "monsters": [
+      "living-bones",
+      "living-spirit"
+    ]
+  },
+  {
+    "number": 24,
+    "slug": "24",
+    "link": "24",
+    "name": "Upper Spire",
+    "complexity": 2,
+    "monsters": [
+      "chaos-demon",
+      "living-bones"
+    ]
+  },
+  {
+    "number": 25,
+    "slug": "25",
+    "link": "25",
+    "name": "Rusted Tunnels",
+    "complexity": 2,
+    "monsters": [
+      "flaming-bladespinner",
+      "robotic-boltshooter"
+    ]
+  },
+  {
+    "number": 26,
+    "slug": "26",
+    "link": "26",
+    "name": "Quatryl Library",
+    "complexity": 2,
+    "monsters": [
+      "ancient-artillery",
+      "ruined-machine",
+      "steel-automaton"
+    ]
+  },
+  {
+    "number": 27,
+    "slug": "27",
+    "link": "27",
+    "name": "Depths of Delirium",
+    "complexity": 2,
+    "monsters": [
+      "deep-terror",
+      "living-bones",
+      "ooze"
+    ]
+  },
+  {
+    "number": 28,
+    "slug": "28",
+    "link": "28",
+    "name": "Summit Meeting",
+    "complexity": 3,
+    "monsters": [
+      "algox-archer",
+      "algox-guard",
+      "algox-icespeaker",
+      "algox-snowspeaker"
+    ]
+  },
+  {
+    "number": 29,
+    "slug": "29",
+    "link": "29",
+    "name": "War of the Spire A",
+    "complexity": 2,
+    "monsters": [
+      "algox-icespeaker",
+      "algox-priest",
+      "algox-scout"
+    ]
+  },
+  {
+    "number": 30,
+    "slug": "30",
+    "link": "30",
+    "name": "War of the Spire B",
+    "complexity": 2,
+    "monsters": [
+      "algox-archer",
+      "algox-guard",
+      "algox-icespeaker",
+      "algox-scout",
+      "algox-snowspeaker"
+    ]
+  },
+  {
+    "number": 31,
+    "slug": "31",
+    "link": "31",
+    "name": "Crackling Tunnel",
+    "complexity": 2,
+    "monsters": [
+      "flaming-bladespinner",
+      "steel-automaton"
+    ]
+  },
+  {
+    "number": 32,
+    "slug": "32",
+    "link": "32",
+    "name": "Ravens' Roost",
+    "complexity": 2,
+    "monsters": [
+    ]
+  },
+  {
+    "number": 33,
+    "slug": "33",
+    "link": "33",
+    "name": "Thawed Wood",
+    "complexity": 3,
+    "monsters": [
+      "black-imp",
+      "shrike-fiend"
+    ]
+  },
+  {
+    "number": 34,
+    "slug": "34",
+    "link": "34",
+    "name": "Top of the Spire",
+    "complexity": 2,
+    "monsters": [
+      "lord-of-chaos"
+    ]
+  },
+  {
+    "number": 35,
+    "slug": "35",
+    "link": "35",
+    "name": "Scrap Pit",
+    "complexity": 2,
+    "monsters": [
+      "living-bones",
+      "ruined-machine",
+      "spitting-drake"
+    ]
+  },
+  {
+    "number": 36,
+    "slug": "36",
+    "link": "36",
+    "name": "Buried Ducts",
+    "complexity": 1,
+    "monsters": [
+      "flaming-bladespinner",
+      "robotic-boltshooter",
+      "ruined-machine"
+    ]
+  },
+  {
+    "number": 37,
+    "slug": "37",
+    "link": "37",
+    "name": "The Dead Mile",
+    "complexity": 1,
+    "monsters": [
+      "living-bones",
+      "living-spirit"
+    ]
+  },
+  {
+    "number": 38,
+    "slug": "38",
+    "link": "38",
+    "name": "The Way Forward",
+    "complexity": 3,
+    "monsters": [
+      "hound",
+      "polar-bear"
+    ]
+  },
+  {
+    "number": 39,
+    "slug": "39",
+    "link": "39",
+    "name": "Corrupted Camp",
+    "complexity": 3,
+    "monsters": [
+      "algox-guard",
+      "algox-scout",
+      "black-imp",
+      "frozen-corpse"
+    ]
+  },
+  {
+    "number": 40,
+    "slug": "40",
+    "link": "40",
+    "name": "Relief Effort",
+    "complexity": 2,
+    "monsters": [
+      "algox-guard",
+      "ruined-machine",
+      "steel-automaton"
+    ]
+  },
+  {
+    "number": 41,
+    "slug": "41",
+    "link": "41",
+    "name": "Unfettered Shard",
+    "complexity": 2,
+    "monsters": [
+      "deep-terror",
+      "living-doom",
+      "living-spirit"
+    ]
+  },
+  {
+    "number": 42,
+    "slug": "42",
+    "link": "42",
+    "name": "Sunless Trench",
+    "complexity": 1,
+    "monsters": [
+      "deep-terror",
+      "ooze"
+    ]
+  },
+  {
+    "number": 43,
+    "slug": "43",
+    "link": "43",
+    "name": "Overrun Barricade",
+    "complexity": 3,
+    "monsters": [
+      "robotic-boltshooter",
+      "ruined-machine",
+      "steel-automaton"
+    ]
+  },
+  {
+    "number": 44,
+    "slug": "44",
+    "link": "44",
+    "name": "Nerve Center",
+    "complexity": 2,
+    "monsters": [
+      "flaming-bladespinner"
+    ]
+  },
+  {
+    "number": 45,
+    "slug": "45",
+    "link": "45",
+    "name": "Living Glacier",
+    "complexity": 1,
+    "monsters": [
+      "abael-herder",
+      "abael-scout",
+      "lightning-eel",
+      "piranha-pig"
+    ]
+  },
+  {
+    "number": 46,
+    "slug": "46",
+    "link": "46",
+    "name": "Dead Pass",
+    "complexity": 2,
+    "monsters": [
+      "burrowing-blade",
+      "shrike-fiend"
+    ]
+  },
+  {
+    "number": 47,
+    "slug": "47",
+    "link": "47",
+    "name": "Carrion Ridge",
+    "complexity": 1,
+    "monsters": [
+      "algox-icespeaker",
+      "shrike-fiend"
+    ]
+  },
+  {
+    "number": 48,
+    "slug": "48",
+    "link": "48",
+    "name": "Blizzard Island",
+    "complexity": 2,
+    "monsters": [
+      "abael-scout",
+      "wind-demon"
+    ]
+  },
+  {
+    "number": 49,
+    "slug": "49",
+    "link": "49",
+    "name": "Beneath Sea and Stone",
+    "complexity": 3,
+    "monsters": [
+      "deep-terror"
+    ]
+  },
+  {
+    "number": 50,
+    "slug": "50",
+    "link": "50",
+    "name": "Explosive Descent",
+    "complexity": 2,
+    "monsters": [
+      "lightning-eel",
+      "lurker-clawcrusher",
+      "lurker-mindsnipper",
+      "lurker-wavethrower"
+    ]
+  },
+  {
+    "number": 51,
+    "slug": "51",
+    "link": "51",
+    "name": "Orphan's Halls",
+    "complexity": 3,
+    "monsters": [
+      "ancient-artillery",
+      "steel-automaton"
+    ]
+  },
+  {
+    "number": 52,
+    "slug": "52",
+    "link": "52",
+    "name": "Fleeting Permanence",
+    "complexity": 2,
+    "monsters": [
+      "frost-demon",
+      "snow-imp"
+    ]
+  },
+  {
+    "number": 53,
+    "slug": "53",
+    "link": "53",
+    "name": "Underwater Throne",
+    "complexity": 2,
+    "monsters": [
+      "lurker-clawcrusher",
+      "lurker-mindsnipper",
+      "lurker-soldier",
+      "seeker-of-the-abyss"
+    ]
+  },
+  {
+    "number": 54,
+    "slug": "54",
+    "link": "54",
+    "name": "Among the Wreckage",
+    "complexity": 2,
+    "monsters": [
+      "lightning-eel",
+      "lurker-clawcrusher",
+      "lurker-mindsnipper",
+      "lurker-soldier",
+      "lurker-wavethrower"
+    ]
+  },
+  {
+    "number": 55,
+    "slug": "55",
+    "link": "55",
+    "name": "Change of Heart",
+    "complexity": 2,
+    "monsters": [
+      "algox-archer",
+      "algox-guard",
+      "algox-priest"
+    ]
+  },
+  {
+    "number": 56,
+    "slug": "56",
+    "link": "56",
+    "name": "Call of the Harbinger",
+    "complexity": 3,
+    "monsters": [
+      "black-imp",
+      "harbinger-of-shadow",
+      "harrower-infester"
+    ]
+  },
+  {
+    "number": 57,
+    "slug": "57",
+    "link": "57",
+    "name": "Sanctuary of Snow",
+    "complexity": 3,
+    "monsters": [
+      "render",
+      "wind-demon"
+    ]
+  },
+  {
+    "number": 58,
+    "slug": "58",
+    "link": "58",
+    "name": "Orphan's Core",
+    "complexity": 3,
+    "monsters": [
+      "flaming-bladespinner",
+      "orphan",
+      "steel-automaton"
+    ]
+  },
+  {
+    "number": 59,
+    "slug": "59",
+    "link": "59",
+    "name": "Automaton Uprising",
+    "complexity": 2,
+    "monsters": [
+      "flaming-bladespinner",
+      "robotic-boltshooter",
+      "ruined-machine"
+    ]
+  },
+  {
+    "number": 60,
+    "slug": "60",
+    "link": "60",
+    "name": "Uniting the Crown",
+    "complexity": 2,
+    "monsters": [
+      "fracture-of-the-deep",
+      "lightning-eel",
+      "lurker-clawcrusher",
+      "lurker-mindsnipper",
+      "lurker-wavethrower"
+    ]
+  },
+  {
+    "number": 61,
+    "slug": "61",
+    "link": "61",
+    "name": "Life and Death",
+    "complexity": 2,
+    "monsters": [
+      "deep-terror",
+      "harrower-infester"
+    ]
+  },
+  {
+    "number": 62,
+    "slug": "62",
+    "link": "62",
+    "name": "The Unfettered Seal",
+    "complexity": 3,
+    "monsters": [
+      "black-imp",
+      "chaos-demon",
+      "harrower-infester"
+    ]
+  },
+  {
+    "number": 63,
+    "slug": "63",
+    "link": "63",
+    "name": "The Savvas Seal",
+    "complexity": 3,
+    "monsters": [
+      "earth-demon",
+      "flame-demon",
+      "frost-demon",
+      "savvas-icestorm",
+      "savvas-lavaflow",
+      "wind-demon"
+    ]
+  },
+  {
+    "number": 64,
+    "slug": "64",
+    "link": "64",
+    "name": "The Frosthaven Seal",
+    "complexity": 3,
+    "monsters": [
+      "burrowing-blade",
+      "guard-captain",
+      "living-doom",
+      "living-spirit",
+      "shrike-fiend"
+    ]
+  },
+  {
+    "number": 65,
+    "slug": "65",
+    "link": "65",
+    "name": "A Strong Foundation",
+    "complexity": 1,
+    "monsters": [
+    ]
+  },
+  {
+    "number": 66,
+    "slug": "66",
+    "link": "66",
+    "name": "Elemental Cores",
+    "complexity": 2,
+    "monsters": []
+  },
+  {
+    "number": 67,
+    "slug": "67",
+    "link": "67",
+    "name": "Core Attunement",
+    "complexity": 2,
+    "monsters": [
+      "chaos-demon",
+      "earth-demon",
+      "flame-demon",
+      "frost-demon",
+      "night-demon",
+      "sun-demon",
+      "wind-demon"
+    ]
+  },
+  {
+    "number": 68,
+    "slug": "68",
+    "link": "68",
+    "name": "The Face of Torment",
+    "complexity": 2,
+    "monsters": [
+      "chaos-demon",
+      "earth-demon",
+      "flame-demon",
+      "frost-demon",
+      "night-demon",
+      "sun-demon",
+      "tormentor",
+      "wind-demon"
+    ]
+  },
+  {
+    "number": 69,
+    "slug": "69",
+    "link": "69",
+    "name": "Sacred Soil",
+    "complexity": 2,
+    "monsters": [
+      "earth-demon",
+      "forest-imp",
+      "rending-drake"
+    ]
+  },
+  {
+    "number": 70,
+    "slug": "70",
+    "link": "70",
+    "name": "The True Oak",
+    "complexity": 1,
+    "monsters": [
+      "city-guard",
+      "hound"
+    ]
+  },
+  {
+    "number": 71,
+    "slug": "71",
+    "link": "71",
+    "name": "Invasion of the Dock",
+    "complexity": 3,
+    "monsters": [
+      "abael-scout",
+      "piranha-pig"
+    ]
+  },
+  {
+    "number": 72,
+    "slug": "72",
+    "link": "72",
+    "name": "A Giant Block of Ice",
+    "complexity": 2,
+    "monsters": [
+      "ice-wraith"
+    ]
+  },
+  {
+    "number": 73,
+    "slug": "73",
+    "link": "73",
+    "name": "Flotsam",
+    "complexity": 2,
+    "monsters": [
+      "lightning-eel",
+      "piranha-pig"
+    ]
+  },
+  {
+    "number": 74,
+    "slug": "74A",
+    "link": "74A",
+    "name": "Gaps in the Road A",
+    "complexity": 2,
+    "monsters": [
+      "algox-archer",
+      "piranha-pig"
+    ]
+  },
+  {
+    "number": 74,
+    "slug": "74B",
+    "link": "74B",
+    "name": "Gaps in the Road B",
+    "complexity": 2,
+    "monsters": [
+      "algox-archer"
+    ]
+  },
+  {
+    "number": 75,
+    "slug": "75",
+    "link": "75",
+    "name": "Infiltrating the Lair",
+    "complexity": 2,
+    "monsters": [
+      "abael-herder",
+      "lightning-eel",
+      "piranha-pig"
+    ]
+  },
+  {
+    "number": 76,
+    "slug": "76",
+    "link": "76",
+    "name": "Apotheosis",
+    "complexity": 3,
+    "monsters": [
+      "algox-archer",
+      "algox-guard",
+      "lurker-mindsnipper",
+      "piranha-pig"
+    ]
+  },
+  {
+    "number": 77,
+    "slug": "77",
+    "link": "77",
+    "name": "Fish King's Ascension",
+    "complexity": 3,
+    "monsters": [
+      "piranha-pig"
+    ]
+  },
+  {
+    "number": 78,
+    "slug": "78",
+    "link": "78",
+    "name": "The Lurker Problem",
+    "complexity": 2,
+    "monsters": [
+      "lurker-soldier",
+      "lurker-wavethrower",
+      "piranha-pig"
+    ]
+  },
+  {
+    "number": 79,
+    "slug": "79",
+    "link": "79",
+    "name": "Relic",
+    "complexity": 3,
+    "monsters": [
+      "ice-wraith",
+      "snow-imp"
+    ]
+  },
+  {
+    "number": 80,
+    "slug": "80",
+    "link": "80",
+    "name": "Relic Renewed",
+    "complexity": 2,
+    "monsters": [
+      "robotic-boltshooter",
+      "ruined-machine",
+      "steel-automaton",
+      "the-relic"
+    ]
+  },
+  {
+    "number": 81,
+    "slug": "81",
+    "link": "81",
+    "name": "Ruinous Research Lab",
+    "complexity": 3,
+    "monsters": [
+      "ancient-artillery",
+      "ruined-machine",
+      "steel-automaton"
+    ]
+  },
+  {
+    "number": 82,
+    "slug": "82",
+    "link": "82",
+    "name": "Expedition North",
+    "complexity": 2,
+    "monsters": [
+      "frost-demon",
+      "wind-demon"
+    ]
+  },
+  {
+    "number": 83,
+    "slug": "83",
+    "link": "83",
+    "name": "Rising Brine",
+    "complexity": 2,
+    "monsters": [
+      "ancient-artillery",
+      "giant-piranha-pig",
+      "lurker-mindsnipper",
+      "piranha-pig"
+    ]
+  },
+  {
+    "number": 84,
+    "slug": "84",
+    "link": "84",
+    "name": "Here There Be Oozes",
+    "complexity": 3,
+    "monsters": [
+      "elder-ooze",
+      "ooze"
+    ]
+  },
+  {
+    "number": 85,
+    "slug": "85",
+    "link": "85",
+    "name": "Deadly Pastimes",
+    "complexity": 3,
+    "monsters": [
+      "burrowing-blade",
+      "polar-bear"
+    ]
+  },
+  {
+    "number": 86,
+    "slug": "86",
+    "link": "86",
+    "name": "The Lady in White",
+    "complexity": 2,
+    "monsters": [
+      "black-imp",
+      "earth-demon",
+      "ice-wraith"
+    ]
+  },
+  {
+    "number": 87,
+    "slug": "87",
+    "link": "87",
+    "name": "The Collection",
+    "complexity": 1,
+    "monsters": [
+      "algox-archer",
+      "algox-guard"
+    ]
+  },
+  {
+    "number": 88,
+    "slug": "88",
+    "link": "88",
+    "name": "Collection's Capstone",
+    "complexity": 2,
+    "monsters": [
+      "earth-demon",
+      "flame-demon",
+      "frost-demon",
+      "savvas-icestorm",
+      "savvas-lavaflow",
+      "wind-demon"
+    ]
+  },
+  {
+    "number": 89,
+    "slug": "89",
+    "link": "89",
+    "name": "A Contained Fire",
+    "complexity": 2,
+    "monsters": [
+      "algox-guard"
+    ]
+  },
+  {
+    "number": 90,
+    "slug": "90",
+    "link": "90",
+    "name": "Frozen Treasure",
+    "complexity": 2,
+    "monsters": [
+      "frozen-corpse",
+      "ice-wraith",
+      "polar-bear",
+      "snow-imp"
+    ]
+  },
+  {
+    "number": 91,
+    "slug": "91",
+    "link": "91",
+    "name": "Shoreline Scramble",
+    "complexity": 2,
+    "monsters": [
+      "lightning-eel",
+      "lurker-clawcrusher",
+      "lurker-mindsnipper",
+      "lurker-wavethrower"
+    ]
+  },
+  {
+    "number": 92,
+    "slug": "92",
+    "link": "92",
+    "name": "Sinking Ship",
+    "complexity": 3,
+    "monsters": [
+      "lurker-clawcrusher",
+      "lurker-mindsnipper",
+      "lurker-soldier",
+      "lurker-wavethrower"
+    ]
+  },
+  {
+    "number": 93,
+    "slug": "93A",
+    "link": "93A",
+    "name": "Midwinter Brawl A",
+    "complexity": 2,
+    "monsters": [
+      "algox-archer",
+      "algox-guard",
+      "algox-scout",
+      "scabwit",
+      "yoglang"
+    ]
+  },
+  {
+    "number": 93,
+    "slug": "93B",
+    "link": "93B",
+    "name": "Midwinter Brawl B",
+    "complexity": 2,
+    "monsters": [
+      "hound",
+      "polar-bear",
+      "scabwit",
+      "vermling-scout",
+      "yoglang"
+    ]
+  },
+  {
+    "number": 94,
+    "slug": "94",
+    "link": "94",
+    "name": "A Grand View",
+    "complexity": 3,
+    "monsters": [
+      "ancient-artillery",
+      "ruined-machine"
+    ]
+  },
+  {
+    "number": 95,
+    "slug": "95",
+    "link": "95",
+    "name": "To Bury the Dead",
+    "complexity": 2,
+    "monsters": [
+      "ice-wraith"
+    ]
+  },
+  {
+    "number": 96,
+    "slug": "96",
+    "link": "96",
+    "name": "Underground Station",
+    "complexity": 2,
+    "monsters": [
+      "ancient-artillery",
+      "rending-drake"
+    ]
+  },
+  {
+    "number": 97,
+    "slug": "97",
+    "link": "97",
+    "name": "Program Control Nexus",
+    "complexity": 3,
+    "monsters": [
+      "flaming-bladespinner",
+      "program-director",
+      "robotic-boltshooter",
+      "ruined-machine",
+      "steel-automaton"
+    ]
+  },
+  {
+    "number": 98,
+    "slug": "98",
+    "link": "98",
+    "name": "Collapsing Vent",
+    "complexity": 1,
+    "monsters": [
+      "ancient-artillery",
+      "black-imp",
+      "spitting-drake"
+    ]
+  },
+  {
+    "number": 99,
+    "slug": "99",
+    "link": "99",
+    "name": "Prison Break",
+    "complexity": 1,
+    "monsters": [
+      "frozen-corpse",
+      "robotic-boltshooter"
+    ]
+  },
+  {
+    "number": 100,
+    "slug": "100",
+    "link": "100",
+    "name": "Inside the Swarm",
+    "complexity": 3,
+    "monsters": [
+      "lurker-mindsnipper",
+      "shrike-fiend"
+    ]
+  },
+  {
+    "number": 101,
+    "slug": "101",
+    "link": "101",
+    "name": "Harrower Library",
+    "complexity": 1,
+    "monsters": [
+      "algox-archer",
+      "algox-guard"
+    ]
+  },
+  {
+    "number": 102,
+    "slug": "102",
+    "link": "102",
+    "name": "Into the Black",
+    "complexity": 3,
+    "monsters": [
+      "chaos-demon",
+      "frost-demon",
+      "living-spirit",
+      "night-demon",
+      "savvas-icestorm",
+      "wind-demon"
+    ]
+  },
+  {
+    "number": 103,
+    "slug": "103",
+    "link": "103",
+    "name": "The Lead Door",
+    "complexity": 2,
+    "monsters": [
+      "living-doom",
+      "living-spirit",
+      "lurker-clawcrusher",
+      "shrike-fiend"
+    ]
+  },
+  {
+    "number": 104,
+    "slug": "104",
+    "link": "104",
+    "name": "Ruins of the Solstice",
+    "complexity": 2,
+    "monsters": [
+      "earth-demon",
+      "frost-demon",
+      "wind-demon"
+    ]
+  },
+  {
+    "number": 105,
+    "slug": "105",
+    "link": "105",
+    "name": "Ruins of the Equinox",
+    "complexity": 2,
+    "monsters": [
+      "earth-demon",
+      "flame-demon",
+      "savvas-lavaflow",
+      "wind-demon"
+    ]
+  },
+  {
+    "number": 106,
+    "slug": "106",
+    "link": "106",
+    "name": "The Tempus Forge",
+    "complexity": 2,
+    "monsters": []
+  },
+  {
+    "number": 107,
+    "slug": "107",
+    "link": "107",
+    "name": "My Private Empire",
+    "complexity": 2,
+    "monsters": []
+  },
+  {
+    "number": 108,
+    "slug": "108",
+    "link": "108",
+    "name": "Lustrous Pit",
+    "complexity": 2,
+    "monsters": [
+      "ice-wraith",
+      "snow-imp"
+    ]
+  },
+  {
+    "number": 109,
+    "slug": "109",
+    "link": "109",
+    "name": "Furious Factory",
+    "complexity": 3,
+    "monsters": [
+      "ancient-artillery"
+    ]
+  },
+  {
+    "number": 110,
+    "slug": "110",
+    "link": "110",
+    "name": "Guardian's Temple",
+    "complexity": 2,
+    "monsters": [
+      "living-spirit",
+      "ruined-machine",
+      "shrike-fiend"
+    ]
+  },
+  {
+    "number": 111,
+    "slug": "111",
+    "link": "111",
+    "name": "Ice Cave",
+    "complexity": 3,
+    "monsters": [
+      "frost-demon",
+      "hound"
+    ]
+  },
+  {
+    "number": 112,
+    "slug": "112",
+    "link": "112",
+    "name": "Raised by Wolves",
+    "complexity": 1,
+    "monsters": [
+      "burrowing-blade",
+      "earth-demon"
+    ]
+  },
+  {
+    "number": 113,
+    "slug": "113",
+    "link": "113",
+    "name": "Lush Grotto",
+    "complexity": 1,
+    "monsters": [
+      "chaos-demon",
+      "forest-imp"
+    ]
+  },
+  {
+    "number": 114,
+    "slug": "114",
+    "link": "114",
+    "name": "Work Freeze",
+    "complexity": 2,
+    "monsters": [
+      "hound",
+      "polar-bear",
+      "snow-imp"
+    ]
+  },
+  {
+    "number": 115,
+    "slug": "115",
+    "link": "115",
+    "name": "Pylon Problems",
+    "complexity": 2,
+    "monsters": [
+      "algox-guard",
+      "algox-snowspeaker",
+      "snow-imp"
+    ]
+  },
+  {
+    "number": 116,
+    "slug": "116",
+    "link": "116",
+    "name": "Caravan Guards",
+    "complexity": 2,
+    "monsters": [
+      "algox-archer",
+      "algox-guard",
+      "algox-icespeaker",
+      "algox-scout"
+    ]
+  },
+  {
+    "number": 117,
+    "slug": "117",
+    "link": "117",
+    "name": "A Waiting Game",
+    "complexity": 2,
+    "monsters": [
+      "hound",
+      "vermling-priest",
+      "vermling-scout"
+    ]
+  },
+  {
+    "number": 118,
+    "slug": "118",
+    "link": "118",
+    "name": "Lurker Necromancy",
+    "complexity": 1,
+    "monsters": [
+      "frozen-corpse",
+      "living-bones"
+    ]
+  },
+  {
+    "number": 119,
+    "slug": "119",
+    "link": "119",
+    "name": "Radiant Dust",
+    "complexity": 2,
+    "monsters": [
+      "burrowing-blade",
+      "rending-drake",
+      "spitting-drake"
+    ]
+  },
+  {
+    "number": 120,
+    "slug": "120",
+    "link": "120",
+    "name": "Under the Influence",
+    "complexity": 1,
+    "monsters": [
+      "city-guard",
+      "hound"
+    ]
+  },
+  {
+    "number": 121,
+    "slug": "121",
+    "link": "121",
+    "name": "Black Memories",
+    "complexity": 3,
+    "monsters": [
+      "vermling-priest",
+      "vermling-scout"
+    ]
+  },
+  {
+    "number": 122,
+    "slug": "122",
+    "link": "122",
+    "name": "The Eternal Crave",
+    "complexity": 2
+  },
+  {
+    "number": 123,
+    "slug": "123",
+    "link": "123",
+    "name": "The Titan",
+    "complexity": 3,
+    "monsters": [
+      "ancient-artillery"
+    ]
+  },
+  {
+    "number": 124,
+    "slug": "124",
+    "link": "124",
+    "name": "A Growing Problem",
+    "complexity": 2,
+    "monsters": [
+      "living-bones",
+      "living-spirit"
+    ]
+  },
+  {
+    "number": 125,
+    "slug": "125",
+    "link": "125",
+    "name": "The Longest Second",
+    "complexity": 2,
+    "monsters": [
+      "robotic-boltshooter",
+      "ruined-machine"
+    ]
+  },
+  {
+    "number": 126,
+    "slug": "126",
+    "link": "126",
+    "name": "Joseph the Lion",
+    "complexity": 2,
+    "monsters": [
+      "ice-wraith",
+      "living-spirit",
+      "snow-imp"
+    ]
+  },
+  {
+    "number": 127,
+    "slug": "127",
+    "link": "127",
+    "name": "Derelict Freighter",
+    "complexity": 1,
+    "monsters": [
+      "ancient-artillery",
+      "ice-wraith"
+    ]
+  },
+  {
+    "number": 128,
+    "slug": "128",
+    "link": "128",
+    "name": "A Tall Drunken Tale",
+    "complexity": 3,
+    "monsters": [
+      "abael-scout"
+    ]
+  },
+  {
+    "number": 129,
+    "slug": "129",
+    "link": "129",
+    "name": "How to Lay an Ambush",
+    "complexity": 3,
+    "monsters": [
+    ]
+  },
+  {
+    "number": 130,
+    "slug": "130",
+    "link": "130",
+    "name": "And Then, a Stream",
+    "complexity": 3,
+    "monsters": [
+      "frozen-corpse",
+      "lightning-eel",
+      "shrike-fiend"
+    ]
+  },
+  {
+    "number": 131,
+    "slug": "131",
+    "link": "131",
+    "name": "The Dancing Iceberg",
+    "complexity": 3,
+    "monsters": [
+      "lurker-mindsnipper",
+      "lurker-soldier"
+    ]
+  },
+  {
+    "number": 132,
+    "slug": "132",
+    "link": "132",
+    "name": "Temple of Feline Power",
+    "complexity": 2,
+    "monsters": [
+      "ice-wraith",
+      "snow-imp"
+    ]
+  },
+  {
+    "number": 133,
+    "slug": "133",
+    "link": "133",
+    "name": "Bolt",
+    "complexity": 2,
+    "monsters": [
+      "forest-imp",
+      "rending-drake",
+      "spitting-drake"
+    ]
+  },
+  {
+    "number": 134,
+    "slug": "134",
+    "link": "134",
+    "name": "Tower of Knowledge",
+    "complexity": 3,
+    "monsters": [
+      "flaming-bladespinner",
+      "robotic-boltshooter",
+      "ruined-machine"
+    ]
+  },
+  {
+    "number": 135,
+    "slug": "135",
+    "link": "135",
+    "name": "Belara's Keep",
+    "complexity": 3,
+    "monsters": [
+      "earth-demon",
+      "flame-demon",
+      "rending-drake",
+      "sun-demon"
+    ]
+  },
+  {
+    "number": 136,
+    "slug": "136",
+    "link": "136",
+    "name": "Abandoned Hideout",
+    "complexity": 2,
+    "monsters": [
+      "lightning-eel",
+      "lurker-wavethrower"
+    ]
+  },
+  {
+    "number": 137,
+    "slug": "137",
+    "link": "137",
+    "name": "Pirate Queen's Haul",
+    "complexity": 1,
+    "monsters": [
+      "forest-imp",
+      "piranha-pig",
+      "polar-bear"
+    ]
+  },
+  {
+    "number": null
+  }
+]

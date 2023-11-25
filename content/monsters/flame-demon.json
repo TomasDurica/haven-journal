@@ -1,0 +1,201 @@
+{
+  "name": "Flame Demon",
+  "catchable": false,
+  "flying": true,
+  "normal": {
+    "0": {
+      "health": 2,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 2,
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": 3,
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": 3,
+      "shield": 3,
+      "retaliate": {
+        "range": 2,
+        "value": 2
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "4": {
+      "health": 3,
+      "shield": 3,
+      "retaliate": {
+        "range": 2,
+        "value": 3
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "5": {
+      "health": 4,
+      "shield": 4,
+      "retaliate": {
+        "range": 2,
+        "value": 3
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "6": {
+      "health": 4,
+      "shield": 4,
+      "retaliate": {
+        "range": 2,
+        "value": 4
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "7": {
+      "health": 6,
+      "shield": 4,
+      "retaliate": {
+        "range": 2,
+        "value": 5
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    }
+  },
+  "elite": {
+    "0": {
+      "health": 3,
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 3,
+      "shield": 4,
+      "retaliate": {
+        "range": 3,
+        "value": 2
+      },
+      "movement": 3,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": 4,
+      "shield": 4,
+      "retaliate": {
+        "range": 3,
+        "value": 2
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": 5,
+      "shield": 4,
+      "retaliate": {
+        "range": 3,
+        "value": 2
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "4": {
+      "health": 5,
+      "shield": 4,
+      "retaliate": {
+        "range": 3,
+        "value": 3
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "5": {
+      "health": 6,
+      "shield": 5,
+      "retaliate": {
+        "range": 3,
+        "value": 3
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "6": {
+      "health": 7,
+      "shield": 5,
+      "retaliate": {
+        "range": 3,
+        "value": 4
+      },
+      "movement": 4,
+      "attack": 5,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "7": {
+      "health": 9,
+      "shield": 5,
+      "retaliate": {
+        "range": 3,
+        "value": 5
+      },
+      "movement": 4,
+      "attack": 6,
+      "attackModifiers": [],
+      "immunities": []
+    }
+  }
+}

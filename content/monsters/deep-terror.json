@@ -1,0 +1,201 @@
+{
+  "name": "Deep Terror",
+  "catchable": false,
+  "flying": false,
+  "normal": {
+    "0": {
+      "health": 3,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 4,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 1
+      },
+      "movement": 0,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": 4,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 1
+      },
+      "movement": 0,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": 5,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 2
+      },
+      "movement": 0,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "4": {
+      "health": 7,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 2
+      },
+      "movement": 0,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "5": {
+      "health": 7,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 3
+      },
+      "movement": 0,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "6": {
+      "health": 9,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 3
+      },
+      "movement": 0,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "7": {
+      "health": 9,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 4
+      },
+      "movement": 0,
+      "attack": 5,
+      "attackModifiers": [],
+      "immunities": []
+    }
+  },
+  "elite": {
+    "0": {
+      "health": 5,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 6,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 1
+      },
+      "movement": 0,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": 7,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 1
+      },
+      "movement": 0,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": 8,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 2
+      },
+      "movement": 0,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "4": {
+      "health": 9,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 2
+      },
+      "movement": 0,
+      "attack": 5,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "5": {
+      "health": 11,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 3
+      },
+      "movement": 0,
+      "attack": 5,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "6": {
+      "health": 13,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 3
+      },
+      "movement": 0,
+      "attack": 6,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "7": {
+      "health": 16,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 4
+      },
+      "movement": 0,
+      "attack": 6,
+      "attackModifiers": [],
+      "immunities": []
+    }
+  }
+}

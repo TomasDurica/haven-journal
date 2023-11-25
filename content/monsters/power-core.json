@@ -1,0 +1,259 @@
+{
+  "name": "Power Core",
+  "catchable": false,
+  "flying": false,
+  "normal": {
+    "0": {
+      "health": "[7xC/2{$math.floor}]",
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": "[8xC/2{$math.floor}]",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": "[10xC/2{$math.floor}]",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": "[10xC/2{$math.floor}]",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        }
+      ],
+      "immunities": []
+    },
+    "4": {
+      "health": "[12xC/2{$math.floor}]",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        }
+      ],
+      "immunities": []
+    },
+    "5": {
+      "health": "[16xC/2{$math.floor}]",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        }
+      ],
+      "immunities": []
+    },
+    "6": {
+      "health": "[21xC/2{$math.floor}]",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        }
+      ],
+      "immunities": [
+        "curse"
+      ]
+    },
+    "7": {
+      "health": "[27xC/2{$math.floor}]",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        }
+      ],
+      "immunities": [
+        "curse"
+      ]
+    }
+  },
+  "elite": {
+    "0": {
+      "health": "[7xC/2{$math.floor}]",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": "[8xC/2{$math.floor}]",
+      "shield": 0,
+      "retaliate": {
+        "range": 2,
+        "value": 2
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": "[10xC/2{$math.floor}]",
+      "shield": 0,
+      "retaliate": {
+        "range": 2,
+        "value": 2
+      },
+      "movement": 5,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": "[10xC/2{$math.floor}]",
+      "shield": 0,
+      "retaliate": {
+        "range": 2,
+        "value": 2
+      },
+      "movement": 5,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": []
+    },
+    "4": {
+      "health": "[12xC/2{$math.floor}]",
+      "shield": 0,
+      "retaliate": {
+        "range": 3,
+        "value": 3
+      },
+      "movement": 5,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": []
+    },
+    "5": {
+      "health": "[16xC/2{$math.floor}]",
+      "shield": 0,
+      "retaliate": {
+        "range": 3,
+        "value": 3
+      },
+      "movement": 5,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": []
+    },
+    "6": {
+      "health": "[21xC/2{$math.floor}]",
+      "shield": 0,
+      "retaliate": {
+        "range": 3,
+        "value": 4
+      },
+      "movement": 5,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "curse"
+      ]
+    },
+    "7": {
+      "health": "[27xC/2{$math.floor}]",
+      "shield": 0,
+      "retaliate": {
+        "range": 3,
+        "value": 4
+      },
+      "movement": 5,
+      "attack": 6,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "curse"
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  viewBox="0 0 11.04 7.42"
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <g fill="currentColor">
+    <path d="M 1.03,4.98 V 2.45 L 3.22,1.19 5.41,2.45 V 4.98 L 3.22,6.24 Z m 2.19,-5 L 0,1.89 V 5.57 L 3.22,7.43 6.43,5.57 V 1.89 Z" />
+    <line stroke="currentColor" x1="3.21" y1="3.71" x2="8.6499996" y2="3.71" />
+    <polygon points="11.04,3.71 8.17,2.05 8.17,5.37 " />
+  </g>
+</svg>

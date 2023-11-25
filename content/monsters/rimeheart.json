@@ -1,0 +1,373 @@
+{
+  "name": "Rimeheart",
+  "catchable": false,
+  "flying": false,
+  "normal": {
+    "0": {
+      "health": "[3+7x(C/2){$math.floor}]",
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 2,
+      "attackModifiers": [
+        {
+          "type": "push",
+          "value": 1
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "1": {
+      "health": "[3+8x(C/2){$math.floor}]",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 2,
+      "attackModifiers": [
+        {
+          "type": "push",
+          "value": 1
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "2": {
+      "health": "[3+10x(C/2){$math.floor}]",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 2,
+      "attackModifiers": [
+        {
+          "type": "push",
+          "value": 1
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "3": {
+      "health": "[3+10x(C/2){$math.floor}]",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        },
+        {
+          "type": "push",
+          "value": 1
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "4": {
+      "health": "[3+12x(C/2){$math.floor}]",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        },
+        {
+          "type": "push",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "5": {
+      "health": "[3+16x(C/2){$math.floor}]",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        },
+        {
+          "type": "push",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "6": {
+      "health": "[3+21x(C/2){$math.floor}]",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        },
+        {
+          "type": "push",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "7": {
+      "health": "[3+27x(C/2){$math.floor}]",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        },
+        {
+          "type": "push",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    }
+  },
+  "elite": {
+    "0": {
+      "health": "[3+7x(C/2){$math.floor}]",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "push",
+          "value": 1
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "1": {
+      "health": "[3+8x(C/2){$math.floor}]",
+      "shield": 0,
+      "retaliate": {
+        "range": 2,
+        "value": 2
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "push",
+          "value": 1
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "2": {
+      "health": "[3+10x(C/2){$math.floor}]",
+      "shield": 0,
+      "retaliate": {
+        "range": 2,
+        "value": 2
+      },
+      "movement": 5,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "push",
+          "value": 1
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "3": {
+      "health": "[3+10x(C/2){$math.floor}]",
+      "shield": 0,
+      "retaliate": {
+        "range": 2,
+        "value": 2
+      },
+      "movement": 5,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        },
+        {
+          "type": "push",
+          "value": 1
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "4": {
+      "health": "[3+12x(C/2){$math.floor}]",
+      "shield": 0,
+      "retaliate": {
+        "range": 3,
+        "value": 3
+      },
+      "movement": 5,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        },
+        {
+          "type": "push",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "5": {
+      "health": "[3+16x(C/2){$math.floor}]",
+      "shield": 0,
+      "retaliate": {
+        "range": 3,
+        "value": 3
+      },
+      "movement": 5,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        },
+        {
+          "type": "push",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "6": {
+      "health": "[3+21x(C/2){$math.floor}]",
+      "shield": 0,
+      "retaliate": {
+        "range": 3,
+        "value": 4
+      },
+      "movement": 5,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        },
+        {
+          "type": "push",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "7": {
+      "health": "[3+27x(C/2){$math.floor}]",
+      "shield": 0,
+      "retaliate": {
+        "range": 3,
+        "value": 4
+      },
+      "movement": 5,
+      "attack": 6,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        },
+        {
+          "type": "push",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    }
+  }
+}

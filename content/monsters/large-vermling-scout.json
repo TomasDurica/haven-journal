@@ -1,0 +1,352 @@
+{
+  "name": "Large Vermling Scout",
+  "catchable": false,
+  "flying": false,
+  "normal": {
+    "0": {
+      "health": 6,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "immobilize",
+        "stun"
+      ]
+    },
+    "1": {
+      "health": 8,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "immobilize",
+        "stun"
+      ]
+    },
+    "2": {
+      "health": 10,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "immobilize",
+        "stun"
+      ]
+    },
+    "3": {
+      "health": 10,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        },
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "immobilize",
+        "stun"
+      ]
+    },
+    "4": {
+      "health": 12,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        },
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "immobilize",
+        "stun"
+      ]
+    },
+    "5": {
+      "health": 16,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        },
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "immobilize",
+        "stun"
+      ]
+    },
+    "6": {
+      "health": 23,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        },
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "immobilize",
+        "stun"
+      ]
+    },
+    "7": {
+      "health": 29,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        },
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "immobilize",
+        "stun",
+        "disarm"
+      ]
+    }
+  },
+  "elite": {
+    "0": {
+      "health": 10,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "immobilize",
+        "stun"
+      ]
+    },
+    "1": {
+      "health": 12,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "immobilize",
+        "stun"
+      ]
+    },
+    "2": {
+      "health": 14,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "immobilize",
+        "stun"
+      ]
+    },
+    "3": {
+      "health": 16,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "immobilize",
+        "stun"
+      ]
+    },
+    "4": {
+      "health": 20,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "immobilize",
+        "stun"
+      ]
+    },
+    "5": {
+      "health": 24,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 6,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "immobilize",
+        "stun"
+      ]
+    },
+    "6": {
+      "health": 36,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 6,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "immobilize",
+        "stun",
+        "disarm"
+      ]
+    },
+    "7": {
+      "health": 44,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 7,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "immobilize",
+        "stun",
+        "disarm"
+      ]
+    }
+  }
+}

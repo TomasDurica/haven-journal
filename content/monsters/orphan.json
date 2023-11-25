@@ -1,0 +1,159 @@
+{
+  "name": "Orphan",
+  "catchable": false,
+  "flying": false,
+  "boss": {
+    "0": {
+      "health": "Cx7",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "C",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "brittle",
+        "poison",
+        "immobilize",
+        "disarm",
+        "stun"
+      ]
+    },
+    "1": {
+      "health": "Cx9",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "C+1",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "brittle",
+        "poison",
+        "immobilize",
+        "disarm",
+        "stun"
+      ]
+    },
+    "2": {
+      "health": "Cx12",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "C+1",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "brittle",
+        "poison",
+        "immobilize",
+        "disarm",
+        "stun"
+      ]
+    },
+    "3": {
+      "health": "Cx15",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "C+2",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "brittle",
+        "poison",
+        "immobilize",
+        "disarm",
+        "stun"
+      ]
+    },
+    "4": {
+      "health": "Cx20",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "C+3",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "brittle",
+        "poison",
+        "immobilize",
+        "disarm",
+        "stun"
+      ]
+    },
+    "5": {
+      "health": "Cx24",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "C+4",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "brittle",
+        "poison",
+        "immobilize",
+        "disarm",
+        "stun"
+      ]
+    },
+    "6": {
+      "health": "Cx36",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "C+4",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "brittle",
+        "poison",
+        "immobilize",
+        "disarm",
+        "stun"
+      ]
+    },
+    "7": {
+      "health": "Cx45",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "C+5",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "brittle",
+        "poison",
+        "immobilize",
+        "disarm",
+        "stun"
+      ]
+    }
+  }
+}

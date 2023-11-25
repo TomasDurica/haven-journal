@@ -1,0 +1,105 @@
+{
+  "name": "Yoglang",
+  "catchable": false,
+  "flying": false,
+  "boss": {
+    "0": {
+      "health": 6,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 1
+      },
+      "movement": 1,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 7,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 1
+      },
+      "movement": 1,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": 9,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 1
+      },
+      "movement": 2,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": 12,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 1
+      },
+      "movement": 2,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "4": {
+      "health": 13,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 2
+      },
+      "movement": 2,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "5": {
+      "health": 15,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 2
+      },
+      "movement": 3,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "6": {
+      "health": 20,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 2
+      },
+      "movement": 3,
+      "attack": 5,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "7": {
+      "health": 27,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 3
+      },
+      "movement": 4,
+      "attack": 5,
+      "attackModifiers": [],
+      "immunities": [
+        "brittle"
+      ]
+    }
+  }
+}

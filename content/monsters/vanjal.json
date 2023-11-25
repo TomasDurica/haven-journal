@@ -1,0 +1,210 @@
+{
+  "name": "Vanjal",
+  "catchable": false,
+  "flying": false,
+  "boss": {
+    "0": {
+      "health": "8xC",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": [
+        "bane",
+        "disarm",
+        "curse",
+        "immobilize",
+        "muddle",
+        "poison",
+        "stun",
+        "wound"
+      ]
+    },
+    "1": {
+      "health": "8xC",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        }
+      ],
+      "immunities": [
+        "bane",
+        "disarm",
+        "curse",
+        "immobilize",
+        "muddle",
+        "poison",
+        "stun",
+        "wound"
+      ]
+    },
+    "2": {
+      "health": "10xC",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        }
+      ],
+      "immunities": [
+        "bane",
+        "disarm",
+        "curse",
+        "immobilize",
+        "muddle",
+        "poison",
+        "stun",
+        "wound"
+      ]
+    },
+    "3": {
+      "health": "12xC",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        }
+      ],
+      "immunities": [
+        "bane",
+        "disarm",
+        "curse",
+        "immobilize",
+        "muddle",
+        "poison",
+        "stun",
+        "wound"
+      ]
+    },
+    "4": {
+      "health": "15xC",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        }
+      ],
+      "immunities": [
+        "bane",
+        "disarm",
+        "curse",
+        "immobilize",
+        "muddle",
+        "poison",
+        "stun",
+        "wound"
+      ]
+    },
+    "5": {
+      "health": "18xC",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 6,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        }
+      ],
+      "immunities": [
+        "bane",
+        "disarm",
+        "curse",
+        "immobilize",
+        "muddle",
+        "poison",
+        "stun",
+        "wound"
+      ]
+    },
+    "6": {
+      "health": "26xC",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 6,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        }
+      ],
+      "immunities": [
+        "bane",
+        "disarm",
+        "curse",
+        "immobilize",
+        "muddle",
+        "poison",
+        "stun",
+        "wound"
+      ]
+    },
+    "7": {
+      "health": "35xC",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 6,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        }
+      ],
+      "immunities": [
+        "bane",
+        "disarm",
+        "curse",
+        "immobilize",
+        "muddle",
+        "poison",
+        "stun",
+        "wound"
+      ]
+    }
+  }
+}

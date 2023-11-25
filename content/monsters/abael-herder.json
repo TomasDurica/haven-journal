@@ -1,0 +1,251 @@
+{
+  "name": "Abael Herder",
+  "catchable": false,
+  "flying": false,
+  "normal": {
+    "0": {
+      "health": 4,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 6,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": 8,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": 9,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "4": {
+      "health": 11,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "5": {
+      "health": 14,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "6": {
+      "health": 18,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": []
+    },
+    "7": {
+      "health": 24,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": []
+    }
+  },
+  "elite": {
+    "0": {
+      "health": 6,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": []
+    },
+    "1": {
+      "health": 9,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": []
+    },
+    "2": {
+      "health": 11,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": []
+    },
+    "3": {
+      "health": 13,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": []
+    },
+    "4": {
+      "health": 17,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": []
+    },
+    "5": {
+      "health": 20,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": []
+    },
+    "6": {
+      "health": 28,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": []
+    },
+    "7": {
+      "health": 36,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 6,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": []
+    }
+  }
+}
