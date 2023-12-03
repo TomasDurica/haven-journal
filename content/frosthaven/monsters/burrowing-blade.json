@@ -1,0 +1,277 @@
+{
+  "name": "Burrowing Blade",
+  "catchable": false,
+  "flying": false,
+  "deck": [
+    "frosthaven",
+    "decks",
+    "burrowing-blade"
+  ],
+  "image": "/frosthaven/monsters/burrowing-blade.png",
+  "normal": {
+    "0": {
+      "health": 4,
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 4,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 2,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": []
+    },
+    "2": {
+      "health": 5,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": []
+    },
+    "3": {
+      "health": 7,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": []
+    },
+    "4": {
+      "health": 7,
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": []
+    },
+    "5": {
+      "health": 8,
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": []
+    },
+    "6": {
+      "health": 11,
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": []
+    },
+    "7": {
+      "health": 13,
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": []
+    }
+  },
+  "elite": {
+    "0": {
+      "health": 5,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 5,
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": []
+    },
+    "2": {
+      "health": 6,
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": []
+    },
+    "3": {
+      "health": 7,
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": []
+    },
+    "4": {
+      "health": 9,
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": []
+    },
+    "5": {
+      "health": 11,
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": []
+    },
+    "6": {
+      "health": 15,
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 6,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": []
+    },
+    "7": {
+      "health": 19,
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 7,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": []
+    }
+  }
+}

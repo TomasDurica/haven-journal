@@ -1,0 +1,173 @@
+{
+  "name": "Lurker Conductor",
+  "catchable": false,
+  "flying": false,
+  "deck": [
+    "frosthaven",
+    "decks",
+    "lurker-clawcrusher"
+  ],
+  "image": "/frosthaven/monsters/lurker-clawcrusher.png",
+  "boss": {
+    "0": {
+      "health": "10xC/2",
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "target",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "1": {
+      "health": "10xC/2",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "target",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "2": {
+      "health": "13xC/2",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "target",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "3": {
+      "health": "14xC/2",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "target",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "4": {
+      "health": "18xC/2",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "target",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "5": {
+      "health": "21xC/2",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "target",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "6": {
+      "health": "21xC/2",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "target",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    },
+    "7": {
+      "health": "21xC/2",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "target",
+          "value": 2
+        }
+      ],
+      "immunities": [
+        "disarm",
+        "stun"
+      ]
+    }
+  }
+}

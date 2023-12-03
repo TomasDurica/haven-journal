@@ -1,0 +1,207 @@
+{
+  "name": "Night Demon",
+  "catchable": false,
+  "flying": false,
+  "deck": [
+    "frosthaven",
+    "decks",
+    "night-demon"
+  ],
+  "image": "/frosthaven/monsters/night-demon.png",
+  "normal": {
+    "0": {
+      "health": 3,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 5,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": 6,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": 7,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "4": {
+      "health": 8,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 5,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "5": {
+      "health": 11,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 5,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "6": {
+      "health": 16,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 5,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "7": {
+      "health": 20,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 6,
+      "attackModifiers": [],
+      "immunities": []
+    }
+  },
+  "elite": {
+    "0": {
+      "health": 5,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 8,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": 11,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": 13,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 5,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "4": {
+      "health": 15,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 5,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "5": {
+      "health": 17,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 6,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "6": {
+      "health": 23,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 7,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "7": {
+      "health": 30,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 8,
+      "attackModifiers": [],
+      "immunities": []
+    }
+  }
+}

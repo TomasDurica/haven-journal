@@ -1,0 +1,44 @@
+{
+  "abilities": [
+    {
+      "name": "Tsunami",
+      "initiative": 29,
+      "image": "/frosthaven/decks/lurker-wavethrower/3.png"
+    },
+    {
+      "name": "Crushing Crest",
+      "initiative": 36,
+      "image": "/frosthaven/decks/lurker-wavethrower/6.png"
+    },
+    {
+      "name": "Massive Swell",
+      "initiative": 40,
+      "image": "/frosthaven/decks/lurker-wavethrower/8.png"
+    },
+    {
+      "name": "Twin Claws",
+      "initiative": 48,
+      "image": "/frosthaven/decks/lurker-wavethrower/7.png"
+    },
+    {
+      "name": "Distant Wave",
+      "initiative": 51,
+      "image": "/frosthaven/decks/lurker-wavethrower/2.png"
+    },
+    {
+      "name": "Powerful Claw",
+      "initiative": 60,
+      "image": "/frosthaven/decks/lurker-wavethrower/1.png"
+    },
+    {
+      "name": "Aid from Below",
+      "initiative": 98,
+      "image": "/frosthaven/decks/lurker-wavethrower/4.png"
+    },
+    {
+      "name": "Aid from Below",
+      "initiative": 98,
+      "image": "/frosthaven/decks/lurker-wavethrower/5.png"
+    }
+  ]
+}

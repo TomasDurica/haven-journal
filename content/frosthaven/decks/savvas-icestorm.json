@@ -1,0 +1,44 @@
+{
+  "abilities": [
+    {
+      "name": "Freezing Winds",
+      "initiative": 14,
+      "image": "/frosthaven/decks/savvas-icestorm/5.png"
+    },
+    {
+      "name": "Frozen Shell",
+      "initiative": 14,
+      "image": "/frosthaven/decks/savvas-icestorm/6.png"
+    },
+    {
+      "name": "Hardened Frost",
+      "initiative": 19,
+      "image": "/frosthaven/decks/savvas-icestorm/4.png"
+    },
+    {
+      "name": "Cone of Cold",
+      "initiative": 35,
+      "image": "/frosthaven/decks/savvas-icestorm/8.png"
+    },
+    {
+      "name": "Forceful Gust",
+      "initiative": 47,
+      "image": "/frosthaven/decks/savvas-icestorm/7.png"
+    },
+    {
+      "name": "Repulsive Torrent",
+      "initiative": 70,
+      "image": "/frosthaven/decks/savvas-icestorm/1.png"
+    },
+    {
+      "name": "Call to the Wind",
+      "initiative": 98,
+      "image": "/frosthaven/decks/savvas-icestorm/2.png"
+    },
+    {
+      "name": "Call to the Frost",
+      "initiative": 98,
+      "image": "/frosthaven/decks/savvas-icestorm/3.png"
+    }
+  ]
+}

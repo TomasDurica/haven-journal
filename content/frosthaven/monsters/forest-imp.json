@@ -1,0 +1,252 @@
+{
+  "name": "Forest Imp",
+  "catchable": true,
+  "flying": true,
+  "deck": [
+    "frosthaven",
+    "decks",
+    "imp"
+  ],
+  "image": "/frosthaven/monsters/forest-imp.png",
+  "normal": {
+    "0": {
+      "health": 1,
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 1,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 2,
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 1,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": 2,
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": 3,
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "4": {
+      "health": 3,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "5": {
+      "health": 4,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 2,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        }
+      ],
+      "immunities": []
+    },
+    "6": {
+      "health": 5,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        }
+      ],
+      "immunities": []
+    },
+    "7": {
+      "health": 8,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        }
+      ],
+      "immunities": []
+    }
+  },
+  "elite": {
+    "0": {
+      "health": 4,
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 1,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 5,
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": 6,
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 2,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        }
+      ],
+      "immunities": []
+    },
+    "3": {
+      "health": 7,
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 2,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        }
+      ],
+      "immunities": []
+    },
+    "4": {
+      "health": 7,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 2,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        }
+      ],
+      "immunities": []
+    },
+    "5": {
+      "health": 8,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        }
+      ],
+      "immunities": []
+    },
+    "6": {
+      "health": 10,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        }
+      ],
+      "immunities": []
+    },
+    "7": {
+      "health": 14,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "curse"
+        }
+      ],
+      "immunities": []
+    }
+  }
+}

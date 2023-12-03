@@ -1,0 +1,149 @@
+{
+  "name": "Elder Ooze",
+  "catchable": false,
+  "flying": false,
+  "deck": [
+    "frosthaven",
+    "decks",
+    "boss"
+  ],
+  "image": "/frosthaven/monsters/elder-ooze.png",
+  "boss": {
+    "0": {
+      "health": "Cx16",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "immobilize",
+        "stun"
+      ]
+    },
+    "1": {
+      "health": "Cx20",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "immobilize",
+        "stun"
+      ]
+    },
+    "2": {
+      "health": "Cx24",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "immobilize",
+        "stun"
+      ]
+    },
+    "3": {
+      "health": "Cx30",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "immobilize",
+        "stun"
+      ]
+    },
+    "4": {
+      "health": "Cx36",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 5,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "immobilize",
+        "stun"
+      ]
+    },
+    "5": {
+      "health": "Cx42",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 5,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "immobilize",
+        "stun"
+      ]
+    },
+    "6": {
+      "health": "Cx59",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 6,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "immobilize",
+        "stun"
+      ]
+    },
+    "7": {
+      "health": "Cx76",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 7,
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "immobilize",
+        "stun"
+      ]
+    }
+  }
+}

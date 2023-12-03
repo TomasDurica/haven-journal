@@ -7,8 +7,13 @@
   monsters: string[],
 }
 
+type Scenarios = { body: Scenario[] }
+
 export const useScenarios = async () => {
-  const { data } = await useAsyncData<{ body: Scenario[] }>('scenarios', () => queryContent('scenarios').findOne() as unknown as Promise<{ body: Scenario[] }>)
+  const { data } = await useAsyncData<Scenarios>('' +
+    'frosthaven/scenarios',
+    () => queryContent('frosthaven', 'scenarios', 'scenarios').findOne() as unknown as Promise<Scenarios>
+  )
 
   return computed(() => toValue(data)?.body ?? [])
 }

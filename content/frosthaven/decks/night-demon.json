@@ -1,0 +1,44 @@
+{
+  "abilities": [
+    {
+      "name": "Hasty Assault",
+      "initiative": 4,
+      "image": "/frosthaven/decks/night-demon/1.png"
+    },
+    {
+      "name": "The Night Feeds",
+      "initiative": 15,
+      "image": "/frosthaven/decks/night-demon/8.png"
+    },
+    {
+      "name": "Nothing Special",
+      "initiative": 22,
+      "image": "/frosthaven/decks/night-demon/3.png"
+    },
+    {
+      "name": "Black Thorns",
+      "initiative": 26,
+      "image": "/frosthaven/decks/night-demon/4.png"
+    },
+    {
+      "name": "Impale",
+      "initiative": 35,
+      "image": "/frosthaven/decks/night-demon/7.png"
+    },
+    {
+      "name": "Into Darkness",
+      "initiative": 37,
+      "image": "/frosthaven/decks/night-demon/2.png"
+    },
+    {
+      "name": "Calculated Strike",
+      "initiative": 41,
+      "image": "/frosthaven/decks/night-demon/6.png"
+    },
+    {
+      "name": "Death's Embrace",
+      "initiative": 46,
+      "image": "/frosthaven/decks/night-demon/5.png"
+    }
+  ]
+}

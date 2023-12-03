@@ -42,7 +42,7 @@ const handleDialogClick = (e) => {
 
 </script>
 <template>
-  <dialog ref="dialog" class="pa-0 max-w-full ma-auto" @click="handleDialogClick">
+  <dialog ref="dialog" class="max-w-full ma-auto pa-6 bg-dark-600 rounded-7 shadow-lg shadow-dark-300 text-[#d4d4d4]" @click="handleDialogClick">
     <slot :resolve="resolve" :reject="reject" />
   </dialog>
 </template>

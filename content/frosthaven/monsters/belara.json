@@ -1,0 +1,184 @@
+{
+  "name": "Belara",
+  "catchable": false,
+  "flying": false,
+  "deck": [
+    "frosthaven",
+    "decks",
+    "belara"
+  ],
+  "image": "/frosthaven/monsters/savvas-lavaflow.png",
+  "boss": {
+    "0": {
+      "health": "13xC/2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": [
+        "stun"
+      ]
+    },
+    "1": {
+      "health": "15xC/2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "stun"
+      ]
+    },
+    "2": {
+      "health": "18xC/2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "poison"
+        },
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "stun"
+      ]
+    },
+    "3": {
+      "health": "21xC/2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "poison"
+        },
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "stun"
+      ]
+    },
+    "4": {
+      "health": "25xC/2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "poison"
+        },
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "stun"
+      ]
+    },
+    "5": {
+      "health": "30xC/2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "poison"
+        },
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "stun"
+      ]
+    },
+    "6": {
+      "health": "40xC/2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 6,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "poison"
+        },
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "stun"
+      ]
+    },
+    "7": {
+      "health": "50xC/2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 7,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "poison"
+        },
+        {
+          "type": "condition",
+          "value": "wound"
+        }
+      ],
+      "immunities": [
+        "stun"
+      ]
+    }
+  }
+}

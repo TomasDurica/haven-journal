@@ -1,0 +1,44 @@
+{
+  "abilities": [
+    {
+      "name": "Defensive Ordinance",
+      "initiative": 17,
+      "image": "/frosthaven/decks/ancient-artillery/7.png"
+    },
+    {
+      "name": "Grenade",
+      "initiative": 37,
+      "image": "/frosthaven/decks/ancient-artillery/4.png"
+    },
+    {
+      "name": "Long Shot",
+      "initiative": 46,
+      "image": "/frosthaven/decks/ancient-artillery/1.png"
+    },
+    {
+      "name": "Concussive Burst",
+      "initiative": 46,
+      "image": "/frosthaven/decks/ancient-artillery/8.png"
+    },
+    {
+      "name": "Massive Blast",
+      "initiative": 57,
+      "image": "/frosthaven/decks/ancient-artillery/5.png"
+    },
+    {
+      "name": "Exploding Ammunition",
+      "initiative": 71,
+      "image": "/frosthaven/decks/ancient-artillery/2.png"
+    },
+    {
+      "name": "Exploding Ammunition",
+      "initiative": 71,
+      "image": "/frosthaven/decks/ancient-artillery/3.png"
+    },
+    {
+      "name": "Heavy Shot",
+      "initiative": 95,
+      "image": "/frosthaven/decks/ancient-artillery/6.png"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "abilities": [
+    {
+      "name": "Hasty Assault",
+      "initiative": 5,
+      "image": "/frosthaven/decks/lightning-eel/8.png"
+    },
+    {
+      "name": "Thrashing in the Water",
+      "initiative": 9,
+      "image": "/frosthaven/decks/lightning-eel/3.png"
+    },
+    {
+      "name": "Leaping Dive",
+      "initiative": 12,
+      "image": "/frosthaven/decks/lightning-eel/6.png"
+    },
+    {
+      "name": "Electric Pulse",
+      "initiative": 16,
+      "image": "/frosthaven/decks/lightning-eel/7.png"
+    },
+    {
+      "name": "Nothing Special",
+      "initiative": 20,
+      "image": "/frosthaven/decks/lightning-eel/1.png"
+    },
+    {
+      "name": "Calculated Strike",
+      "initiative": 35,
+      "image": "/frosthaven/decks/lightning-eel/4.png"
+    },
+    {
+      "name": "Paralyzing Bite",
+      "initiative": 67,
+      "image": "/frosthaven/decks/lightning-eel/5.png"
+    },
+    {
+      "name": "Shocking Voltage",
+      "initiative": 82,
+      "image": "/frosthaven/decks/lightning-eel/2.png"
+    }
+  ]
+}

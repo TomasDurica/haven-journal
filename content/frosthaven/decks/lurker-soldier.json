@@ -1,0 +1,44 @@
+{
+  "abilities": [
+    {
+      "name": "Defensive Claws",
+      "initiative": 11,
+      "image": "/frosthaven/decks/lurker-soldier/1.png"
+    },
+    {
+      "name": "Hardened by Frost",
+      "initiative": 23,
+      "image": "/frosthaven/decks/lurker-soldier/8.png"
+    },
+    {
+      "name": "Hasty Assault",
+      "initiative": 28,
+      "image": "/frosthaven/decks/lurker-soldier/2.png"
+    },
+    {
+      "name": "Nothing Special",
+      "initiative": 38,
+      "image": "/frosthaven/decks/lurker-soldier/3.png"
+    },
+    {
+      "name": "Focused Strikes",
+      "initiative": 38,
+      "image": "/frosthaven/decks/lurker-soldier/4.png"
+    },
+    {
+      "name": "Strength of the Deep",
+      "initiative": 41,
+      "image": "/frosthaven/decks/lurker-soldier/7.png"
+    },
+    {
+      "name": "Calculated Strike",
+      "initiative": 61,
+      "image": "/frosthaven/decks/lurker-soldier/5.png"
+    },
+    {
+      "name": "Berserk Rage",
+      "initiative": 64,
+      "image": "/frosthaven/decks/lurker-soldier/6.png"
+    }
+  ]
+}

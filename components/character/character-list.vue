@@ -58,7 +58,7 @@ const open = async (i: number) => {
 
     <dialog-modal
       ref="dialog" v-slot="{ resolve }"
-      class="mt-4 bg-dark-600 pa-4 rounded-4 space-y-4 shadow-lg shadow-dark-300"
+      class="mt-4 space-y-4"
     >
       <div class="color-neutral-200 font-bold text-8 text-center">
         Select character level

@@ -17,7 +17,7 @@ const filteredScenarios = computed(() => {
 
   <character-list />
 
-  <div class="sticky top-0 z-10 bg-dark-800 pa-4 shadow-sm shadow-dark-50">
+  <div class="sticky top-0 z-10 bg-dark-800 pb-4 shadow-sm shadow-dark-50">
     <div class="text-center text-8">
       Select scenario
     </div>

@@ -1,0 +1,44 @@
+{
+  "abilities": [
+    {
+      "name": "Cruel Bow",
+      "initiative": 29,
+      "image": "/frosthaven/decks/scout/1.png"
+    },
+    {
+      "name": "Greed",
+      "initiative": 35,
+      "image": "/frosthaven/decks/scout/8.png"
+    },
+    {
+      "name": "Hasty Assault",
+      "initiative": 40,
+      "image": "/frosthaven/decks/scout/2.png"
+    },
+    {
+      "name": "Nothing Special",
+      "initiative": 53,
+      "image": "/frosthaven/decks/scout/3.png"
+    },
+    {
+      "name": "Rancid Arrow",
+      "initiative": 54,
+      "image": "/frosthaven/decks/scout/4.png"
+    },
+    {
+      "name": "Calculated Strike",
+      "initiative": 69,
+      "image": "/frosthaven/decks/scout/5.png"
+    },
+    {
+      "name": "Rapid Bolts",
+      "initiative": 79,
+      "image": "/frosthaven/decks/scout/7.png"
+    },
+    {
+      "name": "Noxious Blade",
+      "initiative": 92,
+      "image": "/frosthaven/decks/scout/6.png"
+    }
+  ]
+}

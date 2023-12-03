@@ -1,0 +1,44 @@
+{
+  "abilities": [
+    {
+      "name": "Snowstorm",
+      "initiative": 6,
+      "image": "/frosthaven/decks/algox-snowspeaker/5.png"
+    },
+    {
+      "name": "Cold Winds",
+      "initiative": 18,
+      "image": "/frosthaven/decks/algox-snowspeaker/2.png"
+    },
+    {
+      "name": "Blinding Vortex",
+      "initiative": 22,
+      "image": "/frosthaven/decks/algox-snowspeaker/1.png"
+    },
+    {
+      "name": "Nothing Special",
+      "initiative": 27,
+      "image": "/frosthaven/decks/algox-snowspeaker/7.png"
+    },
+    {
+      "name": "Blistering Assault",
+      "initiative": 30,
+      "image": "/frosthaven/decks/algox-snowspeaker/4.png"
+    },
+    {
+      "name": "Sleet",
+      "initiative": 43,
+      "image": "/frosthaven/decks/algox-snowspeaker/3.png"
+    },
+    {
+      "name": "Hail",
+      "initiative": 59,
+      "image": "/frosthaven/decks/algox-snowspeaker/6.png"
+    },
+    {
+      "name": "Snow Drifts",
+      "initiative": 66,
+      "image": "/frosthaven/decks/algox-snowspeaker/8.png"
+    }
+  ]
+}

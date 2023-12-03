@@ -3,15 +3,19 @@ export default defineNuxtConfig({
   css:[
     '@unocss/reset/tailwind.css'
   ],
+  devtools: {
+    enabled: true
+  },
   modules: [
     '@unocss/nuxt',
     '@nuxt/content',
     '@vueuse/nuxt',
   ],
-  devtools: {
-    enabled: true
-  },
   nitro: {
     static: true,
+  },
+  vue: {
+    defineModel: true,
+    propsDestructure: true,
   }
 })

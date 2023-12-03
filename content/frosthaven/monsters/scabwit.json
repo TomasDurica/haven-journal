@@ -1,0 +1,129 @@
+{
+  "name": "Scabwit",
+  "catchable": false,
+  "flying": false,
+  "deck": [
+    "frosthaven",
+    "decks",
+    "priest"
+  ],
+  "image": "/frosthaven/monsters/vermling-priest.png",
+  "boss": {
+    "0": {
+      "health": 3,
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 3,
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": 4,
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": 5,
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "4": {
+      "health": 5,
+      "shield": 4,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": []
+    },
+    "5": {
+      "health": 6,
+      "shield": 4,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": []
+    },
+    "6": {
+      "health": 8,
+      "shield": 5,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": []
+    },
+    "7": {
+      "health": 11,
+      "shield": 5,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "muddle"
+        }
+      ],
+      "immunities": []
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "abilities": [
+    {
+      "name": "Bared Teeth",
+      "initiative": 13,
+      "image": "/frosthaven/decks/piranha-pig/7.png"
+    },
+    {
+      "name": "Hasty Assault",
+      "initiative": 18,
+      "image": "/frosthaven/decks/piranha-pig/5.png"
+    },
+    {
+      "name": "No Escape",
+      "initiative": 23,
+      "image": "/frosthaven/decks/piranha-pig/6.png"
+    },
+    {
+      "name": "Feast",
+      "initiative": 26,
+      "image": "/frosthaven/decks/piranha-pig/4.png"
+    },
+    {
+      "name": "Nothing Special",
+      "initiative": 31,
+      "image": "/frosthaven/decks/piranha-pig/8.png"
+    },
+    {
+      "name": "Bloodthirst",
+      "initiative": 38,
+      "image": "/frosthaven/decks/piranha-pig/2.png"
+    },
+    {
+      "name": "Schooling",
+      "initiative": 40,
+      "image": "/frosthaven/decks/piranha-pig/1.png"
+    },
+    {
+      "name": "Easy Prey",
+      "initiative": 54,
+      "image": "/frosthaven/decks/piranha-pig/3.png"
+    }
+  ]
+}

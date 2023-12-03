@@ -1,0 +1,44 @@
+{
+  "abilities": [
+    {
+      "name": "Angry Cloud",
+      "initiative": 9,
+      "image": "/frosthaven/decks/shrike-fiend/4.png"
+    },
+    {
+      "name": "Concentrated Flock",
+      "initiative": 10,
+      "image": "/frosthaven/decks/shrike-fiend/2.png"
+    },
+    {
+      "name": "Birds of Prey",
+      "initiative": 23,
+      "image": "/frosthaven/decks/shrike-fiend/8.png"
+    },
+    {
+      "name": "Darken the Skies",
+      "initiative": 27,
+      "image": "/frosthaven/decks/shrike-fiend/1.png"
+    },
+    {
+      "name": "Dive Bombs",
+      "initiative": 49,
+      "image": "/frosthaven/decks/shrike-fiend/6.png"
+    },
+    {
+      "name": "Gather the Flock",
+      "initiative": 72,
+      "image": "/frosthaven/decks/shrike-fiend/5.png"
+    },
+    {
+      "name": "Fiendish Charge",
+      "initiative": 73,
+      "image": "/frosthaven/decks/shrike-fiend/3.png"
+    },
+    {
+      "name": "Nothing Special",
+      "initiative": 90,
+      "image": "/frosthaven/decks/shrike-fiend/7.png"
+    }
+  ]
+}

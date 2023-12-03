@@ -1,0 +1,44 @@
+{
+  "abilities": [
+    {
+      "name": "Gather the Frost",
+      "initiative": 18,
+      "image": "/frosthaven/decks/frost-demon/1.png"
+    },
+    {
+      "name": "Ice Barrier",
+      "initiative": 18,
+      "image": "/frosthaven/decks/frost-demon/8.png"
+    },
+    {
+      "name": "Hasty Assault",
+      "initiative": 38,
+      "image": "/frosthaven/decks/frost-demon/2.png"
+    },
+    {
+      "name": "Frozen Shards",
+      "initiative": 58,
+      "image": "/frosthaven/decks/frost-demon/3.png"
+    },
+    {
+      "name": "Nothing Special",
+      "initiative": 58,
+      "image": "/frosthaven/decks/frost-demon/4.png"
+    },
+    {
+      "name": "Chilled to the Bone",
+      "initiative": 58,
+      "image": "/frosthaven/decks/frost-demon/7.png"
+    },
+    {
+      "name": "Cold Claws",
+      "initiative": 78,
+      "image": "/frosthaven/decks/frost-demon/5.png"
+    },
+    {
+      "name": "Cold Claws",
+      "initiative": 78,
+      "image": "/frosthaven/decks/frost-demon/6.png"
+    }
+  ]
+}

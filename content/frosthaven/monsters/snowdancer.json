@@ -1,0 +1,157 @@
+{
+  "name": "Snowdancer",
+  "catchable": false,
+  "flying": false,
+  "deck": [
+    "frosthaven",
+    "decks",
+    "boss"
+  ],
+  "image": "/frosthaven/monsters/snowdancer.png",
+  "boss": {
+    "0": {
+      "health": "Cx10",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "C",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "1": {
+      "health": "Cx12",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "C+1",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "2": {
+      "health": "Cx15",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "C+1",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "3": {
+      "health": "Cx17",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "C+2",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "4": {
+      "health": "Cx22",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "C+2",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "5": {
+      "health": "Cx25",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "C+3",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "6": {
+      "health": "Cx35",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "C+4",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    },
+    "7": {
+      "health": "Cx45",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "C+5",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "disarm",
+        "stun",
+        "curse"
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "abilities": [
+    {
+      "name": "Aura of Fear",
+      "initiative": 37,
+      "image": "/frosthaven/decks/burrowing-blade/6.png"
+    },
+    {
+      "name": "Soaring Strikes",
+      "initiative": 53,
+      "image": "/frosthaven/decks/burrowing-blade/4.png"
+    },
+    {
+      "name": "Explosive Ascent",
+      "initiative": 63,
+      "image": "/frosthaven/decks/burrowing-blade/5.png"
+    },
+    {
+      "name": "Rocky Thrust",
+      "initiative": 65,
+      "image": "/frosthaven/decks/burrowing-blade/7.png"
+    },
+    {
+      "name": "Tunneling Slices",
+      "initiative": 68,
+      "image": "/frosthaven/decks/burrowing-blade/1.png"
+    },
+    {
+      "name": "Tunneling Slices",
+      "initiative": 68,
+      "image": "/frosthaven/decks/burrowing-blade/2.png"
+    },
+    {
+      "name": "Descend",
+      "initiative": 75,
+      "image": "/frosthaven/decks/burrowing-blade/3.png"
+    },
+    {
+      "name": "Crashing Blow",
+      "initiative": 85,
+      "image": "/frosthaven/decks/burrowing-blade/8.png"
+    }
+  ]
+}

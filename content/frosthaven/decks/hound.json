@@ -1,0 +1,44 @@
+{
+  "abilities": [
+    {
+      "name": "Gripping Teeth",
+      "initiative": 6,
+      "image": "/frosthaven/decks/hound/1.png"
+    },
+    {
+      "name": "Horrowing Howl",
+      "initiative": 7,
+      "image": "/frosthaven/decks/hound/2.png"
+    },
+    {
+      "name": "Pack Hunting",
+      "initiative": 19,
+      "image": "/frosthaven/decks/hound/3.png"
+    },
+    {
+      "name": "Pack Hunting",
+      "initiative": 19,
+      "image": "/frosthaven/decks/hound/4.png"
+    },
+    {
+      "name": "Nothing Special",
+      "initiative": 26,
+      "image": "/frosthaven/decks/hound/5.png"
+    },
+    {
+      "name": "Nothing Special",
+      "initiative": 26,
+      "image": "/frosthaven/decks/hound/6.png"
+    },
+    {
+      "name": "Sharp Fangs",
+      "initiative": 72,
+      "image": "/frosthaven/decks/hound/8.png"
+    },
+    {
+      "name": "Calculated Strike",
+      "initiative": 83,
+      "image": "/frosthaven/decks/hound/7.png"
+    }
+  ]
+}

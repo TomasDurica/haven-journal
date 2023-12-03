@@ -1,0 +1,141 @@
+{
+  "name": "Program Director",
+  "catchable": false,
+  "flying": false,
+  "deck": [
+    "frosthaven",
+    "decks",
+    "boss"
+  ],
+  "image": "/frosthaven/monsters/program-director.png",
+  "boss": {
+    "0": {
+      "health": "Cx10",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": "C",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "stun"
+      ]
+    },
+    "1": {
+      "health": "Cx12",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": "C+1",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "stun"
+      ]
+    },
+    "2": {
+      "health": "Cx15",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": "C+1",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "stun"
+      ]
+    },
+    "3": {
+      "health": "Cx18",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": "C+2",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "stun"
+      ]
+    },
+    "4": {
+      "health": "Cx23",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": "C+2",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "stun"
+      ]
+    },
+    "5": {
+      "health": "Cx27",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": "C+3",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "stun"
+      ]
+    },
+    "6": {
+      "health": "Cx40",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": "C+3",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "stun"
+      ]
+    },
+    "7": {
+      "health": "Cx50",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": "C+4",
+      "attackModifiers": [],
+      "immunities": [
+        "wound",
+        "poison",
+        "stun"
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "abilities": [
+    {
+      "name": "Hasty Assault",
+      "initiative": 3,
+      "image": "/frosthaven/decks/flame-demon/1.png"
+    },
+    {
+      "name": "Fire Spout",
+      "initiative": 8,
+      "image": "/frosthaven/decks/flame-demon/4.png"
+    },
+    {
+      "name": "Nothing Special",
+      "initiative": 24,
+      "image": "/frosthaven/decks/flame-demon/2.png"
+    },
+    {
+      "name": "Raging Blaze",
+      "initiative": 30,
+      "image": "/frosthaven/decks/flame-demon/8.png"
+    },
+    {
+      "name": "Explosive Blast",
+      "initiative": 46,
+      "image": "/frosthaven/decks/flame-demon/3.png"
+    },
+    {
+      "name": "Intense Torch",
+      "initiative": 49,
+      "image": "/frosthaven/decks/flame-demon/5.png"
+    },
+    {
+      "name": "Calculated Strike",
+      "initiative": 67,
+      "image": "/frosthaven/decks/flame-demon/6.png"
+    },
+    {
+      "name": "Heat Aura",
+      "initiative": 77,
+      "image": "/frosthaven/decks/flame-demon/7.png"
+    }
+  ]
+}

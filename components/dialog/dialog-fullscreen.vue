@@ -36,7 +36,7 @@ defineExpose({ open, resolve, reject })
 
 </script>
 <template>
-  <section v-if="isOpen" class="fixed z-999 inset-0 overflow-y-auto">
+  <div v-if="isOpen" class="fixed z-999 inset-0 overflow-y-auto">
     <slot :resolve="resolve" :reject="reject" />
-  </section>
+  </div>
 </template>

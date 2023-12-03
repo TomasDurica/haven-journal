@@ -23,21 +23,21 @@
     <div class="text-4 flex flex-row gap-4 justify-center">
       <div class="flex gap-2">
         <div class="i-fh-level h-6 w-6"/>
-        <client-only>
-          <span>{{ difficulty }}</span>
-        </client-only>
+        <span>
+          <client-only> {{ difficulty }} </client-only>
+        </span>
       </div>
       <div class="flex gap-2">
         <div class="i-fh-trap h-6 w-6"/>
-        <client-only>
-          <span>{{ trapDamage }}</span>
-        </client-only>
+        <span>
+          <client-only> {{ trapDamage }} </client-only>
+        </span>
       </div>
       <div class="flex gap-2">
         <div class="i-fh-hazard h-6 w-6"/>
-        <client-only>
-          <span>{{ hazardDamage }}</span>
-        </client-only>
+        <span>
+          <client-only> {{ hazardDamage }} </client-only>
+        </span>
       </div>
     </div>
   </div>

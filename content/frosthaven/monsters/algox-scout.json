@@ -1,0 +1,242 @@
+{
+  "name": "Algox Scout",
+  "catchable": false,
+  "flying": false,
+  "deck": [
+    "frosthaven",
+    "decks",
+    "scout"
+  ],
+  "image": "/frosthaven/monsters/algox-scout.png",
+  "normal": {
+    "0": {
+      "health": 7,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 8,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": 11,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 2,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": 12,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "4": {
+      "health": 15,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "5": {
+      "health": 18,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "6": {
+      "health": 24,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "7": {
+      "health": 33,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 4,
+      "attackModifiers": [],
+      "immunities": []
+    }
+  },
+  "elite": {
+    "0": {
+      "health": 10,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": 12,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": 3,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "impair"
+        }
+      ],
+      "immunities": []
+    },
+    "2": {
+      "health": 13,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "impair"
+        }
+      ],
+      "immunities": []
+    },
+    "3": {
+      "health": 17,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "impair"
+        }
+      ],
+      "immunities": []
+    },
+    "4": {
+      "health": 22,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 4,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "impair"
+        }
+      ],
+      "immunities": []
+    },
+    "5": {
+      "health": 26,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 5,
+      "attack": 5,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "impair"
+        }
+      ],
+      "immunities": []
+    },
+    "6": {
+      "health": 32,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 6,
+      "attack": 6,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "impair"
+        }
+      ],
+      "immunities": []
+    },
+    "7": {
+      "health": 40,
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 6,
+      "attack": 7,
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "impair"
+        }
+      ],
+      "immunities": []
+    }
+  }
+}

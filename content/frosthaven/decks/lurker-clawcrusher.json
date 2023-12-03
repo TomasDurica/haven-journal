@@ -1,0 +1,44 @@
+{
+  "abilities": [
+    {
+      "name": "Claw Guard",
+      "initiative": 11,
+      "image": "/frosthaven/decks/lurker-clawcrusher/7.png"
+    },
+    {
+      "name": "Take Hostage",
+      "initiative": 13,
+      "image": "/frosthaven/decks/lurker-clawcrusher/4.png"
+    },
+    {
+      "name": "Frantic Swipes",
+      "initiative": 31,
+      "image": "/frosthaven/decks/lurker-clawcrusher/8.png"
+    },
+    {
+      "name": "Crush Armor",
+      "initiative": 36,
+      "image": "/frosthaven/decks/lurker-clawcrusher/6.png"
+    },
+    {
+      "name": "Crippling Claw",
+      "initiative": 44,
+      "image": "/frosthaven/decks/lurker-clawcrusher/3.png"
+    },
+    {
+      "name": "Nothing Special",
+      "initiative": 47,
+      "image": "/frosthaven/decks/lurker-clawcrusher/1.png"
+    },
+    {
+      "name": "Smash Armor",
+      "initiative": 58,
+      "image": "/frosthaven/decks/lurker-clawcrusher/2.png"
+    },
+    {
+      "name": "Earthen Blow",
+      "initiative": 60,
+      "image": "/frosthaven/decks/lurker-clawcrusher/5.png"
+    }
+  ]
+}

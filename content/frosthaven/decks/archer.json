@@ -1,0 +1,44 @@
+{
+  "abilities": [
+    {
+      "name": "Set Trap",
+      "initiative": 14,
+      "image": "/frosthaven/decks/archer/2.png"
+    },
+    {
+      "name": "Hasty Assault",
+      "initiative": 16,
+      "image": "/frosthaven/decks/archer/4.png"
+    },
+    {
+      "name": "Shoot Foot",
+      "initiative": 29,
+      "image": "/frosthaven/decks/archer/1.png"
+    },
+    {
+      "name": "Nothing Special",
+      "initiative": 31,
+      "image": "/frosthaven/decks/archer/6.png"
+    },
+    {
+      "name": "Close In",
+      "initiative": 32,
+      "image": "/frosthaven/decks/archer/3.png"
+    },
+    {
+      "name": "Calculated Strike",
+      "initiative": 44,
+      "image": "/frosthaven/decks/archer/7.png"
+    },
+    {
+      "name": "Twin Bolts",
+      "initiative": 56,
+      "image": "/frosthaven/decks/archer/8.png"
+    },
+    {
+      "name": "Power Shot",
+      "initiative": 64,
+      "image": "/frosthaven/decks/archer/5.png"
+    }
+  ]
+}

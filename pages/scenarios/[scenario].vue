@@ -11,14 +11,14 @@ const menu = ref<typeof DialogFullscreen>()
 </script>
 
 <template>
-  <header>
-    <div class="absolute grid place-items-center left-2 top-4 bg-dark-800 rounded-full pa-2 text-8">
+  <header class="sticky top-0 z-10 bg-dark-800 pb-4 shadow-sm shadow-dark-50">
+    <div class="absolute left-2 top-4 z-20 grid place-items-center bg-dark-800 rounded-full pa-2 text-8">
       <button class="i-mdi-apps" @click="menu.open()" />
     </div>
 
     <scenario-header :scenario="scenario" />
 
-    <div class="grid place-items-center b-2 rounded-full w-7 h-7 absolute top-6.5 right-4 bg-dark-800">
+    <div class="absolute top-6.5 right-4 z-20 grid place-items-center b-2 rounded-full w-7 h-7 bg-dark-800">
       <span class="text-3 font-bold">{{ scenario.link }}</span>
     </div>
   </header>
@@ -27,7 +27,7 @@ const menu = ref<typeof DialogFullscreen>()
     <monster-list-item v-for="name in scenario.monsters" :name="name" :key="name" />
   </main>
 
-  <dialog-fullscreen v-slot="{ resolve }" ref="menu" class="bg-dark-800">
+  <dialog-fullscreen ref="menu" class="bg-dark-800" v-slot="{ resolve }">
     <div class="fixed grid place-items-center left-2 top-4 z-20 bg-dark-800 rounded-full pa-2 text-8">
       <button class="i-mdi-close" @click="resolve()" />
     </div>
