@@ -16,7 +16,7 @@ const menu = ref<typeof DialogFullscreen>()
       <button class="i-mdi-apps" @click="menu.open()" />
     </div>
 
-    <scenario-header :scenario="scenario" />
+    <scenario-header :name="scenario.name" />
 
     <div class="absolute top-6.5 right-4 z-20 grid place-items-center b-2 rounded-full w-7 h-7 bg-dark-800">
       <span class="text-3 font-bold">{{ scenario.link }}</span>
