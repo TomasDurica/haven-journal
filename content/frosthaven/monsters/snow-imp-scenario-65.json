@@ -1,0 +1,343 @@
+{
+  "name": "Snow Imp",
+  "catchable": true,
+  "flying": true,
+  "deck": [
+    "frosthaven",
+    "decks",
+    "imp"
+  ],
+  "image": "/frosthaven/monsters/snow-imp.png",
+  "normal": {
+    "0": {
+      "health": "2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": "1",
+      "attackModifiers": [
+        {
+          "type": "push",
+          "value": 1
+        }
+      ],
+      "immunities": []
+    },
+    "1": {
+      "health": "2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": "1",
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        },
+        {
+          "type": "push",
+          "value": 1
+        }
+      ],
+      "immunities": []
+    },
+    "2": {
+      "health": "3",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": "1",
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        },
+        {
+          "type": "push",
+          "value": 1
+        }
+      ],
+      "immunities": []
+    },
+    "3": {
+      "health": "3",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": "2",
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        },
+        {
+          "type": "push",
+          "value": 1
+        }
+      ],
+      "immunities": []
+    },
+    "4": {
+      "health": "4",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": "2",
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        },
+        {
+          "type": "push",
+          "value": 2
+        }
+      ],
+      "immunities": []
+    },
+    "5": {
+      "health": "5",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "2",
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        },
+        {
+          "type": "push",
+          "value": 2
+        }
+      ],
+      "immunities": []
+    },
+    "6": {
+      "health": "7",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "3",
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        },
+        {
+          "type": "push",
+          "value": 2
+        }
+      ],
+      "immunities": []
+    },
+    "7": {
+      "health": "11",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "3",
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        },
+        {
+          "type": "push",
+          "value": 2
+        }
+      ],
+      "immunities": []
+    }
+  },
+  "elite": {
+    "0": {
+      "health": "4",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": "2",
+      "attackModifiers": [
+        {
+          "type": "push",
+          "value": 1
+        }
+      ],
+      "immunities": []
+    },
+    "1": {
+      "health": "4",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 2,
+      "attack": "2",
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        },
+        {
+          "type": "push",
+          "value": 1
+        }
+      ],
+      "immunities": []
+    },
+    "2": {
+      "health": "5",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "2",
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        },
+        {
+          "type": "push",
+          "value": 1
+        }
+      ],
+      "immunities": []
+    },
+    "3": {
+      "health": "7",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "2",
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        },
+        {
+          "type": "push",
+          "value": 1
+        }
+      ],
+      "immunities": []
+    },
+    "4": {
+      "health": "8",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "3",
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        },
+        {
+          "type": "push",
+          "value": 2
+        }
+      ],
+      "immunities": []
+    },
+    "5": {
+      "health": "10",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": "3",
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        },
+        {
+          "type": "push",
+          "value": 2
+        }
+      ],
+      "immunities": []
+    },
+    "6": {
+      "health": "13",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": "4",
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        },
+        {
+          "type": "push",
+          "value": 2
+        }
+      ],
+      "immunities": []
+    },
+    "7": {
+      "health": "18",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 4,
+      "attack": "4",
+      "attackModifiers": [
+        {
+          "type": "condition",
+          "value": "brittle"
+        },
+        {
+          "type": "push",
+          "value": 2
+        }
+      ],
+      "immunities": []
+    }
+  }
+}

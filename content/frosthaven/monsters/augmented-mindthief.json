@@ -17,7 +17,7 @@
         "value": 0
       },
       "movement": 2,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -32,7 +32,7 @@
         "value": 0
       },
       "movement": 2,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -47,7 +47,7 @@
         "value": 0
       },
       "movement": 2,
-      "attack": 5,
+      "attack": "5",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -62,7 +62,7 @@
         "value": 0
       },
       "movement": 3,
-      "attack": 5,
+      "attack": "5",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -77,7 +77,7 @@
         "value": 0
       },
       "movement": 3,
-      "attack": 5,
+      "attack": "5",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -92,7 +92,7 @@
         "value": 0
       },
       "movement": 3,
-      "attack": 6,
+      "attack": "6",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -107,7 +107,7 @@
         "value": 0
       },
       "movement": 3,
-      "attack": 7,
+      "attack": "7",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -122,7 +122,7 @@
         "value": 0
       },
       "movement": 4,
-      "attack": 7,
+      "attack": "7",
       "attackModifiers": [],
       "immunities": [
         "poison",

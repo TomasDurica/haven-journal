@@ -1,4 +1,5 @@
 ﻿import { useLocalStorage } from '@vueuse/core'
+import type { NuxtApp } from '#app'
 
 export type AttackModifier = {
   type: 'pierce' | 'pull' | 'push' | 'target',
@@ -42,9 +43,7 @@ type Monster = {
   image: string
 }
 
-type Deck = {
-  abilities: Card[]
-}
+type Deck = Card[]
 
 export type MonsterResult = {
   name: string,
@@ -73,21 +72,30 @@ const queryMonster = async (name: string) => {
 const queryDeck = async (name: string[]) => {
   const [edition, ...path] = name
 
-  const { data } = await useAsyncData<Deck>(
+  const { data } = await useAsyncData<{ body: Deck }>(
     name.join('/'),
-    () => queryContent(edition, ...path).findOne() as unknown as Promise<Deck>
+    () => queryContent(edition, ...path).findOne() as unknown as Promise<{ body: Deck }>
   )
 
-  return toValue(data)!
+  return toValue(data)!.body
 }
 
-export const useMonster = async (name: string, scenarioLevel: number) => {
-  const nuxtApp = useNuxtApp()
+const useDeck = async (nuxtApp: NuxtApp, name: string[]) => {
+  console.log(name)
 
-  const monster = await nuxtApp.runWithContext(() => queryMonster(name))
-  const deck = await nuxtApp.runWithContext(() => queryDeck(monster.deck))
+  if (!name.length) {
+    console.log('no name')
+    return {
+      deck: {
+        size: 0,
+        unlocked: []
+      },
+      addCard: (_: number) => {}
+    }
+  }
 
-  const unlocked = useLocalStorage<number[]>(`${monster.deck.join('/')}`, [])
+  const deck = await nuxtApp.runWithContext(() => queryDeck(name))
+  const unlocked = useLocalStorage<number[]>(`${name.join('/')}`, [])
 
   const addCard = (card: number) => {
     if (isNaN(card)) {
@@ -98,12 +106,27 @@ export const useMonster = async (name: string, scenarioLevel: number) => {
       return
     }
 
-    if (!deck.abilities.find(({ initiative }) => initiative === card)) {
+    if (!deck.find(({ initiative }) => initiative === card)) {
       return
     }
 
     unlocked.value = [...toValue(unlocked), card]
   }
+
+  return {
+    deck: {
+      size: deck.length,
+      unlocked: deck.filter(({ initiative }) => toValue(unlocked).includes(initiative))
+    },
+    addCard
+  }
+}
+
+export const useMonster = async (name: string, scenarioLevel: number) => {
+  const nuxtApp = useNuxtApp()
+
+  const monster = await nuxtApp.runWithContext(() => queryMonster(name))
+  const deck = await useDeck(nuxtApp, monster.deck)
 
   return computed(() => {
     if (!monster) {
@@ -118,11 +141,7 @@ export const useMonster = async (name: string, scenarioLevel: number) => {
       normal: monster.normal?.[scenarioLevel],
       elite: monster.elite?.[scenarioLevel],
       boss: monster.boss?.[scenarioLevel],
-      deck: {
-        size: deck.abilities.length,
-        unlocked: deck.abilities.filter(({ initiative }) => toValue(unlocked).includes(initiative))
-      },
-      addCard
+      ...deck
     } as MonsterResult
   })
 }

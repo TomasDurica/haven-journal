@@ -2,15 +2,11 @@
   "name": "Chaos Spark",
   "catchable": false,
   "flying": false,
-  "deck": [
-    "frosthaven",
-    "decks",
-    "chaos-spark"
-  ],
+  "deck": [],
   "image": "/frosthaven/monsters/chaos-spark.png",
   "boss": {
     "0": {
-      "health": 1,
+      "health": "1",
       "shield": 0,
       "retaliate": {
         "range": 0,
@@ -22,7 +18,7 @@
       "immunities": []
     },
     "1": {
-      "health": 2,
+      "health": "2",
       "shield": 0,
       "retaliate": {
         "range": 0,
@@ -34,7 +30,7 @@
       "immunities": []
     },
     "2": {
-      "health": 3,
+      "health": "3",
       "shield": 0,
       "retaliate": {
         "range": 0,
@@ -46,7 +42,7 @@
       "immunities": []
     },
     "3": {
-      "health": 4,
+      "health": "4",
       "shield": 0,
       "retaliate": {
         "range": 0,
@@ -58,7 +54,7 @@
       "immunities": []
     },
     "4": {
-      "health": 5,
+      "health": "5",
       "shield": 0,
       "retaliate": {
         "range": 0,
@@ -70,7 +66,7 @@
       "immunities": []
     },
     "5": {
-      "health": 6,
+      "health": "6",
       "shield": 0,
       "retaliate": {
         "range": 0,
@@ -82,7 +78,7 @@
       "immunities": []
     },
     "6": {
-      "health": 7,
+      "health": "7",
       "shield": 0,
       "retaliate": {
         "range": 0,
@@ -94,7 +90,7 @@
       "immunities": []
     },
     "7": {
-      "health": 8,
+      "health": "8",
       "shield": 0,
       "retaliate": {
         "range": 0,

@@ -1,5 +1,4 @@
 ﻿<script setup lang="ts">
-  import type { AttackModifier } from '~/composables/useMonster'
   import type { DialogFullscreen } from '#components'
 
   const { name } = defineProps<{
@@ -12,6 +11,10 @@
   const dialog = ref<typeof DialogFullscreen>()
 
   const openDialog = async () => {
+    if (!toValue(monster).deck.size) {
+      return
+    }
+
     await toValue(dialog).open()
   }
 
@@ -64,7 +67,10 @@
       <div class="flex flex-col gap-2 justify-center relative">
         <button class="w-20 h-20 rounded-full overflow-clip relative" @click="openDialog">
           <img :src="monster.image" :alt="name" />
-          <span class="absolute bottom-0 left-0 right-0 text-3 font-bold text-center bg-opacity-69 bg-dark-800">
+          <span
+            v-if="monster.deck.size"
+            class="absolute bottom-0 left-0 right-0 text-3 font-bold text-center bg-opacity-69 bg-dark-800"
+          >
             <client-only fallback="0 / 8">
               {{ monster.deck.unlocked.length }} / {{ monster.deck.size }}
             </client-only>

@@ -10,196 +10,196 @@
   "image": "/frosthaven/monsters/lightning-eel.png",
   "normal": {
     "0": {
-      "health": 1,
+      "health": "1",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 2,
-      "attack": 2,
+      "attack": "2",
       "attackModifiers": [],
       "immunities": []
     },
     "1": {
-      "health": 2,
+      "health": "2",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 2,
-      "attack": 2,
+      "attack": "2",
       "attackModifiers": [],
       "immunities": []
     },
     "2": {
-      "health": 3,
+      "health": "3",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 3,
-      "attack": 2,
+      "attack": "2",
       "attackModifiers": [],
       "immunities": []
     },
     "3": {
-      "health": 4,
+      "health": "4",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 3,
-      "attack": 2,
+      "attack": "2",
       "attackModifiers": [],
       "immunities": []
     },
     "4": {
-      "health": 5,
+      "health": "5",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 3,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [],
       "immunities": []
     },
     "5": {
-      "health": 6,
+      "health": "6",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 3,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [],
       "immunities": []
     },
     "6": {
-      "health": 9,
+      "health": "9",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 4,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [],
       "immunities": []
     },
     "7": {
-      "health": 11,
+      "health": "11",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 4,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [],
       "immunities": []
     }
   },
   "elite": {
     "0": {
-      "health": 3,
+      "health": "3",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 3,
-      "attack": 2,
+      "attack": "2",
       "attackModifiers": [],
       "immunities": []
     },
     "1": {
-      "health": 3,
+      "health": "3",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 3,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [],
       "immunities": []
     },
     "2": {
-      "health": 5,
+      "health": "5",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 3,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [],
       "immunities": []
     },
     "3": {
-      "health": 6,
+      "health": "6",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 4,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [],
       "immunities": []
     },
     "4": {
-      "health": 7,
+      "health": "7",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 4,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [],
       "immunities": []
     },
     "5": {
-      "health": 9,
+      "health": "9",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 4,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [],
       "immunities": []
     },
     "6": {
-      "health": 13,
+      "health": "13",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 4,
-      "attack": 5,
+      "attack": "5",
       "attackModifiers": [],
       "immunities": []
     },
     "7": {
-      "health": 17,
+      "health": "17",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 4,
-      "attack": 6,
+      "attack": "6",
       "attackModifiers": [],
       "immunities": []
     }

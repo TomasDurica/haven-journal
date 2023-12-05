@@ -17,7 +17,7 @@
         "value": 0
       },
       "movement": 2,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [],
       "immunities": [
         "bane",
@@ -38,7 +38,7 @@
         "value": 0
       },
       "movement": 2,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [
         {
           "type": "condition",
@@ -64,7 +64,7 @@
         "value": 0
       },
       "movement": 3,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [
         {
           "type": "condition",
@@ -90,7 +90,7 @@
         "value": 0
       },
       "movement": 2,
-      "attack": 5,
+      "attack": "5",
       "attackModifiers": [
         {
           "type": "condition",
@@ -116,7 +116,7 @@
         "value": 0
       },
       "movement": 4,
-      "attack": 5,
+      "attack": "5",
       "attackModifiers": [
         {
           "type": "condition",
@@ -142,7 +142,7 @@
         "value": 0
       },
       "movement": 4,
-      "attack": 6,
+      "attack": "6",
       "attackModifiers": [
         {
           "type": "condition",
@@ -168,7 +168,7 @@
         "value": 0
       },
       "movement": 4,
-      "attack": 6,
+      "attack": "6",
       "attackModifiers": [
         {
           "type": "condition",
@@ -194,7 +194,7 @@
         "value": 0
       },
       "movement": 4,
-      "attack": 6,
+      "attack": "6",
       "attackModifiers": [
         {
           "type": "condition",

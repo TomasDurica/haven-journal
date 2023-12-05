@@ -1,0 +1,109 @@
+{
+  "name": "Reluctant Ghost",
+  "catchable": false,
+  "flying": false,
+  "deck": [
+    "frosthaven",
+    "decks",
+    "living-spirit"
+  ],
+  "image": "/frosthaven/monsters/living-spirit.png",
+  "boss": {
+    "0": {
+      "health": "(2xC)/2",
+      "shield": 1,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "2",
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "1": {
+      "health": "(2xC)/2",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "2",
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "2": {
+      "health": "(2xC)/2",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "2",
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "3": {
+      "health": "(3xC)/2",
+      "shield": 2,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "3",
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "4": {
+      "health": "(3xC)/2",
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "3",
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "5": {
+      "health": "(4xC)/2",
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "3",
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "6": {
+      "health": "(6xC)/2",
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "4",
+      "attackModifiers": [],
+      "immunities": []
+    },
+    "7": {
+      "health": "(7xC)/2",
+      "shield": 3,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 3,
+      "attack": "5",
+      "attackModifiers": [],
+      "immunities": []
+    }
+  }
+}

@@ -10,14 +10,14 @@
   "image": "/frosthaven/monsters/shrike-fiend.png",
   "normal": {
     "0": {
-      "health": 6,
+      "health": "6",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 1,
-      "attack": 2,
+      "attack": "2",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -26,14 +26,14 @@
       ]
     },
     "1": {
-      "health": 8,
+      "health": "8",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 1,
-      "attack": 2,
+      "attack": "2",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -42,14 +42,14 @@
       ]
     },
     "2": {
-      "health": 9,
+      "health": "9",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 1,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -58,14 +58,14 @@
       ]
     },
     "3": {
-      "health": 10,
+      "health": "10",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 2,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -74,14 +74,14 @@
       ]
     },
     "4": {
-      "health": 13,
+      "health": "13",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 2,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -90,14 +90,14 @@
       ]
     },
     "5": {
-      "health": 15,
+      "health": "15",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 2,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -106,14 +106,14 @@
       ]
     },
     "6": {
-      "health": 21,
+      "health": "21",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 3,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -122,14 +122,14 @@
       ]
     },
     "7": {
-      "health": 29,
+      "health": "29",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 3,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -141,14 +141,14 @@
   },
   "elite": {
     "0": {
-      "health": 8,
+      "health": "8",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 2,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -157,14 +157,14 @@
       ]
     },
     "1": {
-      "health": 10,
+      "health": "10",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 2,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -173,14 +173,14 @@
       ]
     },
     "2": {
-      "health": 12,
+      "health": "12",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 2,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -189,14 +189,14 @@
       ]
     },
     "3": {
-      "health": 16,
+      "health": "16",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 2,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -205,14 +205,14 @@
       ]
     },
     "4": {
-      "health": 20,
+      "health": "20",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 2,
-      "attack": 5,
+      "attack": "5",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -221,14 +221,14 @@
       ]
     },
     "5": {
-      "health": 25,
+      "health": "25",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 3,
-      "attack": 5,
+      "attack": "5",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -237,14 +237,14 @@
       ]
     },
     "6": {
-      "health": 33,
+      "health": "33",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 3,
-      "attack": 6,
+      "attack": "6",
       "attackModifiers": [],
       "immunities": [
         "poison",
@@ -254,14 +254,14 @@
       ]
     },
     "7": {
-      "health": 45,
+      "health": "45",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 3,
-      "attack": 6,
+      "attack": "6",
       "attackModifiers": [],
       "immunities": [
         "poison",

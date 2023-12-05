@@ -5,7 +5,7 @@
   "deck": [
     "frosthaven",
     "decks",
-    "belara"
+    "savvas-lavaflow"
   ],
   "image": "/frosthaven/monsters/savvas-lavaflow.png",
   "boss": {
@@ -17,7 +17,7 @@
         "value": 0
       },
       "movement": 3,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [],
       "immunities": [
         "stun"
@@ -31,7 +31,7 @@
         "value": 0
       },
       "movement": 3,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [
         {
           "type": "condition",
@@ -50,7 +50,7 @@
         "value": 0
       },
       "movement": 3,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [
         {
           "type": "condition",
@@ -73,7 +73,7 @@
         "value": 0
       },
       "movement": 3,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [
         {
           "type": "condition",
@@ -96,7 +96,7 @@
         "value": 0
       },
       "movement": 4,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [
         {
           "type": "condition",
@@ -119,7 +119,7 @@
         "value": 0
       },
       "movement": 4,
-      "attack": 5,
+      "attack": "5",
       "attackModifiers": [
         {
           "type": "condition",
@@ -142,7 +142,7 @@
         "value": 0
       },
       "movement": 4,
-      "attack": 6,
+      "attack": "6",
       "attackModifiers": [
         {
           "type": "condition",
@@ -165,7 +165,7 @@
         "value": 0
       },
       "movement": 4,
-      "attack": 7,
+      "attack": "7",
       "attackModifiers": [
         {
           "type": "condition",

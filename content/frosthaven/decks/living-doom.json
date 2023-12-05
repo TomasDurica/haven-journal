@@ -1,44 +1,42 @@
-{
-  "abilities": [
-    {
-      "name": "Sunless Abyss",
-      "initiative": 11,
-      "image": "/frosthaven/decks/living-doom/5.png"
-    },
-    {
-      "name": "Hateful Spikes",
-      "initiative": 17,
-      "image": "/frosthaven/decks/living-doom/6.png"
-    },
-    {
-      "name": "Arresting Advance",
-      "initiative": 32,
-      "image": "/frosthaven/decks/living-doom/3.png"
-    },
-    {
-      "name": "Nothing Special",
-      "initiative": 57,
-      "image": "/frosthaven/decks/living-doom/4.png"
-    },
-    {
-      "name": "Chilling Aura",
-      "initiative": 70,
-      "image": "/frosthaven/decks/living-doom/1.png"
-    },
-    {
-      "name": "Call For Souls",
-      "initiative": 78,
-      "image": "/frosthaven/decks/living-doom/8.png"
-    },
-    {
-      "name": "Face of Darkness",
-      "initiative": 82,
-      "image": "/frosthaven/decks/living-doom/2.png"
-    },
-    {
-      "name": "Pull of the Grave",
-      "initiative": 98,
-      "image": "/frosthaven/decks/living-doom/7.png"
-    }
-  ]
-}
+[
+  {
+    "name": "Sunless Abyss",
+    "initiative": 11,
+    "image": "frosthaven/decks/living-doom/5.png"
+  },
+  {
+    "name": "Hateful Spikes",
+    "initiative": 17,
+    "image": "frosthaven/decks/living-doom/6.png"
+  },
+  {
+    "name": "Arresting Advance",
+    "initiative": 32,
+    "image": "frosthaven/decks/living-doom/3.png"
+  },
+  {
+    "name": "Nothing Special",
+    "initiative": 57,
+    "image": "frosthaven/decks/living-doom/4.png"
+  },
+  {
+    "name": "Chilling Aura",
+    "initiative": 70,
+    "image": "frosthaven/decks/living-doom/1.png"
+  },
+  {
+    "name": "Call For Souls",
+    "initiative": 78,
+    "image": "frosthaven/decks/living-doom/8.png"
+  },
+  {
+    "name": "Face of Darkness",
+    "initiative": 82,
+    "image": "frosthaven/decks/living-doom/2.png"
+  },
+  {
+    "name": "Pull of the Grave",
+    "initiative": 98,
+    "image": "frosthaven/decks/living-doom/7.png"
+  }
+]

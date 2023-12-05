@@ -1,44 +1,42 @@
-{
-  "abilities": [
-    {
-      "name": "Heat Blast",
-      "initiative": 1,
-      "image": "/frosthaven/decks/chaos-demon/2.png"
-    },
-    {
-      "name": "Chilling Breath",
-      "initiative": 14,
-      "image": "/frosthaven/decks/chaos-demon/1.png"
-    },
-    {
-      "name": "Whirlwind",
-      "initiative": 20,
-      "image": "/frosthaven/decks/chaos-demon/4.png"
-    },
-    {
-      "name": "White Claws",
-      "initiative": 42,
-      "image": "/frosthaven/decks/chaos-demon/5.png"
-    },
-    {
-      "name": "Black Tendrils",
-      "initiative": 51,
-      "image": "/frosthaven/decks/chaos-demon/6.png"
-    },
-    {
-      "name": "Seismic Punch",
-      "initiative": 67,
-      "image": "/frosthaven/decks/chaos-demon/3.png"
-    },
-    {
-      "name": "Arcane Explosion",
-      "initiative": 77,
-      "image": "/frosthaven/decks/chaos-demon/7.png"
-    },
-    {
-      "name": "Hungry Maw",
-      "initiative": 98,
-      "image": "/frosthaven/decks/chaos-demon/8.png"
-    }
-  ]
-}
+[
+  {
+    "name": "Heat Blast",
+    "initiative": 1,
+    "image": "frosthaven/decks/chaos-demon/2.png"
+  },
+  {
+    "name": "Chilling Breath",
+    "initiative": 14,
+    "image": "frosthaven/decks/chaos-demon/1.png"
+  },
+  {
+    "name": "Whirlwind",
+    "initiative": 20,
+    "image": "frosthaven/decks/chaos-demon/4.png"
+  },
+  {
+    "name": "White Claws",
+    "initiative": 42,
+    "image": "frosthaven/decks/chaos-demon/5.png"
+  },
+  {
+    "name": "Black Tendrils",
+    "initiative": 51,
+    "image": "frosthaven/decks/chaos-demon/6.png"
+  },
+  {
+    "name": "Seismic Punch",
+    "initiative": 67,
+    "image": "frosthaven/decks/chaos-demon/3.png"
+  },
+  {
+    "name": "Arcane Explosion",
+    "initiative": 77,
+    "image": "frosthaven/decks/chaos-demon/7.png"
+  },
+  {
+    "name": "Hungry Maw",
+    "initiative": 98,
+    "image": "frosthaven/decks/chaos-demon/8.png"
+  }
+]

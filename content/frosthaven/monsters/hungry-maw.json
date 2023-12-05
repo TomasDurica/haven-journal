@@ -17,7 +17,7 @@
         "value": 0
       },
       "movement": 2,
-      "attack": 2,
+      "attack": "2",
       "attackModifiers": [],
       "immunities": [
         "wound",
@@ -36,7 +36,7 @@
         "value": 1
       },
       "movement": 2,
-      "attack": 2,
+      "attack": "2",
       "attackModifiers": [],
       "immunities": [
         "wound",
@@ -55,7 +55,7 @@
         "value": 1
       },
       "movement": 2,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [],
       "immunities": [
         "wound",
@@ -74,7 +74,7 @@
         "value": 2
       },
       "movement": 2,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [],
       "immunities": [
         "wound",
@@ -93,7 +93,7 @@
         "value": 2
       },
       "movement": 2,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [],
       "immunities": [
         "wound",
@@ -112,7 +112,7 @@
         "value": 3
       },
       "movement": 3,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [],
       "immunities": [
         "wound",
@@ -131,7 +131,7 @@
         "value": 3
       },
       "movement": 3,
-      "attack": 5,
+      "attack": "5",
       "attackModifiers": [],
       "immunities": [
         "wound",
@@ -150,7 +150,7 @@
         "value": 3
       },
       "movement": 4,
-      "attack": 6,
+      "attack": "6",
       "attackModifiers": [],
       "immunities": [
         "wound",

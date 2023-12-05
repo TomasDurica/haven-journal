@@ -1,0 +1,177 @@
+{
+  "name": "Fish King",
+  "catchable": false,
+  "flying": false,
+  "deck": [],
+  "image": "/frosthaven/monsters/fish-king.png",
+  "boss": {
+    "0": {
+      "health": "Cx8/2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 0,
+      "attackModifiers": [],
+      "immunities": [
+        "bane",
+        "brittle",
+        "poison",
+        "wound",
+        "curse",
+        "regenerate",
+        "ward",
+        "invisible"
+      ]
+    },
+    "1": {
+      "health": "Cx10/2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 0,
+      "attackModifiers": [],
+      "immunities": [
+        "bane",
+        "brittle",
+        "poison",
+        "wound",
+        "curse",
+        "regenerate",
+        "ward",
+        "invisible"
+      ]
+    },
+    "2": {
+      "health": "Cx12/2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 0,
+      "attackModifiers": [],
+      "immunities": [
+        "bane",
+        "brittle",
+        "poison",
+        "wound",
+        "curse",
+        "regenerate",
+        "ward",
+        "invisible"
+      ]
+    },
+    "3": {
+      "health": "Cx16/2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 0,
+      "attackModifiers": [],
+      "immunities": [
+        "bane",
+        "brittle",
+        "poison",
+        "wound",
+        "curse",
+        "regenerate",
+        "ward",
+        "invisible"
+      ]
+    },
+    "4": {
+      "health": "Cx18/2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 0,
+      "attackModifiers": [],
+      "immunities": [
+        "bane",
+        "brittle",
+        "poison",
+        "wound",
+        "curse",
+        "regenerate",
+        "ward",
+        "invisible"
+      ]
+    },
+    "5": {
+      "health": "Cx24/2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 0,
+      "attackModifiers": [],
+      "immunities": [
+        "bane",
+        "brittle",
+        "poison",
+        "wound",
+        "curse",
+        "regenerate",
+        "ward",
+        "invisible"
+      ]
+    },
+    "6": {
+      "health": "Cx32/2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 0,
+      "attackModifiers": [],
+      "immunities": [
+        "bane",
+        "brittle",
+        "poison",
+        "wound",
+        "curse",
+        "regenerate",
+        "ward",
+        "invisible"
+      ]
+    },
+    "7": {
+      "health": "Cx40/2",
+      "shield": 0,
+      "retaliate": {
+        "range": 0,
+        "value": 0
+      },
+      "movement": 0,
+      "attack": 0,
+      "attackModifiers": [],
+      "immunities": [
+        "bane",
+        "brittle",
+        "poison",
+        "wound",
+        "curse",
+        "regenerate",
+        "ward",
+        "invisible"
+      ]
+    }
+  }
+}

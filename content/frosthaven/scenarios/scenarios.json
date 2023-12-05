@@ -1,85 +1,12 @@
 [
   {
-    "number": null,
-    "slug": "all",
-    "link": "All",
-    "name": "All monsters",
-    "complexity": null,
-    "monsters": [
-      "abael-herder",
-      "abael-scout",
-      "algox-archer",
-      "algox-guard",
-      "algox-icespeaker",
-      "algox-priest",
-      "algox-scout",
-      "algox-snowspeaker",
-      "algox-stormcaller",
-      "ancient-artillery",
-      "black-imp",
-      "burrowing-blade",
-      "chaos-demon",
-      "chaos-lieutenant",
-      "city-guard",
-      "deep-terror",
-      "earth-demon",
-      "elder-ooze",
-      "flame-demon",
-      "flaming-bladespinner",
-      "forest-imp",
-      "fracture-of-the-deep",
-      "frost-demon",
-      "frozen-corpse",
-      "giant-piranha-pig",
-      "guard-captain",
-      "harbinger-of-shadow",
-      "harrower-infester",
-      "hound",
-      "ice-wraith",
-      "lightning-eel",
-      "living-bones",
-      "living-doom",
-      "living-spirit",
-      "lord-of-chaos",
-      "lurker-clawcrusher",
-      "lurker-mindsnipper",
-      "lurker-soldier",
-      "lurker-wavethrower",
-      "night-demon",
-      "ooze",
-      "orphan",
-      "piranha-pig",
-      "polar-bear",
-      "program-director",
-      "render",
-      "rending-drake",
-      "robotic-boltshooter",
-      "ruined-machine",
-      "savvas-icestorm",
-      "savvas-lavaflow",
-      "scabwit",
-      "seeker-of-the-abyss",
-      "shrike-fiend",
-      "snow-imp",
-      "spitting-drake",
-      "steel-automaton",
-      "sun-demon",
-      "the-relic",
-      "tormentor",
-      "vermling-priest",
-      "vermling-scout",
-      "wind-demon",
-      "yoglang"
-    ]
-  },
-  {
     "number": 0,
     "slug": "0",
     "link": "0",
     "name": "Howling in the Snow",
     "complexity": 1,
     "monsters": [
-
+      "hound-scenario-0"
     ]
   },
   {
@@ -91,7 +18,8 @@
     "monsters": [
       "algox-archer",
       "algox-guard",
-      "algox-priest"
+      "algox-priest",
+      "city-guard-scenario-1"
     ]
   },
   {
@@ -102,7 +30,9 @@
     "complexity": 1,
     "monsters": [
       "algox-archer",
-      "algox-guard"
+      "algox-guard",
+      "algox-priest",
+      "algox-scout"
     ]
   },
   {
@@ -126,7 +56,9 @@
     "complexity": 2,
     "monsters": [
       "algox-guard",
-      "algox-scout"
+      "algox-scout",
+      "frozen-fist",
+      "snowdancer"
     ]
   },
   {
@@ -137,7 +69,9 @@
     "complexity": 2,
     "monsters": [
       "algox-archer",
-      "algox-guard"
+      "algox-guard",
+      "frozen-fist",
+      "snowdancer"
     ]
   },
   {
@@ -147,7 +81,8 @@
     "name": "Frozen Crypt",
     "complexity": 2,
     "monsters": [
-      "ice-wraith"
+      "ice-wraith",
+      "frozen-corpse"
     ]
   },
   {
@@ -169,7 +104,9 @@
     "complexity": 1,
     "monsters": [
       "lurker-clawcrusher",
-      "lurker-soldier"
+      "lurker-soldier",
+      "lurker-mindsnipper",
+      "coral-corpse"
     ]
   },
   {
@@ -180,7 +117,8 @@
     "complexity": 1,
     "monsters": [
       "polar-bear",
-      "snow-imp"
+      "snow-imp",
+      "hound"
     ]
   },
   {
@@ -204,7 +142,8 @@
     "complexity": 2,
     "monsters": [
       "algox-guard",
-      "algox-priest"
+      "algox-priest",
+      "algox-icespeaker"
     ]
   },
   {
@@ -226,7 +165,9 @@
     "name": "Temple Entrance",
     "complexity": 1,
     "monsters": [
-      "ancient-artillery"
+      "ancient-artillery",
+      "night-demon",
+      "steel-automaton"
     ]
   },
   {
@@ -236,7 +177,9 @@
     "name": "Frozen Fjord",
     "complexity": 2,
     "monsters": [
-      "shrike-fiend"
+      "shrike-fiend",
+      "snow-imp",
+      "wind-demon"
     ]
   },
   {
@@ -271,7 +214,8 @@
     "complexity": 3,
     "monsters": [
       "ancient-artillery",
-      "ruined-machine"
+      "ruined-machine",
+      "flaming-bladespinner"
     ]
   },
   {
@@ -280,7 +224,10 @@
     "link": "17",
     "name": "Haunted Vault",
     "complexity": 3,
-    "monsters": []
+    "monsters": [
+      "living-doom",
+      "living-spirit"
+    ]
   },
   {
     "number": 18,
@@ -289,7 +236,9 @@
     "name": "Crystal Fields",
     "complexity": 1,
     "monsters": [
-      "frozen-corpse"
+      "frozen-corpse",
+      "algox-guard",
+      "burrowing-blade"
     ]
   },
   {
@@ -325,7 +274,9 @@
     "monsters": [
       "frost-demon",
       "living-spirit",
-      "snow-imp"
+      "snow-imp",
+      "living-bones",
+      "prince-of-frost"
     ]
   },
   {
@@ -336,7 +287,8 @@
     "complexity": 2,
     "monsters": [
       "lurker-clawcrusher",
-      "lurker-wavethrower"
+      "lurker-wavethrower",
+      "lightning-eel"
     ]
   },
   {
@@ -347,7 +299,8 @@
     "complexity": 1,
     "monsters": [
       "living-bones",
-      "living-spirit"
+      "living-spirit",
+      "hateful-corpse"
     ]
   },
   {
@@ -358,7 +311,8 @@
     "complexity": 2,
     "monsters": [
       "chaos-demon",
-      "living-bones"
+      "living-bones",
+      "wind-demon"
     ]
   },
   {
@@ -369,7 +323,8 @@
     "complexity": 2,
     "monsters": [
       "flaming-bladespinner",
-      "robotic-boltshooter"
+      "robotic-boltshooter",
+      "ruined-machine"
     ]
   },
   {
@@ -443,7 +398,8 @@
     "complexity": 2,
     "monsters": [
       "flaming-bladespinner",
-      "steel-automaton"
+      "steel-automaton",
+      "robotic-boltshooter"
     ]
   },
   {
@@ -453,6 +409,9 @@
     "name": "Ravens' Roost",
     "complexity": 2,
     "monsters": [
+      "frozen-corpse-scenario-32",
+      "harrower-infester",
+      "shrike-fiend"
     ]
   },
   {
@@ -463,7 +422,9 @@
     "complexity": 3,
     "monsters": [
       "black-imp",
-      "shrike-fiend"
+      "shrike-fiend",
+      "earth-demon",
+      "flame-demon"
     ]
   },
   {
@@ -473,6 +434,7 @@
     "name": "Top of the Spire",
     "complexity": 2,
     "monsters": [
+      "chaos-spark",
       "lord-of-chaos"
     ]
   },
@@ -508,7 +470,8 @@
     "complexity": 1,
     "monsters": [
       "living-bones",
-      "living-spirit"
+      "living-spirit",
+      "ruined-machine"
     ]
   },
   {
@@ -519,7 +482,8 @@
     "complexity": 3,
     "monsters": [
       "hound",
-      "polar-bear"
+      "polar-bear",
+      "sun-demon"
     ]
   },
   {
@@ -532,7 +496,8 @@
       "algox-guard",
       "algox-scout",
       "black-imp",
-      "frozen-corpse"
+      "frozen-corpse",
+      "deep-terror"
     ]
   },
   {
@@ -544,7 +509,9 @@
     "monsters": [
       "algox-guard",
       "ruined-machine",
-      "steel-automaton"
+      "steel-automaton",
+      "algox-archer",
+      "flaming-bladespinner"
     ]
   },
   {
@@ -556,7 +523,8 @@
     "monsters": [
       "deep-terror",
       "living-doom",
-      "living-spirit"
+      "living-spirit",
+      "night-demon"
     ]
   },
   {
@@ -567,7 +535,8 @@
     "complexity": 1,
     "monsters": [
       "deep-terror",
-      "ooze"
+      "ooze",
+      "night-demon"
     ]
   },
   {
@@ -589,7 +558,10 @@
     "name": "Nerve Center",
     "complexity": 2,
     "monsters": [
-      "flaming-bladespinner"
+      "flaming-bladespinner",
+      "ancient-artillery",
+      "ruined-machine",
+      "steel-automaton"
     ]
   },
   {
@@ -613,7 +585,8 @@
     "complexity": 2,
     "monsters": [
       "burrowing-blade",
-      "shrike-fiend"
+      "shrike-fiend",
+      "frozen-corpse"
     ]
   },
   {
@@ -624,7 +597,8 @@
     "complexity": 1,
     "monsters": [
       "algox-icespeaker",
-      "shrike-fiend"
+      "shrike-fiend",
+      "harrower-infester"
     ]
   },
   {
@@ -635,7 +609,8 @@
     "complexity": 2,
     "monsters": [
       "abael-scout",
-      "wind-demon"
+      "wind-demon",
+      "frost-demon"
     ]
   },
   {
@@ -645,7 +620,9 @@
     "name": "Beneath Sea and Stone",
     "complexity": 3,
     "monsters": [
-      "deep-terror"
+      "deep-terror",
+      "frost-demon",
+      "black-imp"
     ]
   },
   {
@@ -669,7 +646,9 @@
     "complexity": 3,
     "monsters": [
       "ancient-artillery",
-      "steel-automaton"
+      "steel-automaton",
+      "flaming-bladespinner",
+      "ruined-machine"
     ]
   },
   {
@@ -707,7 +686,8 @@
       "lurker-clawcrusher",
       "lurker-mindsnipper",
       "lurker-soldier",
-      "lurker-wavethrower"
+      "lurker-wavethrower",
+      "seeker-of-the-abyss"
     ]
   },
   {
@@ -719,7 +699,9 @@
     "monsters": [
       "algox-archer",
       "algox-guard",
-      "algox-priest"
+      "algox-priest",
+      "snowdancer",
+      "frozen-fist"
     ]
   },
   {
@@ -731,7 +713,8 @@
     "monsters": [
       "black-imp",
       "harbinger-of-shadow",
-      "harrower-infester"
+      "harrower-infester",
+      "shrike-fiend"
     ]
   },
   {
@@ -754,7 +737,8 @@
     "monsters": [
       "flaming-bladespinner",
       "orphan",
-      "steel-automaton"
+      "steel-automaton",
+      "ruined-machine"
     ]
   },
   {
@@ -766,7 +750,8 @@
     "monsters": [
       "flaming-bladespinner",
       "robotic-boltshooter",
-      "ruined-machine"
+      "ruined-machine",
+      "steel-automaton"
     ]
   },
   {
@@ -779,8 +764,11 @@
       "fracture-of-the-deep",
       "lightning-eel",
       "lurker-clawcrusher",
+      "lurker-clawcrusher-scenario-60",
       "lurker-mindsnipper",
-      "lurker-wavethrower"
+      "lurker-mindsnipper-scenario-60",
+      "lurker-wavethrower",
+      "lurker-wavethrower-scenario-60"
     ]
   },
   {
@@ -791,7 +779,8 @@
     "complexity": 2,
     "monsters": [
       "deep-terror",
-      "harrower-infester"
+      "harrower-infester",
+      "earth-demon"
     ]
   },
   {
@@ -832,7 +821,8 @@
       "guard-captain",
       "living-doom",
       "living-spirit",
-      "shrike-fiend"
+      "shrike-fiend",
+      "vestige-of-the-imprisoned-god"
     ]
   },
   {
@@ -842,6 +832,10 @@
     "name": "A Strong Foundation",
     "complexity": 1,
     "monsters": [
+      "frozen-corpse-scenario-65",
+      "living-bones-scenario-65",
+      "snow-imp-scenario-65",
+      "rimeheart"
     ]
   },
   {
@@ -850,7 +844,14 @@
     "link": "66",
     "name": "Elemental Cores",
     "complexity": 2,
-    "monsters": []
+    "monsters": [
+      "earth-demon",
+      "flame-demon",
+      "sun-demon",
+      "night-demon",
+      "wind-demon",
+      "frost-demon"
+    ]
   },
   {
     "number": 67,
@@ -905,7 +906,9 @@
     "complexity": 1,
     "monsters": [
       "city-guard",
-      "hound"
+      "hound",
+      "flaming-sword-of-justice",
+      "sun-demon"
     ]
   },
   {
@@ -916,7 +919,10 @@
     "complexity": 3,
     "monsters": [
       "abael-scout",
-      "piranha-pig"
+      "piranha-pig",
+      "lurker-clawcrusher",
+      "lurker-mindsnipper",
+      "lurker-wavethrower"
     ]
   },
   {
@@ -926,7 +932,10 @@
     "name": "A Giant Block of Ice",
     "complexity": 2,
     "monsters": [
-      "ice-wraith"
+      "ice-wraith",
+      "frozen-corpse",
+      "living-bones",
+      "steel-automaton"
     ]
   },
   {
@@ -937,7 +946,10 @@
     "complexity": 2,
     "monsters": [
       "lightning-eel",
-      "piranha-pig"
+      "piranha-pig",
+      "abael-herder",
+      "fish-king",
+      "abael-scout"
     ]
   },
   {
@@ -948,7 +960,11 @@
     "complexity": 2,
     "monsters": [
       "algox-archer",
-      "piranha-pig"
+      "piranha-pig",
+      "algox-priest",
+      "wind-demon",
+      "algox-guard",
+      "forest-imp"
     ]
   },
   {
@@ -958,7 +974,11 @@
     "name": "Gaps in the Road B",
     "complexity": 2,
     "monsters": [
-      "algox-archer"
+      "algox-archer",
+      "piranha-pig",
+      "algox-guard",
+      "algox-priest",
+      "forest-imp"
     ]
   },
   {
@@ -970,7 +990,10 @@
     "monsters": [
       "abael-herder",
       "lightning-eel",
-      "piranha-pig"
+      "piranha-pig",
+      "abael-scout",
+      "frost-demon",
+      "chaos-demon"
     ]
   },
   {
@@ -982,8 +1005,10 @@
     "monsters": [
       "algox-archer",
       "algox-guard",
+      "fish-king-scenario-76",
       "lurker-mindsnipper",
-      "piranha-pig"
+      "piranha-pig",
+      "flaming-bladespinner"
     ]
   },
   {
@@ -993,7 +1018,11 @@
     "name": "Fish King's Ascension",
     "complexity": 3,
     "monsters": [
-      "piranha-pig"
+      "fish-king-scenario-77",
+      "piranha-pig",
+      "night-demon",
+      "wind-demon",
+      "frost-demon"
     ]
   },
   {
@@ -1005,7 +1034,10 @@
     "monsters": [
       "lurker-soldier",
       "lurker-wavethrower",
-      "piranha-pig"
+      "piranha-pig",
+      "lightning-eel",
+      "abael-scout",
+      "abael-herder"
     ]
   },
   {
@@ -1016,7 +1048,9 @@
     "complexity": 3,
     "monsters": [
       "ice-wraith",
-      "snow-imp"
+      "snow-imp",
+      "frozen-corpse",
+      "polar-bear"
     ]
   },
   {
@@ -1041,7 +1075,8 @@
     "monsters": [
       "ancient-artillery",
       "ruined-machine",
-      "steel-automaton"
+      "steel-automaton",
+      "flaming-bladespinner"
     ]
   },
   {
@@ -1064,6 +1099,7 @@
     "monsters": [
       "ancient-artillery",
       "giant-piranha-pig",
+      "giant-piranha-pig-boss",
       "lurker-mindsnipper",
       "piranha-pig"
     ]
@@ -1087,7 +1123,9 @@
     "complexity": 3,
     "monsters": [
       "burrowing-blade",
-      "polar-bear"
+      "polar-bear",
+      "black-imp",
+      "lightning-eel"
     ]
   },
   {
@@ -1099,7 +1137,8 @@
     "monsters": [
       "black-imp",
       "earth-demon",
-      "ice-wraith"
+      "ice-wraith",
+      "lady-in-white"
     ]
   },
   {
@@ -1110,7 +1149,12 @@
     "complexity": 1,
     "monsters": [
       "algox-archer",
-      "algox-guard"
+      "algox-guard",
+      "polar-bear",
+      "steel-automaton",
+      "brother",
+      "flaming-bladespinner",
+      "lurker-clawcrusher"
     ]
   },
   {
@@ -1125,7 +1169,9 @@
       "frost-demon",
       "savvas-icestorm",
       "savvas-lavaflow",
-      "wind-demon"
+      "wind-demon",
+      "the-collector",
+      "lurker-clawcrusher"
     ]
   },
   {
@@ -1135,7 +1181,10 @@
     "name": "A Contained Fire",
     "complexity": 2,
     "monsters": [
-      "algox-guard"
+      "algox-guard",
+      "algox-priest",
+      "algox-archer",
+      "vanjal"
     ]
   },
   {
@@ -1213,7 +1262,9 @@
     "complexity": 3,
     "monsters": [
       "ancient-artillery",
-      "ruined-machine"
+      "ruined-machine",
+      "steel-automaton",
+      "vermling-scout-scenario-94"
     ]
   },
   {
@@ -1223,7 +1274,12 @@
     "name": "To Bury the Dead",
     "complexity": 2,
     "monsters": [
-      "ice-wraith"
+      "ice-wraith",
+      "living-bones",
+      "living-doom",
+      "reluctant-ghost-section-149.3",
+      "living-spirit",
+      "reluctant-ghost"
     ]
   },
   {
@@ -1234,7 +1290,8 @@
     "complexity": 2,
     "monsters": [
       "ancient-artillery",
-      "rending-drake"
+      "rending-drake",
+      "black-imp"
     ]
   },
   {
@@ -1260,7 +1317,8 @@
     "monsters": [
       "ancient-artillery",
       "black-imp",
-      "spitting-drake"
+      "spitting-drake",
+      "burrowing-blade"
     ]
   },
   {
@@ -1271,7 +1329,8 @@
     "complexity": 1,
     "monsters": [
       "frozen-corpse",
-      "robotic-boltshooter"
+      "robotic-boltshooter",
+      "steel-automaton"
     ]
   },
   {
@@ -1282,7 +1341,9 @@
     "complexity": 3,
     "monsters": [
       "lurker-mindsnipper",
-      "shrike-fiend"
+      "shrike-fiend",
+      "burrowing-blade",
+      "earth-demon"
     ]
   },
   {
@@ -1293,7 +1354,8 @@
     "complexity": 1,
     "monsters": [
       "algox-archer",
-      "algox-guard"
+      "algox-guard",
+      "algox-priest"
     ]
   },
   {
@@ -1333,7 +1395,9 @@
     "monsters": [
       "earth-demon",
       "frost-demon",
-      "wind-demon"
+      "wind-demon",
+      "forest-imp",
+      "savvas-icestorm"
     ]
   },
   {
@@ -1346,7 +1410,8 @@
       "earth-demon",
       "flame-demon",
       "savvas-lavaflow",
-      "wind-demon"
+      "wind-demon",
+      "rending-drake"
     ]
   },
   {
@@ -1355,7 +1420,13 @@
     "link": "106",
     "name": "The Tempus Forge",
     "complexity": 2,
-    "monsters": []
+    "monsters": [
+      "wind-demon",
+      "earth-demon",
+      "frost-demon",
+      "blacksmith",
+      "flame-demon"
+    ]
   },
   {
     "number": 107,
@@ -1363,7 +1434,14 @@
     "link": "107",
     "name": "My Private Empire",
     "complexity": 2,
-    "monsters": []
+    "monsters": [
+      "steel-automaton",
+      "living-bones",
+      "living-doom",
+      "flaming-bladespinner",
+      "robotic-boltshooter",
+      "ruined-machine"
+    ]
   },
   {
     "number": 108,
@@ -1383,7 +1461,11 @@
     "name": "Furious Factory",
     "complexity": 3,
     "monsters": [
-      "ancient-artillery"
+      "ancient-artillery",
+      "flaming-bladespinner",
+      "ruined-machine",
+      "laser-spires",
+      "steel-automaton"
     ]
   },
   {
@@ -1395,7 +1477,8 @@
     "monsters": [
       "living-spirit",
       "ruined-machine",
-      "shrike-fiend"
+      "shrike-fiend",
+      "living-doom"
     ]
   },
   {
@@ -1406,7 +1489,10 @@
     "complexity": 3,
     "monsters": [
       "frost-demon",
-      "hound"
+      "hound",
+      "night-demon",
+      "the-shimmer",
+      "wind-demon"
     ]
   },
   {
@@ -1417,7 +1503,9 @@
     "complexity": 1,
     "monsters": [
       "burrowing-blade",
-      "earth-demon"
+      "earth-demon",
+      "hound-scenario-112",
+      "chaos-demon"
     ]
   },
   {
@@ -1428,7 +1516,8 @@
     "complexity": 1,
     "monsters": [
       "chaos-demon",
-      "forest-imp"
+      "forest-imp",
+      "polar-bear"
     ]
   },
   {
@@ -1476,6 +1565,7 @@
     "complexity": 2,
     "monsters": [
       "hound",
+      "polar-bear-scenario-117",
       "vermling-priest",
       "vermling-scout"
     ]
@@ -1488,7 +1578,9 @@
     "complexity": 1,
     "monsters": [
       "frozen-corpse",
-      "living-bones"
+      "living-bones",
+      "lurker-mindsnipper",
+      "lurker-soldier"
     ]
   },
   {
@@ -1500,7 +1592,9 @@
     "monsters": [
       "burrowing-blade",
       "rending-drake",
-      "spitting-drake"
+      "spitting-drake",
+      "polar-bear",
+      "shrike-fiend"
     ]
   },
   {
@@ -1511,7 +1605,11 @@
     "complexity": 1,
     "monsters": [
       "city-guard",
-      "hound"
+      "hound",
+      "vermling-priest",
+      "vermling-scout",
+      "robotic-boltshooter",
+      "steel-automaton"
     ]
   },
   {
@@ -1522,7 +1620,9 @@
     "complexity": 3,
     "monsters": [
       "vermling-priest",
-      "vermling-scout"
+      "vermling-scout",
+      "large-vermling-scout",
+      "augmented-mindthief"
     ]
   },
   {
@@ -1530,7 +1630,13 @@
     "slug": "122",
     "link": "122",
     "name": "The Eternal Crave",
-    "complexity": 2
+    "complexity": 2,
+    "monsters": [
+      "ice-wraith",
+      "snow-imp",
+      "polar-bear",
+      "hungry-maw"
+    ]
   },
   {
     "number": 123,
@@ -1539,7 +1645,9 @@
     "name": "The Titan",
     "complexity": 3,
     "monsters": [
-      "ancient-artillery"
+      "ancient-artillery",
+      "algox-snowspeaker",
+      "power-core"
     ]
   },
   {
@@ -1584,7 +1692,8 @@
     "complexity": 1,
     "monsters": [
       "ancient-artillery",
-      "ice-wraith"
+      "ice-wraith",
+      "frozen-corpse"
     ]
   },
   {
@@ -1594,7 +1703,10 @@
     "name": "A Tall Drunken Tale",
     "complexity": 3,
     "monsters": [
-      "abael-scout"
+      "abael-scout",
+      "lurker-wavethrower-scenario-128",
+      "steel-automaton-scenario-128",
+      "vermling-scout"
     ]
   },
   {
@@ -1604,6 +1716,10 @@
     "name": "How to Lay an Ambush",
     "complexity": 3,
     "monsters": [
+      "city-guard-scenario-129",
+      "algox-guard",
+      "algox-priest",
+      "algox-scout"
     ]
   },
   {
@@ -1626,7 +1742,9 @@
     "complexity": 3,
     "monsters": [
       "lurker-mindsnipper",
-      "lurker-soldier"
+      "lurker-soldier",
+      "lurker-wavethrower-scenario-131",
+      "lurker-conductor"
     ]
   },
   {
@@ -1637,7 +1755,9 @@
     "complexity": 2,
     "monsters": [
       "ice-wraith",
-      "snow-imp"
+      "snow-imp",
+      "frozen-corpse",
+      "frost-demon"
     ]
   },
   {
@@ -1649,7 +1769,8 @@
     "monsters": [
       "forest-imp",
       "rending-drake",
-      "spitting-drake"
+      "spitting-drake",
+      "polar-bear"
     ]
   },
   {
@@ -1661,7 +1782,9 @@
     "monsters": [
       "flaming-bladespinner",
       "robotic-boltshooter",
-      "ruined-machine"
+      "ruined-machine",
+      "shrike-fiend",
+      "steel-automaton-scenario-134"
     ]
   },
   {
@@ -1674,7 +1797,8 @@
       "earth-demon",
       "flame-demon",
       "rending-drake",
-      "sun-demon"
+      "sun-demon",
+      "belara"
     ]
   },
   {
@@ -1685,7 +1809,10 @@
     "complexity": 2,
     "monsters": [
       "lightning-eel",
-      "lurker-wavethrower"
+      "lurker-wavethrower",
+      "piranha-pig",
+      "living-bones",
+      "living-spirit"
     ]
   },
   {
@@ -1697,10 +1824,10 @@
     "monsters": [
       "forest-imp",
       "piranha-pig",
-      "polar-bear"
+      "polar-bear",
+      "ancient-artillery",
+      "flaming-bladespinner",
+      "robotic-boltshooter"
     ]
-  },
-  {
-    "number": null
   }
 ]

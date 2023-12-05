@@ -5,12 +5,12 @@
   "deck": [
     "frosthaven",
     "decks",
-    "giant-piranha-pig-boss"
+    "boss"
   ],
   "image": "/frosthaven/monsters/piranha-pig.png",
   "boss": {
     "0": {
-      "health": 0,
+      "health": "0",
       "shield": 0,
       "retaliate": {
         "range": 0,
@@ -22,7 +22,7 @@
       "immunities": []
     },
     "1": {
-      "health": 0,
+      "health": "0",
       "shield": 0,
       "retaliate": {
         "range": 0,
@@ -34,7 +34,7 @@
       "immunities": []
     },
     "2": {
-      "health": 0,
+      "health": "0",
       "shield": 0,
       "retaliate": {
         "range": 0,
@@ -46,7 +46,7 @@
       "immunities": []
     },
     "3": {
-      "health": 0,
+      "health": "0",
       "shield": 0,
       "retaliate": {
         "range": 0,
@@ -58,7 +58,7 @@
       "immunities": []
     },
     "4": {
-      "health": 0,
+      "health": "0",
       "shield": 0,
       "retaliate": {
         "range": 0,
@@ -70,7 +70,7 @@
       "immunities": []
     },
     "5": {
-      "health": 0,
+      "health": "0",
       "shield": 0,
       "retaliate": {
         "range": 0,
@@ -82,7 +82,7 @@
       "immunities": []
     },
     "6": {
-      "health": 0,
+      "health": "0",
       "shield": 0,
       "retaliate": {
         "range": 0,
@@ -94,7 +94,7 @@
       "immunities": []
     },
     "7": {
-      "health": 0,
+      "health": "0",
       "shield": 0,
       "retaliate": {
         "range": 0,

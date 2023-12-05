@@ -10,14 +10,14 @@
   "image": "/frosthaven/monsters/robotic-boltshooter.png",
   "normal": {
     "0": {
-      "health": 4,
+      "health": "4",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 1,
-      "attack": 1,
+      "attack": "1",
       "attackModifiers": [
         {
           "type": "target",
@@ -29,14 +29,14 @@
       ]
     },
     "1": {
-      "health": 4,
+      "health": "4",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 1,
-      "attack": 2,
+      "attack": "2",
       "attackModifiers": [
         {
           "type": "target",
@@ -48,14 +48,14 @@
       ]
     },
     "2": {
-      "health": 6,
+      "health": "6",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 1,
-      "attack": 2,
+      "attack": "2",
       "attackModifiers": [
         {
           "type": "target",
@@ -67,14 +67,14 @@
       ]
     },
     "3": {
-      "health": 6,
+      "health": "6",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 1,
-      "attack": 2,
+      "attack": "2",
       "attackModifiers": [
         {
           "type": "target",
@@ -86,14 +86,14 @@
       ]
     },
     "4": {
-      "health": 6,
+      "health": "6",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 1,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [
         {
           "type": "target",
@@ -105,14 +105,14 @@
       ]
     },
     "5": {
-      "health": 8,
+      "health": "8",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 2,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [
         {
           "type": "target",
@@ -124,14 +124,14 @@
       ]
     },
     "6": {
-      "health": 10,
+      "health": "10",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 2,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [
         {
           "type": "target",
@@ -143,14 +143,14 @@
       ]
     },
     "7": {
-      "health": 13,
+      "health": "13",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 2,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [
         {
           "type": "target",
@@ -165,14 +165,14 @@
   },
   "elite": {
     "0": {
-      "health": 7,
+      "health": "7",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 1,
-      "attack": 1,
+      "attack": "1",
       "attackModifiers": [
         {
           "type": "target",
@@ -184,14 +184,14 @@
       ]
     },
     "1": {
-      "health": 7,
+      "health": "7",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 1,
-      "attack": 2,
+      "attack": "2",
       "attackModifiers": [
         {
           "type": "target",
@@ -203,14 +203,14 @@
       ]
     },
     "2": {
-      "health": 9,
+      "health": "9",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 1,
-      "attack": 2,
+      "attack": "2",
       "attackModifiers": [
         {
           "type": "target",
@@ -222,14 +222,14 @@
       ]
     },
     "3": {
-      "health": 10,
+      "health": "10",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 1,
-      "attack": 2,
+      "attack": "2",
       "attackModifiers": [
         {
           "type": "target",
@@ -241,14 +241,14 @@
       ]
     },
     "4": {
-      "health": 11,
+      "health": "11",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 1,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [
         {
           "type": "target",
@@ -260,14 +260,14 @@
       ]
     },
     "5": {
-      "health": 14,
+      "health": "14",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 2,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [
         {
           "type": "target",
@@ -279,14 +279,14 @@
       ]
     },
     "6": {
-      "health": 17,
+      "health": "17",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 2,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [
         {
           "type": "target",
@@ -299,14 +299,14 @@
       ]
     },
     "7": {
-      "health": 23,
+      "health": "23",
       "shield": 0,
       "retaliate": {
         "range": 0,
         "value": 0
       },
       "movement": 2,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [
         {
           "type": "target",

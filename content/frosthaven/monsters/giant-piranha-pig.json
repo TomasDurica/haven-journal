@@ -17,7 +17,7 @@
         "value": 0
       },
       "movement": 1,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [],
       "immunities": []
     },
@@ -29,7 +29,7 @@
         "value": 0
       },
       "movement": 1,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [
         {
           "type": "condition",
@@ -46,7 +46,7 @@
         "value": 0
       },
       "movement": 1,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [
         {
           "type": "condition",
@@ -63,7 +63,7 @@
         "value": 0
       },
       "movement": 1,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [
         {
           "type": "condition",
@@ -80,7 +80,7 @@
         "value": 0
       },
       "movement": 1,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [
         {
           "type": "condition",
@@ -97,7 +97,7 @@
         "value": 0
       },
       "movement": 1,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [
         {
           "type": "condition",
@@ -114,7 +114,7 @@
         "value": 0
       },
       "movement": 1,
-      "attack": 5,
+      "attack": "5",
       "attackModifiers": [
         {
           "type": "condition",
@@ -131,7 +131,7 @@
         "value": 0
       },
       "movement": 1,
-      "attack": 6,
+      "attack": "6",
       "attackModifiers": [
         {
           "type": "condition",
@@ -150,7 +150,7 @@
         "value": 0
       },
       "movement": 1,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [],
       "immunities": []
     },
@@ -162,7 +162,7 @@
         "value": 0
       },
       "movement": 1,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [
         {
           "type": "condition",
@@ -179,7 +179,7 @@
         "value": 0
       },
       "movement": 1,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [
         {
           "type": "condition",
@@ -196,7 +196,7 @@
         "value": 0
       },
       "movement": 1,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [
         {
           "type": "condition",
@@ -213,7 +213,7 @@
         "value": 0
       },
       "movement": 1,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [
         {
           "type": "condition",
@@ -230,7 +230,7 @@
         "value": 0
       },
       "movement": 1,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [
         {
           "type": "condition",
@@ -247,7 +247,7 @@
         "value": 0
       },
       "movement": 1,
-      "attack": 5,
+      "attack": "5",
       "attackModifiers": [
         {
           "type": "condition",
@@ -264,7 +264,7 @@
         "value": 0
       },
       "movement": 1,
-      "attack": 6,
+      "attack": "6",
       "attackModifiers": [
         {
           "type": "condition",

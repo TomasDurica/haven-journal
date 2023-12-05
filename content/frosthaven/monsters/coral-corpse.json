@@ -17,7 +17,7 @@
         "value": 0
       },
       "movement": 2,
-      "attack": 2,
+      "attack": "2",
       "attackModifiers": [
         {
           "type": "condition",
@@ -38,7 +38,7 @@
         "value": 1
       },
       "movement": 2,
-      "attack": 2,
+      "attack": "2",
       "attackModifiers": [
         {
           "type": "condition",
@@ -63,7 +63,7 @@
         "value": 1
       },
       "movement": 2,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [
         {
           "type": "condition",
@@ -88,7 +88,7 @@
         "value": 2
       },
       "movement": 2,
-      "attack": 3,
+      "attack": "3",
       "attackModifiers": [
         {
           "type": "condition",
@@ -113,7 +113,7 @@
         "value": 2
       },
       "movement": 2,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [
         {
           "type": "condition",
@@ -138,7 +138,7 @@
         "value": 3
       },
       "movement": 3,
-      "attack": 4,
+      "attack": "4",
       "attackModifiers": [
         {
           "type": "condition",
@@ -163,7 +163,7 @@
         "value": 3
       },
       "movement": 3,
-      "attack": 5,
+      "attack": "5",
       "attackModifiers": [
         {
           "type": "condition",
@@ -188,7 +188,7 @@
         "value": 3
       },
       "movement": 4,
-      "attack": 6,
+      "attack": "6",
       "attackModifiers": [
         {
           "type": "condition",

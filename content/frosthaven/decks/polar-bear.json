@@ -1,44 +1,42 @@
-{
-  "abilities": [
-    {
-      "name": "Hibernate",
-      "initiative": 3,
-      "image": "/frosthaven/decks/polar-bear/8.png"
-    },
-    {
-      "name": "Hasty Assault",
-      "initiative": 13,
-      "image": "/frosthaven/decks/polar-bear/1.png"
-    },
-    {
-      "name": "Low Slash",
-      "initiative": 14,
-      "image": "/frosthaven/decks/polar-bear/2.png"
-    },
-    {
-      "name": "Full Force",
-      "initiative": 29,
-      "image": "/frosthaven/decks/polar-bear/3.png"
-    },
-    {
-      "name": "Nothing Special",
-      "initiative": 41,
-      "image": "/frosthaven/decks/polar-bear/4.png"
-    },
-    {
-      "name": "Calculated Strike",
-      "initiative": 60,
-      "image": "/frosthaven/decks/polar-bear/5.png"
-    },
-    {
-      "name": "Claw Swipes",
-      "initiative": 61,
-      "image": "/frosthaven/decks/polar-bear/7.png"
-    },
-    {
-      "name": "Rampage",
-      "initiative": 80,
-      "image": "/frosthaven/decks/polar-bear/6.png"
-    }
-  ]
-}
+[
+  {
+    "name": "Hibernate",
+    "initiative": 3,
+    "image": "frosthaven/decks/polar-bear/8.png"
+  },
+  {
+    "name": "Hasty Assault",
+    "initiative": 13,
+    "image": "frosthaven/decks/polar-bear/1.png"
+  },
+  {
+    "name": "Low Slash",
+    "initiative": 14,
+    "image": "frosthaven/decks/polar-bear/2.png"
+  },
+  {
+    "name": "Full Force",
+    "initiative": 29,
+    "image": "frosthaven/decks/polar-bear/3.png"
+  },
+  {
+    "name": "Nothing Special",
+    "initiative": 41,
+    "image": "frosthaven/decks/polar-bear/4.png"
+  },
+  {
+    "name": "Calculated Strike",
+    "initiative": 60,
+    "image": "frosthaven/decks/polar-bear/5.png"
+  },
+  {
+    "name": "Claw Swipes",
+    "initiative": 61,
+    "image": "frosthaven/decks/polar-bear/7.png"
+  },
+  {
+    "name": "Rampage",
+    "initiative": 80,
+    "image": "frosthaven/decks/polar-bear/6.png"
+  }
+]

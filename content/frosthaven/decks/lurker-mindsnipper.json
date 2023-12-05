@@ -1,44 +1,42 @@
-{
-  "abilities": [
-    {
-      "name": "Psychic Shock",
-      "initiative": 6,
-      "image": "/frosthaven/decks/lurker-mindsnipper/1.png"
-    },
-    {
-      "name": "Hasty Assault",
-      "initiative": 10,
-      "image": "/frosthaven/decks/lurker-mindsnipper/2.png"
-    },
-    {
-      "name": "Beguiling Thoughts",
-      "initiative": 18,
-      "image": "/frosthaven/decks/lurker-mindsnipper/6.png"
-    },
-    {
-      "name": "Consume All Hope",
-      "initiative": 22,
-      "image": "/frosthaven/decks/lurker-mindsnipper/3.png"
-    },
-    {
-      "name": "Calculated Strike",
-      "initiative": 34,
-      "image": "/frosthaven/decks/lurker-mindsnipper/4.png"
-    },
-    {
-      "name": "Instill Fear",
-      "initiative": 37,
-      "image": "/frosthaven/decks/lurker-mindsnipper/5.png"
-    },
-    {
-      "name": "Paralyze",
-      "initiative": 46,
-      "image": "/frosthaven/decks/lurker-mindsnipper/8.png"
-    },
-    {
-      "name": "Turn the Weak",
-      "initiative": 51,
-      "image": "/frosthaven/decks/lurker-mindsnipper/7.png"
-    }
-  ]
-}
+[
+  {
+    "name": "Psychic Shock",
+    "initiative": 6,
+    "image": "frosthaven/decks/lurker-mindsnipper/1.png"
+  },
+  {
+    "name": "Hasty Assault",
+    "initiative": 10,
+    "image": "frosthaven/decks/lurker-mindsnipper/2.png"
+  },
+  {
+    "name": "Beguiling Thoughts",
+    "initiative": 18,
+    "image": "frosthaven/decks/lurker-mindsnipper/6.png"
+  },
+  {
+    "name": "Consume All Hope",
+    "initiative": 22,
+    "image": "frosthaven/decks/lurker-mindsnipper/3.png"
+  },
+  {
+    "name": "Calculated Strike",
+    "initiative": 34,
+    "image": "frosthaven/decks/lurker-mindsnipper/4.png"
+  },
+  {
+    "name": "Instill Fear",
+    "initiative": 37,
+    "image": "frosthaven/decks/lurker-mindsnipper/5.png"
+  },
+  {
+    "name": "Paralyze",
+    "initiative": 46,
+    "image": "frosthaven/decks/lurker-mindsnipper/8.png"
+  },
+  {
+    "name": "Turn the Weak",
+    "initiative": 51,
+    "image": "frosthaven/decks/lurker-mindsnipper/7.png"
+  }
+]

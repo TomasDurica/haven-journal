@@ -17,7 +17,7 @@
         "value": 0
       },
       "movement": 2,
-      "attack": 5,
+      "attack": "5",
       "attackModifiers": [
         {
           "type": "target",
@@ -40,7 +40,7 @@
         "value": 0
       },
       "movement": 3,
-      "attack": 6,
+      "attack": "6",
       "attackModifiers": [
         {
           "type": "target",
@@ -63,7 +63,7 @@
         "value": 0
       },
       "movement": 3,
-      "attack": 7,
+      "attack": "7",
       "attackModifiers": [
         {
           "type": "target",
@@ -86,7 +86,7 @@
         "value": 0
       },
       "movement": 3,
-      "attack": 8,
+      "attack": "8",
       "attackModifiers": [
         {
           "type": "target",
@@ -109,7 +109,7 @@
         "value": 0
       },
       "movement": 3,
-      "attack": 9,
+      "attack": "9",
       "attackModifiers": [
         {
           "type": "target",
@@ -132,7 +132,7 @@
         "value": 0
       },
       "movement": 4,
-      "attack": 10,
+      "attack": "10",
       "attackModifiers": [
         {
           "type": "target",
@@ -155,7 +155,7 @@
         "value": 0
       },
       "movement": 4,
-      "attack": 11,
+      "attack": "11",
       "attackModifiers": [
         {
           "type": "target",
@@ -178,7 +178,7 @@
         "value": 0
       },
       "movement": 4,
-      "attack": 12,
+      "attack": "12",
       "attackModifiers": [
         {
           "type": "target",
