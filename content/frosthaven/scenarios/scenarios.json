@@ -373,7 +373,9 @@
     "monsters": [
       "algox-icespeaker",
       "algox-priest",
-      "algox-scout"
+      "algox-scout",
+      "algox-archer",
+      "algox-guard"
     ]
   },
   {
