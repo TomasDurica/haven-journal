@@ -1,5 +1,6 @@
 ﻿<script setup lang="ts">
   import type { DialogFullscreen } from '#components'
+  import { useDeck } from '~/composables/useMonster'
 
   const { name } = defineProps<{
     name: string
@@ -7,21 +8,24 @@
 
   const { difficulty } = useScenarioLevel()
   const monster = await useMonster(name, toValue(difficulty))
+  const { unlocked, unlockCard, deckSize } = await useDeck(monster.deck)
 
   const dialog = ref<typeof DialogFullscreen>()
 
   const openDialog = async () => {
-    if (!toValue(monster).deck.size) {
+    if (!toValue(deckSize)) {
       return
     }
 
     await toValue(dialog).open()
   }
 
+  const { isFavorite, removeFavorite, addFavorite } = useFavoriteMonsters()
+
 </script>
 
 <template>
-  <section class="py-4 b-b-1 b-dark-400 space-y-2">
+  <section class="py-4 b-b-1 b-dark-400 space-y-2" v-bind="$attrs">
     <div class="flex gap-2">
       <div v-if="monster.normal" class="flex-1 flex flex-col items-end text-3">
         <div class="flex-1 flex gap-2 items-end pb-1">
@@ -68,11 +72,11 @@
         <button class="w-20 h-20 rounded-full overflow-clip relative" @click="openDialog">
           <img :src="monster.image" :alt="name" />
           <span
-            v-if="monster.deck.size"
+            v-if="deckSize"
             class="absolute bottom-0 left-0 right-0 text-3 font-bold text-center bg-opacity-69 bg-dark-800"
           >
             <client-only fallback="0 / 8">
-              {{ monster.deck.unlocked.length }} / {{ monster.deck.size }}
+              {{ unlocked.length }} / {{ deckSize }}
             </client-only>
           </span>
         </button>
@@ -160,8 +164,8 @@
     <div class="flex justify-center gap-2 text-3">
       <client-only>
         <div
-          v-for="{ initiative } in monster.deck.unlocked"
-          class="flex gap-1 items-center bg-dark-200 rounded-full px-2"
+            v-for="{ initiative } in unlocked"
+            class="flex gap-1 items-center bg-dark-200 rounded-full px-2"
         >
           {{ initiative }}
         </div>
@@ -175,6 +179,13 @@
     </div>
 
     <monster-deck :monster="monster" />
+
+    <div class="fixed grid place-items-center right-2 top-4 z-20 bg-dark-800 rounded-full pa-2 text-8">
+      <client-only>
+        <button v-if="isFavorite(name).value" class="i-mdi-star text-yellow" @click="removeFavorite(name)" />
+        <button v-else class="i-mdi-star-outline" @click="addFavorite(name)" />
+      </client-only>
+    </div>
 
   </dialog-fullscreen>
 </template>

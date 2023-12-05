@@ -1,11 +1,9 @@
 ﻿<script setup lang="ts">
-  import type { Scenario } from '~/composables/useScenarios'
-
-  const { scenario } = defineProps<{ scenario: Scenario }>()
+  const { name } = defineProps<{ name: string }>()
   const { difficulty, trapDamage, hazardDamage } = useScenarioLevel()
 
   const scenarioNameSize = computed(() => {
-    if (scenario.name.length > 16) {
+    if (name.length > 16) {
       return 'text-6'
     }
 
@@ -17,7 +15,7 @@
 <template>
   <div>
     <div class="text-center" :class="scenarioNameSize">
-      {{ scenario.name }}
+      {{ name }}
     </div>
 
     <div class="text-4 flex flex-row gap-4 justify-center">

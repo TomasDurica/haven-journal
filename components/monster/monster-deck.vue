@@ -1,10 +1,12 @@
 ﻿<script setup lang="ts">
-  import type { MonsterResult } from '~/composables/useMonster'
+import { type MonsterResult, useDeck } from '~/composables/useMonster'
   import type { DialogModal } from '#components'
 
   const { monster } = defineProps<{
     monster: MonsterResult
   }>()
+
+  const { unlocked, unlockCard } = await useDeck(monster.deck)
 
   const dialog = ref<DialogModal>()
   const initiative = ref<number>()
@@ -21,7 +23,7 @@
     initiative.value = undefined
     try {
       const value = await toValue(dialog).open()
-      monster.addCard(parseInt(value))
+      unlockCard(parseInt(value))
     } catch { }
   }
 
@@ -72,11 +74,11 @@
     <div class="pb-20 pt-2">
       <client-only>
         <div
-          v-for="{ name, initiative, image } in monster.deck.unlocked"
+          v-for="{ name, image } in unlocked"
           :key="image"
           class="px-4 py-2"
         >
-          <img :src="image" :alt="name" />
+          <img class="mx-auto" :src="image" :alt="name" />
         </div>
       </client-only>
     </div>

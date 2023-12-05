@@ -30,4 +30,12 @@ const filteredScenarios = computed(() => {
   </div>
 
   <scenario-list :scenarios="filteredScenarios" />
+
+  <hr class="b-dark-50" />
+
+  <div class="flex gap-2 justify-center py-4">
+    <a class="px-4 color-yellow" href="/monsters/all">All monsters</a>
+    <a class="px-4 color-yellow" href="/monsters/favorites">Favorites</a>
+  </div>
+
 </template>

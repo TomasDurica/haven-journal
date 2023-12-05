@@ -1075,8 +1075,6 @@
     "name": "Ruinous Research Lab",
     "complexity": 3,
     "monsters": [
-      "aesther-ashblade",
-      "aesther-scout",
       "ancient-artillery",
       "flaming-bladespinner",
       "ruined-machine",

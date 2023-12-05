@@ -1,7 +1,4 @@
-﻿import { useLocalStorage } from '@vueuse/core'
-import type { NuxtApp } from '#app'
-
-export type AttackModifier = {
+﻿export type AttackModifier = {
   type: 'pierce' | 'pull' | 'push' | 'target',
   value: number
 } | {
@@ -43,21 +40,15 @@ type Monster = {
   image: string
 }
 
-type Deck = Card[]
-
 export type MonsterResult = {
   name: string,
+  deck: string[],
   image: string,
   flying: boolean,
   catchable: boolean,
   normal?: MonsterLevel,
   elite?: MonsterLevel,
-  boss?: MonsterLevel,
-  deck: {
-    size: number,
-    unlocked: Card[]
-  },
-  addCard: (card: number) => void
+  boss?: MonsterLevel
 }
 
 const queryMonster = async (name: string) => {
@@ -69,35 +60,39 @@ const queryMonster = async (name: string) => {
   return toValue(data)!
 }
 
-const queryDeck = async (name: string[]) => {
-  const [edition, ...path] = name
-
-  const { data } = await useAsyncData<{ body: Deck }>(
-    name.join('/'),
-    () => queryContent(edition, ...path).findOne() as unknown as Promise<{ body: Deck }>
+const queryAllMonsters = async () => {
+  const { data } = await useAsyncData<{ body: string[] }>(
+    `frosthaven/monsters/index`,
+    () => queryContent('frosthaven', 'monsters', 'all').findOne() as unknown as Promise<{ body: string[] }>
   )
 
   return toValue(data)!.body
 }
 
-const useDeck = async (nuxtApp: NuxtApp, name: string[]) => {
-  console.log(name)
+const queryDeck = async (name: string[]) => {
+  const [edition, ...path] = name
 
+  const { data } = await useAsyncData<{ body: Card[] }>(
+    name.join('/'),
+    () => queryContent(edition, ...path).findOne() as unknown as Promise<{ body: Card[] }>
+  )
+
+  return toValue(data)!.body
+}
+
+export const useDeck = async (name: string[]) => {
   if (!name.length) {
-    console.log('no name')
     return {
-      deck: {
-        size: 0,
-        unlocked: []
-      },
-      addCard: (_: number) => {}
+      deckSize: 0,
+      unlocked: computed(() => [] as Card[]),
+      unlockCard: (_: number) => {}
     }
   }
 
-  const deck = await nuxtApp.runWithContext(() => queryDeck(name))
+  const deck = await queryDeck(name)
   const unlocked = useLocalStorage<number[]>(`${name.join('/')}`, [])
 
-  const addCard = (card: number) => {
+  const unlockCard = (card: number) => {
     if (isNaN(card)) {
       return
     }
@@ -114,11 +109,9 @@ const useDeck = async (nuxtApp: NuxtApp, name: string[]) => {
   }
 
   return {
-    deck: {
-      size: deck.length,
-      unlocked: deck.filter(({ initiative }) => toValue(unlocked).includes(initiative))
-    },
-    addCard
+    deckSize: deck.length,
+    unlocked: computed(() => deck.filter(({ initiative }) => toValue(unlocked).includes(initiative)) as Card[]),
+    unlockCard
   }
 }
 
@@ -126,22 +119,34 @@ export const useMonster = async (name: string, scenarioLevel: number) => {
   const nuxtApp = useNuxtApp()
 
   const monster = await nuxtApp.runWithContext(() => queryMonster(name))
-  const deck = await useDeck(nuxtApp, monster.deck)
 
-  return computed(() => {
-    if (!monster) {
-      return { name, flying: false, catchable: false } as MonsterResult
-    }
+  return {
+    name: monster.name,
+    deck: monster.deck,
+    image: monster.image,
+    flying: monster.flying,
+    catchable: monster.catchable,
+    normal: monster.normal?.[scenarioLevel],
+    elite: monster.elite?.[scenarioLevel],
+    boss: monster.boss?.[scenarioLevel]
+  } as MonsterResult
+}
 
-    return {
-      name: monster.name,
-      image: monster.image,
-      flying: monster.flying,
-      catchable: monster.catchable,
-      normal: monster.normal?.[scenarioLevel],
-      elite: monster.elite?.[scenarioLevel],
-      boss: monster.boss?.[scenarioLevel],
-      ...deck
-    } as MonsterResult
-  })
+export const useAllMonsters = async () => {
+  const nuxtApp = useNuxtApp()
+
+  const monster = await nuxtApp.runWithContext(() => queryAllMonsters())
+
+  return toValue(monster)
+}
+
+export const useFavoriteMonsters = () => {
+  const favorites = useLocalStorage('frosthaven/monsters/_favorites', [] as string[])
+
+  return {
+    favorites: readonly(favorites),
+    isFavorite: (name: string) => computed(() => toValue(favorites).includes(name)),
+    removeFavorite: (name: string) => { favorites.value = toValue(favorites).filter(e => e !== name).sort() },
+    addFavorite: (name: string) => { favorites.value = [name, ...toValue(favorites)].sort() },
+  }
 }

@@ -9,6 +9,7 @@ const { scenarios } = defineProps<{
 
 <template>
   <nav
+    v-if="scenarios.length"
     class="pa-4 mx-auto max-w-max pt-4 grid gap-4 grid-cols-5 justify-center place-items-center"
   >
     <a
@@ -28,4 +29,7 @@ const { scenarios } = defineProps<{
       </svg>
     </a>
   </nav>
+  <div v-if="!scenarios.length" class="grid place-items-center py-8 text-dark-50">
+    <span> No scenarios found </span>
+  </div>
 </template>
