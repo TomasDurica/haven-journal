@@ -2,41 +2,41 @@
   {
     "name": "Circle of Fire",
     "initiative": 22,
-    "image": "frosthaven/decks/savvas-lavaflow/3.png"
+    "image": "/frosthaven/decks/savvas-lavaflow/3.png"
   },
   {
     "name": "Strength of the Mountain",
     "initiative": 31,
-    "image": "frosthaven/decks/savvas-lavaflow/7.png"
+    "image": "/frosthaven/decks/savvas-lavaflow/7.png"
   },
   {
     "name": "Stone Spikes",
     "initiative": 41,
-    "image": "frosthaven/decks/savvas-lavaflow/5.png"
+    "image": "/frosthaven/decks/savvas-lavaflow/5.png"
   },
   {
     "name": "Flowing Magma",
     "initiative": 51,
-    "image": "frosthaven/decks/savvas-lavaflow/6.png"
+    "image": "/frosthaven/decks/savvas-lavaflow/6.png"
   },
   {
     "name": "Rock Bomb",
     "initiative": 68,
-    "image": "frosthaven/decks/savvas-lavaflow/4.png"
+    "image": "/frosthaven/decks/savvas-lavaflow/4.png"
   },
   {
     "name": "Fire Bolts",
     "initiative": 68,
-    "image": "frosthaven/decks/savvas-lavaflow/8.png"
+    "image": "/frosthaven/decks/savvas-lavaflow/8.png"
   },
   {
     "name": "Call to the Flame",
     "initiative": 97,
-    "image": "frosthaven/decks/savvas-lavaflow/1.png"
+    "image": "/frosthaven/decks/savvas-lavaflow/1.png"
   },
   {
     "name": "Call to the Earth",
     "initiative": 97,
-    "image": "frosthaven/decks/savvas-lavaflow/2.png"
+    "image": "/frosthaven/decks/savvas-lavaflow/2.png"
   }
 ]

@@ -2,41 +2,41 @@
   {
     "name": "Angry Bulwark",
     "initiative": 2,
-    "image": "frosthaven/decks/harrower-infester/6.png"
+    "image": "/frosthaven/decks/harrower-infester/6.png"
   },
   {
     "name": "Centipede Strike",
     "initiative": 7,
-    "image": "frosthaven/decks/harrower-infester/2.png"
+    "image": "/frosthaven/decks/harrower-infester/2.png"
   },
   {
     "name": "Drain the Essence",
     "initiative": 7,
-    "image": "frosthaven/decks/harrower-infester/4.png"
+    "image": "/frosthaven/decks/harrower-infester/4.png"
   },
   {
     "name": "Restore the Swarm",
     "initiative": 16,
-    "image": "frosthaven/decks/harrower-infester/3.png"
+    "image": "/frosthaven/decks/harrower-infester/3.png"
   },
   {
     "name": "Spiked Mandibles",
     "initiative": 16,
-    "image": "frosthaven/decks/harrower-infester/5.png"
+    "image": "/frosthaven/decks/harrower-infester/5.png"
   },
   {
     "name": "Piercing Paracite",
     "initiative": 30,
-    "image": "frosthaven/decks/harrower-infester/7.png"
+    "image": "/frosthaven/decks/harrower-infester/7.png"
   },
   {
     "name": "Biting Gnats",
     "initiative": 38,
-    "image": "frosthaven/decks/harrower-infester/1.png"
+    "image": "/frosthaven/decks/harrower-infester/1.png"
   },
   {
     "name": "Clouds of Hate",
     "initiative": 38,
-    "image": "frosthaven/decks/harrower-infester/8.png"
+    "image": "/frosthaven/decks/harrower-infester/8.png"
   }
 ]

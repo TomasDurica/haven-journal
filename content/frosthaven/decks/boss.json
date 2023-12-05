@@ -2,41 +2,41 @@
   {
     "name": "Accelerated Power",
     "initiative": 11,
-    "image": "frosthaven/decks/boss/1.png"
+    "image": "/frosthaven/decks/boss/1.png"
   },
   {
     "name": "Accelerated Power",
     "initiative": 14,
-    "image": "frosthaven/decks/boss/2.png"
+    "image": "/frosthaven/decks/boss/2.png"
   },
   {
     "name": "Accelerated Power",
     "initiative": 17,
-    "image": "frosthaven/decks/boss/3.png"
+    "image": "/frosthaven/decks/boss/3.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 36,
-    "image": "frosthaven/decks/boss/7.png"
+    "image": "/frosthaven/decks/boss/7.png"
   },
   {
     "name": "Twin Shots",
     "initiative": 52,
-    "image": "frosthaven/decks/boss/8.png"
+    "image": "/frosthaven/decks/boss/8.png"
   },
   {
     "name": "Lingering Strength",
     "initiative": 73,
-    "image": "frosthaven/decks/boss/6.png"
+    "image": "/frosthaven/decks/boss/6.png"
   },
   {
     "name": "Lingering Strength",
     "initiative": 79,
-    "image": "frosthaven/decks/boss/5.png"
+    "image": "/frosthaven/decks/boss/5.png"
   },
   {
     "name": "Lingering Strength",
     "initiative": 85,
-    "image": "frosthaven/decks/boss/4.png"
+    "image": "/frosthaven/decks/boss/4.png"
   }
 ]

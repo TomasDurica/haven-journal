@@ -2,41 +2,41 @@
   {
     "name": "Sap Strength",
     "initiative": 22,
-    "image": "frosthaven/decks/living-spirit/1.png"
+    "image": "/frosthaven/decks/living-spirit/1.png"
   },
   {
     "name": "Booming Scream",
     "initiative": 33,
-    "image": "frosthaven/decks/living-spirit/2.png"
+    "image": "/frosthaven/decks/living-spirit/2.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 48,
-    "image": "frosthaven/decks/living-spirit/3.png"
+    "image": "/frosthaven/decks/living-spirit/3.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 48,
-    "image": "frosthaven/decks/living-spirit/4.png"
+    "image": "/frosthaven/decks/living-spirit/4.png"
   },
   {
     "name": "Angry Howl",
     "initiative": 55,
-    "image": "frosthaven/decks/living-spirit/7.png"
+    "image": "/frosthaven/decks/living-spirit/7.png"
   },
   {
     "name": "Coupled Chain",
     "initiative": 61,
-    "image": "frosthaven/decks/living-spirit/5.png"
+    "image": "/frosthaven/decks/living-spirit/5.png"
   },
   {
     "name": "Icy Glare",
     "initiative": 67,
-    "image": "frosthaven/decks/living-spirit/8.png"
+    "image": "/frosthaven/decks/living-spirit/8.png"
   },
   {
     "name": "Leech Warmth",
     "initiative": 75,
-    "image": "frosthaven/decks/living-spirit/6.png"
+    "image": "/frosthaven/decks/living-spirit/6.png"
   }
 ]

@@ -2,41 +2,41 @@
   {
     "name": "Phase Out",
     "initiative": 5,
-    "image": "frosthaven/decks/imp/1.png"
+    "image": "/frosthaven/decks/imp/1.png"
   },
   {
     "name": "Tip the Scales",
     "initiative": 24,
-    "image": "frosthaven/decks/imp/8.png"
+    "image": "/frosthaven/decks/imp/8.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 37,
-    "image": "frosthaven/decks/imp/2.png"
+    "image": "/frosthaven/decks/imp/2.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 37,
-    "image": "frosthaven/decks/imp/3.png"
+    "image": "/frosthaven/decks/imp/3.png"
   },
   {
     "name": "Restoration",
     "initiative": 42,
-    "image": "frosthaven/decks/imp/4.png"
+    "image": "/frosthaven/decks/imp/4.png"
   },
   {
     "name": "Rotten Sting",
     "initiative": 43,
-    "image": "frosthaven/decks/imp/5.png"
+    "image": "/frosthaven/decks/imp/5.png"
   },
   {
     "name": "Dark Charm",
     "initiative": 43,
-    "image": "frosthaven/decks/imp/7.png"
+    "image": "/frosthaven/decks/imp/7.png"
   },
   {
     "name": "Calculated Strike",
     "initiative": 76,
-    "image": "frosthaven/decks/imp/6.png"
+    "image": "/frosthaven/decks/imp/6.png"
   }
 ]

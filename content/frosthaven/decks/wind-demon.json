@@ -2,41 +2,41 @@
   {
     "name": "Eye of the Storm",
     "initiative": 2,
-    "image": "frosthaven/decks/wind-demon/8.png"
+    "image": "/frosthaven/decks/wind-demon/8.png"
   },
   {
     "name": "Into Thin Air",
     "initiative": 9,
-    "image": "frosthaven/decks/wind-demon/1.png"
+    "image": "/frosthaven/decks/wind-demon/1.png"
   },
   {
     "name": "Tailwind",
     "initiative": 21,
-    "image": "frosthaven/decks/wind-demon/2.png"
+    "image": "/frosthaven/decks/wind-demon/2.png"
   },
   {
     "name": "Tailwind",
     "initiative": 21,
-    "image": "frosthaven/decks/wind-demon/3.png"
+    "image": "/frosthaven/decks/wind-demon/3.png"
   },
   {
     "name": "Whirlwinds",
     "initiative": 29,
-    "image": "frosthaven/decks/wind-demon/4.png"
+    "image": "/frosthaven/decks/wind-demon/4.png"
   },
   {
     "name": "Cyclone",
     "initiative": 37,
-    "image": "frosthaven/decks/wind-demon/5.png"
+    "image": "/frosthaven/decks/wind-demon/5.png"
   },
   {
     "name": "Cutting Blast",
     "initiative": 43,
-    "image": "frosthaven/decks/wind-demon/6.png"
+    "image": "/frosthaven/decks/wind-demon/6.png"
   },
   {
     "name": "Blast of Air",
     "initiative": 43,
-    "image": "frosthaven/decks/wind-demon/7.png"
+    "image": "/frosthaven/decks/wind-demon/7.png"
   }
 ]

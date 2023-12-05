@@ -2,41 +2,41 @@
   {
     "name": "Strong Growth",
     "initiative": 40,
-    "image": "frosthaven/decks/earth-demon/1.png"
+    "image": "/frosthaven/decks/earth-demon/1.png"
   },
   {
     "name": "Hasty Assault",
     "initiative": 42,
-    "image": "frosthaven/decks/earth-demon/2.png"
+    "image": "/frosthaven/decks/earth-demon/2.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 62,
-    "image": "frosthaven/decks/earth-demon/3.png"
+    "image": "/frosthaven/decks/earth-demon/3.png"
   },
   {
     "name": "Boulder Throw",
     "initiative": 71,
-    "image": "frosthaven/decks/earth-demon/4.png"
+    "image": "/frosthaven/decks/earth-demon/4.png"
   },
   {
     "name": "Reckless Charge",
     "initiative": 79,
-    "image": "frosthaven/decks/earth-demon/7.png"
+    "image": "/frosthaven/decks/earth-demon/7.png"
   },
   {
     "name": "Calculated Strike",
     "initiative": 83,
-    "image": "frosthaven/decks/earth-demon/5.png"
+    "image": "/frosthaven/decks/earth-demon/5.png"
   },
   {
     "name": "Earthen Eruption",
     "initiative": 87,
-    "image": "frosthaven/decks/earth-demon/8.png"
+    "image": "/frosthaven/decks/earth-demon/8.png"
   },
   {
     "name": "Ground Slam",
     "initiative": 93,
-    "image": "frosthaven/decks/earth-demon/6.png"
+    "image": "/frosthaven/decks/earth-demon/6.png"
   }
 ]

@@ -2,41 +2,41 @@
   {
     "name": "Fuel Leak",
     "initiative": 29,
-    "image": "frosthaven/decks/ruined-machine/5.png"
+    "image": "/frosthaven/decks/ruined-machine/5.png"
   },
   {
     "name": "Latch On",
     "initiative": 31,
-    "image": "frosthaven/decks/ruined-machine/1.png"
+    "image": "/frosthaven/decks/ruined-machine/1.png"
   },
   {
     "name": "Hasty Assault",
     "initiative": 41,
-    "image": "frosthaven/decks/ruined-machine/2.png"
+    "image": "/frosthaven/decks/ruined-machine/2.png"
   },
   {
     "name": "Devastating Tackle",
     "initiative": 42,
-    "image": "frosthaven/decks/ruined-machine/6.png"
+    "image": "/frosthaven/decks/ruined-machine/6.png"
   },
   {
     "name": "Signal Jam",
     "initiative": 56,
-    "image": "frosthaven/decks/ruined-machine/7.png"
+    "image": "/frosthaven/decks/ruined-machine/7.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 63,
-    "image": "frosthaven/decks/ruined-machine/3.png"
+    "image": "/frosthaven/decks/ruined-machine/3.png"
   },
   {
     "name": "Calculated Strike",
     "initiative": 85,
-    "image": "frosthaven/decks/ruined-machine/4.png"
+    "image": "/frosthaven/decks/ruined-machine/4.png"
   },
   {
     "name": "Self-Destruct",
     "initiative": 93,
-    "image": "frosthaven/decks/ruined-machine/8.png"
+    "image": "/frosthaven/decks/ruined-machine/8.png"
   }
 ]

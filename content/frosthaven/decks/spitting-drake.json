@@ -2,41 +2,41 @@
   {
     "name": "Empowring Rest",
     "initiative": 6,
-    "image": "frosthaven/decks/spitting-drake/7.png"
+    "image": "/frosthaven/decks/spitting-drake/7.png"
   },
   {
     "name": "Venom Glands",
     "initiative": 27,
-    "image": "frosthaven/decks/spitting-drake/4.png"
+    "image": "/frosthaven/decks/spitting-drake/4.png"
   },
   {
     "name": "Hasty Assault",
     "initiative": 32,
-    "image": "frosthaven/decks/spitting-drake/1.png"
+    "image": "/frosthaven/decks/spitting-drake/1.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 52,
-    "image": "frosthaven/decks/spitting-drake/2.png"
+    "image": "/frosthaven/decks/spitting-drake/2.png"
   },
   {
     "name": "Splashing Bile",
     "initiative": 57,
-    "image": "frosthaven/decks/spitting-drake/3.png"
+    "image": "/frosthaven/decks/spitting-drake/3.png"
   },
   {
     "name": "Calculated Strike",
     "initiative": 87,
-    "image": "frosthaven/decks/spitting-drake/5.png"
+    "image": "/frosthaven/decks/spitting-drake/5.png"
   },
   {
     "name": "Subduing Spit",
     "initiative": 89,
-    "image": "frosthaven/decks/spitting-drake/6.png"
+    "image": "/frosthaven/decks/spitting-drake/6.png"
   },
   {
     "name": "Explosive Vomit",
     "initiative": 89,
-    "image": "frosthaven/decks/spitting-drake/8.png"
+    "image": "/frosthaven/decks/spitting-drake/8.png"
   }
 ]

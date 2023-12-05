@@ -2,41 +2,41 @@
   {
     "name": "Eternal Life",
     "initiative": 12,
-    "image": "frosthaven/decks/living-bones/8.png"
+    "image": "/frosthaven/decks/living-bones/8.png"
   },
   {
     "name": "Drain Life",
     "initiative": 20,
-    "image": "frosthaven/decks/living-bones/2.png"
+    "image": "/frosthaven/decks/living-bones/2.png"
   },
   {
     "name": "Hasty Assault",
     "initiative": 25,
-    "image": "frosthaven/decks/living-bones/3.png"
+    "image": "/frosthaven/decks/living-bones/3.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 45,
-    "image": "frosthaven/decks/living-bones/4.png"
+    "image": "/frosthaven/decks/living-bones/4.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 45,
-    "image": "frosthaven/decks/living-bones/5.png"
+    "image": "/frosthaven/decks/living-bones/5.png"
   },
   {
     "name": "Calculated Strike",
     "initiative": 64,
-    "image": "frosthaven/decks/living-bones/1.png"
+    "image": "/frosthaven/decks/living-bones/1.png"
   },
   {
     "name": "Focused Stabs",
     "initiative": 74,
-    "image": "frosthaven/decks/living-bones/7.png"
+    "image": "/frosthaven/decks/living-bones/7.png"
   },
   {
     "name": "Power Slash",
     "initiative": 81,
-    "image": "frosthaven/decks/living-bones/6.png"
+    "image": "/frosthaven/decks/living-bones/6.png"
   }
 ]

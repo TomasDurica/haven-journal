@@ -2,41 +2,41 @@
   {
     "name": "Ray of Warmth",
     "initiative": 17,
-    "image": "frosthaven/decks/sun-demon/1.png"
+    "image": "/frosthaven/decks/sun-demon/1.png"
   },
   {
     "name": "Brilliant Aura",
     "initiative": 36,
-    "image": "frosthaven/decks/sun-demon/2.png"
+    "image": "/frosthaven/decks/sun-demon/2.png"
   },
   {
     "name": "Brilliant Aura",
     "initiative": 36,
-    "image": "frosthaven/decks/sun-demon/3.png"
+    "image": "/frosthaven/decks/sun-demon/3.png"
   },
   {
     "name": "Shining Orb",
     "initiative": 50,
-    "image": "frosthaven/decks/sun-demon/8.png"
+    "image": "/frosthaven/decks/sun-demon/8.png"
   },
   {
     "name": "Star Strike",
     "initiative": 68,
-    "image": "frosthaven/decks/sun-demon/4.png"
+    "image": "/frosthaven/decks/sun-demon/4.png"
   },
   {
     "name": "Vicious Opportunity",
     "initiative": 73,
-    "image": "frosthaven/decks/sun-demon/5.png"
+    "image": "/frosthaven/decks/sun-demon/5.png"
   },
   {
     "name": "Glowing Sweep",
     "initiative": 88,
-    "image": "frosthaven/decks/sun-demon/7.png"
+    "image": "/frosthaven/decks/sun-demon/7.png"
   },
   {
     "name": "Supernova",
     "initiative": 95,
-    "image": "frosthaven/decks/sun-demon/6.png"
+    "image": "/frosthaven/decks/sun-demon/6.png"
   }
 ]

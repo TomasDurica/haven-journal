@@ -2,41 +2,41 @@
   {
     "name": "Parry and Thrust",
     "initiative": 15,
-    "image": "frosthaven/decks/guard/1.png"
+    "image": "/frosthaven/decks/guard/1.png"
   },
   {
     "name": "Venom Shiv",
     "initiative": 15,
-    "image": "frosthaven/decks/guard/4.png"
+    "image": "/frosthaven/decks/guard/4.png"
   },
   {
     "name": "Hasty Assault",
     "initiative": 30,
-    "image": "frosthaven/decks/guard/5.png"
+    "image": "/frosthaven/decks/guard/5.png"
   },
   {
     "name": "Throwing Axe",
     "initiative": 35,
-    "image": "frosthaven/decks/guard/3.png"
+    "image": "/frosthaven/decks/guard/3.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 50,
-    "image": "frosthaven/decks/guard/6.png"
+    "image": "/frosthaven/decks/guard/6.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 50,
-    "image": "frosthaven/decks/guard/7.png"
+    "image": "/frosthaven/decks/guard/7.png"
   },
   {
     "name": "Psych Up",
     "initiative": 55,
-    "image": "frosthaven/decks/guard/8.png"
+    "image": "/frosthaven/decks/guard/8.png"
   },
   {
     "name": "Calculated Strike",
     "initiative": 70,
-    "image": "frosthaven/decks/guard/2.png"
+    "image": "/frosthaven/decks/guard/2.png"
   }
 ]

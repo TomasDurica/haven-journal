@@ -2,41 +2,41 @@
   {
     "name": "Repair Drones",
     "initiative": 16,
-    "image": "frosthaven/decks/robotic-boltshooter/8.png"
+    "image": "/frosthaven/decks/robotic-boltshooter/8.png"
   },
   {
     "name": "Safety Valve",
     "initiative": 22,
-    "image": "frosthaven/decks/robotic-boltshooter/2.png"
+    "image": "/frosthaven/decks/robotic-boltshooter/2.png"
   },
   {
     "name": "Sharpshooter",
     "initiative": 44,
-    "image": "frosthaven/decks/robotic-boltshooter/3.png"
+    "image": "/frosthaven/decks/robotic-boltshooter/3.png"
   },
   {
     "name": "Retracted Assault",
     "initiative": 48,
-    "image": "frosthaven/decks/robotic-boltshooter/4.png"
+    "image": "/frosthaven/decks/robotic-boltshooter/4.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 57,
-    "image": "frosthaven/decks/robotic-boltshooter/5.png"
+    "image": "/frosthaven/decks/robotic-boltshooter/5.png"
   },
   {
     "name": "Focus Fire",
     "initiative": 78,
-    "image": "frosthaven/decks/robotic-boltshooter/7.png"
+    "image": "/frosthaven/decks/robotic-boltshooter/7.png"
   },
   {
     "name": "Calculated Shot",
     "initiative": 83,
-    "image": "frosthaven/decks/robotic-boltshooter/1.png"
+    "image": "/frosthaven/decks/robotic-boltshooter/1.png"
   },
   {
     "name": "Ballista Bolt",
     "initiative": 91,
-    "image": "frosthaven/decks/robotic-boltshooter/6.png"
+    "image": "/frosthaven/decks/robotic-boltshooter/6.png"
   }
 ]

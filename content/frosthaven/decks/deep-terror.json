@@ -2,41 +2,41 @@
   {
     "name": "Ray of Hate",
     "initiative": 54,
-    "image": "frosthaven/decks/deep-terror/8.png"
+    "image": "/frosthaven/decks/deep-terror/8.png"
   },
   {
     "name": "Beam of Annihilation",
     "initiative": 60,
-    "image": "frosthaven/decks/deep-terror/2.png"
+    "image": "/frosthaven/decks/deep-terror/2.png"
   },
   {
     "name": "Beam of Annihilation",
     "initiative": 60,
-    "image": "frosthaven/decks/deep-terror/3.png"
+    "image": "/frosthaven/decks/deep-terror/3.png"
   },
   {
     "name": "Horrible Glare",
     "initiative": 65,
-    "image": "frosthaven/decks/deep-terror/1.png"
+    "image": "/frosthaven/decks/deep-terror/1.png"
   },
   {
     "name": "Rooted Fear",
     "initiative": 75,
-    "image": "frosthaven/decks/deep-terror/5.png"
+    "image": "/frosthaven/decks/deep-terror/5.png"
   },
   {
     "name": "Disruptive Frenzy",
     "initiative": 75,
-    "image": "frosthaven/decks/deep-terror/6.png"
+    "image": "/frosthaven/decks/deep-terror/6.png"
   },
   {
     "name": "Burning Gaze",
     "initiative": 84,
-    "image": "frosthaven/decks/deep-terror/4.png"
+    "image": "/frosthaven/decks/deep-terror/4.png"
   },
   {
     "name": "Terrible Growth",
     "initiative": 96,
-    "image": "frosthaven/decks/deep-terror/7.png"
+    "image": "/frosthaven/decks/deep-terror/7.png"
   }
 ]

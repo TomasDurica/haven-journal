@@ -2,41 +2,41 @@
   {
     "name": "Ice Wall",
     "initiative": 8,
-    "image": "frosthaven/decks/algox-icespeaker/5.png"
+    "image": "/frosthaven/decks/algox-icespeaker/5.png"
   },
   {
     "name": "One with the Earth",
     "initiative": 12,
-    "image": "frosthaven/decks/algox-icespeaker/8.png"
+    "image": "/frosthaven/decks/algox-icespeaker/8.png"
   },
   {
     "name": "Warding Swipe",
     "initiative": 17,
-    "image": "frosthaven/decks/algox-icespeaker/1.png"
+    "image": "/frosthaven/decks/algox-icespeaker/1.png"
   },
   {
     "name": "Frozen Debris",
     "initiative": 39,
-    "image": "frosthaven/decks/algox-icespeaker/4.png"
+    "image": "/frosthaven/decks/algox-icespeaker/4.png"
   },
   {
     "name": "Two-Fisted Strike",
     "initiative": 41,
-    "image": "frosthaven/decks/algox-icespeaker/3.png"
+    "image": "/frosthaven/decks/algox-icespeaker/3.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 56,
-    "image": "frosthaven/decks/algox-icespeaker/6.png"
+    "image": "/frosthaven/decks/algox-icespeaker/6.png"
   },
   {
     "name": "Knockout Punch",
     "initiative": 76,
-    "image": "frosthaven/decks/algox-icespeaker/2.png"
+    "image": "/frosthaven/decks/algox-icespeaker/2.png"
   },
   {
     "name": "Terrifying Growl",
     "initiative": 80,
-    "image": "frosthaven/decks/algox-icespeaker/7.png"
+    "image": "/frosthaven/decks/algox-icespeaker/7.png"
   }
 ]

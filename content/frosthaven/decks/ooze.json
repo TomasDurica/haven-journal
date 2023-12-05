@@ -2,41 +2,41 @@
   {
     "name": "Hasty Assault",
     "initiative": 36,
-    "image": "frosthaven/decks/ooze/1.png"
+    "image": "/frosthaven/decks/ooze/1.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 57,
-    "image": "frosthaven/decks/ooze/2.png"
+    "image": "/frosthaven/decks/ooze/2.png"
   },
   {
     "name": "Toxic Explosion",
     "initiative": 59,
-    "image": "frosthaven/decks/ooze/3.png"
+    "image": "/frosthaven/decks/ooze/3.png"
   },
   {
     "name": "Calculated Strike",
     "initiative": 66,
-    "image": "frosthaven/decks/ooze/5.png"
+    "image": "/frosthaven/decks/ooze/5.png"
   },
   {
     "name": "Feed",
     "initiative": 66,
-    "image": "frosthaven/decks/ooze/8.png"
+    "image": "/frosthaven/decks/ooze/8.png"
   },
   {
     "name": "Plasma Ward",
     "initiative": 85,
-    "image": "frosthaven/decks/ooze/4.png"
+    "image": "/frosthaven/decks/ooze/4.png"
   },
   {
     "name": "Split",
     "initiative": 94,
-    "image": "frosthaven/decks/ooze/6.png"
+    "image": "/frosthaven/decks/ooze/6.png"
   },
   {
     "name": "",
     "initiative": 94,
-    "image": "frosthaven/decks/ooze/7.png"
+    "image": "/frosthaven/decks/ooze/7.png"
   }
 ]

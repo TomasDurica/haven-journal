@@ -2,41 +2,41 @@
   {
     "name": "Freezing Embrace",
     "initiative": 23,
-    "image": "frosthaven/decks/frozen-corpse/1.png"
+    "image": "/frosthaven/decks/frozen-corpse/1.png"
   },
   {
     "name": "Frost Breath",
     "initiative": 39,
-    "image": "frosthaven/decks/frozen-corpse/7.png"
+    "image": "/frosthaven/decks/frozen-corpse/7.png"
   },
   {
     "name": "Cold Snap",
     "initiative": 42,
-    "image": "frosthaven/decks/frozen-corpse/3.png"
+    "image": "/frosthaven/decks/frozen-corpse/3.png"
   },
   {
     "name": "Cold Snap",
     "initiative": 42,
-    "image": "frosthaven/decks/frozen-corpse/4.png"
+    "image": "/frosthaven/decks/frozen-corpse/4.png"
   },
   {
     "name": "Thawed Strike",
     "initiative": 68,
-    "image": "frosthaven/decks/frozen-corpse/5.png"
+    "image": "/frosthaven/decks/frozen-corpse/5.png"
   },
   {
     "name": "Thawed Strike",
     "initiative": 68,
-    "image": "frosthaven/decks/frozen-corpse/6.png"
+    "image": "/frosthaven/decks/frozen-corpse/6.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 71,
-    "image": "frosthaven/decks/frozen-corpse/2.png"
+    "image": "/frosthaven/decks/frozen-corpse/2.png"
   },
   {
     "name": "Icy Swipe",
     "initiative": 84,
-    "image": "frosthaven/decks/frozen-corpse/8.png"
+    "image": "/frosthaven/decks/frozen-corpse/8.png"
   }
 ]

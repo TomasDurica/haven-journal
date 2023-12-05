@@ -2,41 +2,41 @@
   {
     "name": "Empowering Rest",
     "initiative": 6,
-    "image": "frosthaven/decks/rending-drake/8.png"
+    "image": "/frosthaven/decks/rending-drake/8.png"
   },
   {
     "name": "Hasty Assault",
     "initiative": 12,
-    "image": "frosthaven/decks/rending-drake/1.png"
+    "image": "/frosthaven/decks/rending-drake/1.png"
   },
   {
     "name": "Swift Claws",
     "initiative": 13,
-    "image": "frosthaven/decks/rending-drake/2.png"
+    "image": "/frosthaven/decks/rending-drake/2.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 25,
-    "image": "frosthaven/decks/rending-drake/3.png"
+    "image": "/frosthaven/decks/rending-drake/3.png"
   },
   {
     "name": "Calculated Strike",
     "initiative": 39,
-    "image": "frosthaven/decks/rending-drake/4.png"
+    "image": "/frosthaven/decks/rending-drake/4.png"
   },
   {
     "name": "Venom Glands",
     "initiative": 54,
-    "image": "frosthaven/decks/rending-drake/5.png"
+    "image": "/frosthaven/decks/rending-drake/5.png"
   },
   {
     "name": "Dangerous Fury",
     "initiative": 59,
-    "image": "frosthaven/decks/rending-drake/6.png"
+    "image": "/frosthaven/decks/rending-drake/6.png"
   },
   {
     "name": "Unending Frenzy",
     "initiative": 72,
-    "image": "frosthaven/decks/rending-drake/7.png"
+    "image": "/frosthaven/decks/rending-drake/7.png"
   }
 ]

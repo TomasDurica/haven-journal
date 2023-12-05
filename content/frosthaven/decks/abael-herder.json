@@ -2,41 +2,41 @@
   {
     "name": "Guide the School",
     "initiative": 12,
-    "image": "frosthaven/decks/abael-herder/6.png"
+    "image": "/frosthaven/decks/abael-herder/6.png"
   },
   {
     "name": "Briny Bristles",
     "initiative": 18,
-    "image": "frosthaven/decks/abael-herder/1.png"
+    "image": "/frosthaven/decks/abael-herder/1.png"
   },
   {
     "name": "Fish Net",
     "initiative": 20,
-    "image": "frosthaven/decks/abael-herder/4.png"
+    "image": "/frosthaven/decks/abael-herder/4.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 56,
-    "image": "frosthaven/decks/abael-herder/8.png"
+    "image": "/frosthaven/decks/abael-herder/8.png"
   },
   {
     "name": "Heed the Pigs",
     "initiative": 65,
-    "image": "frosthaven/decks/abael-herder/7.png"
+    "image": "/frosthaven/decks/abael-herder/7.png"
   },
   {
     "name": "Pig Parade",
     "initiative": 68,
-    "image": "frosthaven/decks/abael-herder/3.png"
+    "image": "/frosthaven/decks/abael-herder/3.png"
   },
   {
     "name": "Desperate Herd",
     "initiative": 72,
-    "image": "frosthaven/decks/abael-herder/2.png"
+    "image": "/frosthaven/decks/abael-herder/2.png"
   },
   {
     "name": "Advancing Horde",
     "initiative": 88,
-    "image": "frosthaven/decks/abael-herder/5.png"
+    "image": "/frosthaven/decks/abael-herder/5.png"
   }
 ]

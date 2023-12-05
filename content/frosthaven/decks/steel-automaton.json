@@ -2,41 +2,41 @@
   {
     "name": "Immovable Object",
     "initiative": 10,
-    "image": "frosthaven/decks/steel-automaton/8.png"
+    "image": "/frosthaven/decks/steel-automaton/8.png"
   },
   {
     "name": "Body Block",
     "initiative": 24,
-    "image": "frosthaven/decks/steel-automaton/4.png"
+    "image": "/frosthaven/decks/steel-automaton/4.png"
   },
   {
     "name": "Unstoppable Force",
     "initiative": 45,
-    "image": "frosthaven/decks/steel-automaton/7.png"
+    "image": "/frosthaven/decks/steel-automaton/7.png"
   },
   {
     "name": "Heavy Footfalls",
     "initiative": 48,
-    "image": "frosthaven/decks/steel-automaton/2.png"
+    "image": "/frosthaven/decks/steel-automaton/2.png"
   },
   {
     "name": "Mortar Shell",
     "initiative": 64,
-    "image": "frosthaven/decks/steel-automaton/6.png"
+    "image": "/frosthaven/decks/steel-automaton/6.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 70,
-    "image": "frosthaven/decks/steel-automaton/5.png"
+    "image": "/frosthaven/decks/steel-automaton/5.png"
   },
   {
     "name": "Clobber",
     "initiative": 76,
-    "image": "frosthaven/decks/steel-automaton/3.png"
+    "image": "/frosthaven/decks/steel-automaton/3.png"
   },
   {
     "name": "Calculated Strike",
     "initiative": 95,
-    "image": "frosthaven/decks/steel-automaton/1.png"
+    "image": "/frosthaven/decks/steel-automaton/1.png"
   }
 ]

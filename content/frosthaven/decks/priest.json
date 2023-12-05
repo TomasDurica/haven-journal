@@ -2,41 +2,41 @@
   {
     "name": "Drain Speed",
     "initiative": 8,
-    "image": "frosthaven/decks/priest/1.png"
+    "image": "/frosthaven/decks/priest/1.png"
   },
   {
     "name": "Drain Strength",
     "initiative": 8,
-    "image": "frosthaven/decks/priest/2.png"
+    "image": "/frosthaven/decks/priest/2.png"
   },
   {
     "name": "Angry Hex",
     "initiative": 9,
-    "image": "frosthaven/decks/priest/8.png"
+    "image": "/frosthaven/decks/priest/8.png"
   },
   {
     "name": "Tend to the Clan",
     "initiative": 23,
-    "image": "frosthaven/decks/priest/4.png"
+    "image": "/frosthaven/decks/priest/4.png"
   },
   {
     "name": "Tend to the Clan",
     "initiative": 23,
-    "image": "frosthaven/decks/priest/5.png"
+    "image": "/frosthaven/decks/priest/5.png"
   },
   {
     "name": "Nothing Special",
     "initiative": 62,
-    "image": "frosthaven/decks/priest/3.png"
+    "image": "/frosthaven/decks/priest/3.png"
   },
   {
     "name": "Calculated Strike",
     "initiative": 74,
-    "image": "frosthaven/decks/priest/6.png"
+    "image": "/frosthaven/decks/priest/6.png"
   },
   {
     "name": "Divine Energy",
     "initiative": 89,
-    "image": "frosthaven/decks/priest/7.png"
+    "image": "/frosthaven/decks/priest/7.png"
   }
 ]
