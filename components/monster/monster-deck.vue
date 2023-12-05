@@ -36,36 +36,36 @@ import { type MonsterResult, useDeck } from '~/composables/useMonster'
         {{ monster.name }}
       </div>
 
-      <div class="text-4 flex flex-row justify-around px-8">
+      <div class="text-4 flex flex-row flex-wrap gap-2 justify-around px-8">
         <div class="flex gap-2">
-          <span>
+          <span class="text-right">
             <client-only v-if="monster.normal"> {{ monster.normal.health }} </client-only>
           </span>
           <div class="i-fh-hp h-6 w-6"/>
           <client-only>
-            <span v-if="monster.elite" class="text-yellow"> {{ monster.elite.health }} </span>
-            <span v-if="monster.boss" class="text-red"> {{ monster.boss.health }} </span>
+            <span v-if="monster.elite" class="text-yellow text-left"> {{ monster.elite.health }} </span>
+            <span v-if="monster.boss" class="text-red text-left"> {{ monster.boss.health }} </span>
           </client-only>
         </div>
         <div class="flex gap-2">
-          <span>
+          <span class="text-right">
             <client-only v-if="monster.normal"> {{ monster.normal.movement }} </client-only>
           </span>
           <div v-if="monster.flying" class="i-fh-fly h-6 w-6"/>
           <div v-else class="i-fh-move h-6 w-6"/>
           <client-only>
-            <span v-if="monster.elite" class="text-yellow"> {{ monster.elite.movement }} </span>
-            <span v-if="monster.boss" class="text-red"> {{ monster.boss.movement }} </span>
+            <span v-if="monster.elite" class="text-yellow text-left"> {{ monster.elite.movement }} </span>
+            <span v-if="monster.boss" class="text-red text-left"> {{ monster.boss.movement }} </span>
           </client-only>
         </div>
         <div class="flex gap-2">
-          <span>
+          <span class="text-right">
             <client-only v-if="monster.normal"> {{ monster.normal.attack }} </client-only>
           </span>
           <div class="i-fh-attack h-6 w-6"/>
           <client-only>
-            <span v-if="monster.elite" class="text-yellow"> {{ monster.elite.attack }} </span>
-            <span v-if="monster.boss" class="text-red"> {{ monster.boss.attack }} </span>
+            <span v-if="monster.elite" class="text-yellow text-left"> {{ monster.elite.attack }} </span>
+            <span v-if="monster.boss" class="text-red text-left"> {{ monster.boss.attack }} </span>
           </client-only>
         </div>
       </div>

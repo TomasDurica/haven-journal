@@ -25,7 +25,7 @@
 </script>
 
 <template>
-  <section class="py-4 b-b-1 b-dark-400 space-y-2" v-bind="$attrs">
+  <section class="py-4 b-b-1 b-dark-400 space-y-2 max-w-screen overflow-y-auto" v-bind="$attrs">
     <div class="flex gap-2">
       <div v-if="monster.normal" class="flex-1 flex flex-col items-end text-3">
         <div class="flex-1 flex gap-2 items-end pb-1">
